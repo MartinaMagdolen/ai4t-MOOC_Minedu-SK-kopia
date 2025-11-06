@@ -1,0 +1,62 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<section class="home-container">
+<div class="md-grid md-typeset">
+  <div class="home-hero">
+    <div class="home-hero-content">
+      <h1>AI4T: Explore and support the use of AI in education</h1>
+    </div>
+  </div>
+</div>
+</section>
+<section class="home-embed">
+  <div class="md-grid md-typeset">
+    <div class="embed-yt">
+      <iframe src="https://www.youtube.com/embed/WCVAcoFxjiI?si=6ek46y-148brpGEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>
+{% if config.extra.parts %}
+  {% for part in config.extra.parts %}
+  <section>
+    <div class="md-grid md-typeset">
+      <div class="home-section">
+        <h2>{{part.title[i18n_page_locale]}}</h2>
+        <div class="md-flex">
+          {% for card in part.cards %}
+          <div class="md-card">
+            {% if i18n_page_locale in card.img %}
+            <img src="{{card.img[i18n_page_locale]}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% else %}
+            <img src="{{card.img}}" alt="{{card.desc[i18n_page_locale]}}"/>
+            {% endif %}
+            <div class="md-card-body">
+              <h3>{{card.title[i18n_page_locale]}}</h3>
+              <p>{{card.desc[i18n_page_locale]}}</p>
+              {% if i18n_page_locale in card.url %}
+                <a href="{{ card.url[i18n_page_locale]|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">
+                  {{config.extra.trad['See'][i18n_page_locale]}}
+                </a>
+              {% else %}
+                <a href="{{ card.url|url }}" target="_blank" title="{{card.title[i18n_page_locale]}}" class="md-button">
+                  {{config.extra.trad['See'][i18n_page_locale]}}
+                </a>
+              {% endif %}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+        <!-- <a href="{{part.url}}" title="{{config.extra.trad['See all'][i18n_page_locale]}}" class="md-button md-button--primary">
+          {{config.extra.trad['See all'][i18n_page_locale]}}
+        </a> -->
+      </div>
+    </div>
+  </section>
+  {% endfor %}
+{% endif %}
+
+{% endblock %}
+{% block content %}
+{{ page.content }}
+{% endblock %}
