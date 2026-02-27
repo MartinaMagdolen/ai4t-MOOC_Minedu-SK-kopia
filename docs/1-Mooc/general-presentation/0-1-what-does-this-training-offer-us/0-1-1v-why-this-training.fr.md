@@ -1,9 +1,10 @@
 ---
-názov: "0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní".
+názov: "0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní"
 popis: Rozhovor s Alainom Thillayom – jedným z iniciátorov projektu
 prispievateľ: Alain Thillay
 typ: video
 ---
+
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M0.1.1v
     - Názov: 0.1.1 Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
