@@ -19,8 +19,8 @@ Online vzdelávací kurz pre učiteľov, ktorého obsah a aktivity sa zameriavaj
 Súbor doplnkových zdrojov a nástrojov súvisiacich s umelou inteligenciou vo vzdelávaní alebo mimo neho, ktoré používali učitelia počas experimentálnej fázy európskeho projektu AI4T.  
 ✅ [Preskúmajte niektoré vzdelávacie AI nástroje a zistite viac o AI](https://inrialearninglab.github.io/ai4t//2-Project-resources/0-presentation/0-1-presentation-AI4T-resources.fr.html)
 
-- 🧰 Sekcia **Zostavte si vlastnéškolenie**  
+- 🧰 Sekcia **Zostavte si vlastné školenie**  
 Metodika vyvinutá na implementáciu MOOC na rôznych e-learningových platformách. Slúži na pomoc tým, ktorí chcú opätovne použiť zdroje MOOC z kurzu, preložiť ich do iného jazyka a vytvoriť pomocou nich vlastné školenie zamerané na umelú inteligenciu.  
-✅ [Opätovne použite, usporiatajte, vylepšite, preložte a zdieľajte učebné materiály z projektu AI4T](https://inrialearninglab.github.io/ai4t//3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.fr.html)
+✅ [Opätovne použite, usporiadajte, vylepšite, preložte a zdieľajte učebné materiály z projektu AI4T](https://inrialearninglab.github.io/ai4t//3-Build-your-own-training/3-0-Intro-The-forge/3-0-1-Map-Build-your-own-training.fr.html)
 
 *Tento kurz bol vyvinutý, testovaný a vyhodnocovaný v piatich európskych krajinách (Francúzsko, Írsko, Taliansko, Luxembursko a Slovinsko) v rámci [európskeho projektu AI4T](https://www.ai4t.eu/), ktorý sa realizoval v rámci programu Erasmus+. Do tejto spolupráce sa zapojilo 17 partnerov (ministerstvá, univerzity, školiace organizácie atď.) s cieľom pomôcť pri školení učiteľov a riaditeľov škôl v oblasti AI vo vzdelávaní, pričom rozsah bol zámerne obmedzený na stredoškolskú matematiku, prírodné vedy a angličtinu. Projekt bol oficiálne spustený 28. februára 2021 a trval tri roky.
