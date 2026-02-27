@@ -18,15 +18,15 @@ typ: video
     - Dátum: 2022-11-15
 
 
-# Rozhovor : Výzvy umelej inteligencie vo vzdelávaní
-V nasledujúcom videu francúzsky národný expert na digitálne vzdelávanie Alain Thillay predstavuje výzvy umelej inteligencie vo vzdelávaní, ako aj ciele tohto školenia o využívaní AI vo vzdelávaní pre európskych učiteľov a riaditeľov škôl.
+# Rozhovor: Výzvy umelej inteligencie vo vzdelávaní
+V nasledujúcom videu francúzsky národný expert na digitálne vzdelávanie Alain Thillay predstavuje výzvy umelej inteligencie vo vzdelávaní. Okrem toho prezentuje aj ciele tohto školenia o využívaní AI vo vzdelávaní, určeného pre európskych učiteľov a riaditeľov škôl.
 
-## Prezentácia rečníka
-*Od októbra 2021 je Alain Thillay vyslaným národným expertom (VNE), ktorého francúzske ministerstvo školstva vyslalo do Európskej komisie na oddelenie digitálneho vzdelávania Generálneho riaditeľstva pre vzdelávanie, mládež, šport a kultúru.  
-*Od roku 1987 vo Francúzsku pôsobí ako učiteľ dejepisu a geografie, pred 10 rokmi nastúpil na oddelenie digitálneho vzdelávanie v Paríži.  
-*V súčasnosti pracuje na realizácii plánu digitálneho vzdelávania na roky 2021 – 2027 na podporu digitálnej transformácie a inovácií vo vzdelávaní.
+## Predstavenie rečníka
+- Od októbra 2021 je Alain Thillay vyslaným národným expertom (VNE) v Európskej komisii, ktorého francúzske ministerstvo školstva vyslalo na oddelenie digitálneho vzdelávania Generálneho riaditeľstva pre vzdelávanie, mládež, šport a kultúru.  
+- Od roku 1987 vo Francúzsku pôsobí ako učiteľ dejepisu a geografie, pred 10 rokmi nastúpil na oddelenie digitálneho vzdelávania v Paríži.  
+- V súčasnosti pracuje na realizácii plánu digitálneho vzdelávania na roky 2021 – 2027 s cieľom podporiť digitálnu transformáciu a inovácie vo vzdelávaní.
 
-## Umelá inteligencia vo vzdelávaní: pochopenie, experimentovanie, rozvoj digitálnych a etických zručností.
+## Umelá inteligencia vo vzdelávaní: pochopenie témy, experimentovanie, rozvoj digitálnych a etických zručností.
 **Krátka prezentácia**  
 Pozrite si nasledujúce video (1 min 48 s).
 
