@@ -38,8 +38,8 @@ Druhá úroveň – **experimentovanie a rozumné využíanie AI** – sa zamer
 
 Zámerom je ponúknuť učiteľom možnosť identifikovať, otestovať a vyhodnotiť prínosy použitého zdroja. Rovnako im má ukázať kontexty a situácie, v ktorých je relevantný a v ktorých nie.
 
-Ďalším cieľom je posúdiť integráciu AI nástrojov do širšieho a komplexnejšieho rámca vzdelávacej dráhy študenta. Ako všetci vieme, doplnenie mikrovzdelávania neprebieha automaticky. Používanie AI na špecializované učenie je užitočné. Umožňuje napríklad analyzovať stopy učenia sa na pomerne jednoduchých predmetoch alebo optimálne využívať krivky zabúdania, ale nenahrádza kontakt a ocenenie učiteľa v jeho každodennom vzťahu so žiakmi, ktorý tiež zohráva úlohu pri dlhodobom učení.
+Ďalším cieľom je posúdiť integráciu AI nástrojov do širšieho a komplexnejšieho rámca vzdelávacej dráhy študenta. Ako všetci vieme, doplnenie mikrovzdelávania neprebieha automaticky. Používanie AI na špecializované učenie je užitočné. Umožňuje napríklad analyzovať stopy učenia sa na pomerne jednoduchých predmetoch alebo optimálne využívať krivky zabúdania, ale nenahrádza každodenný kontakt s učiteľom a ocenenie, čo sú prvky, ktoré tiež zohrávajú úlohu pri dlhodobom učení.
 
-Tretia úroveň vyzýva účastníkov, aby nezostali zameraní len na technické otázky alebo učebné hodiny, ale aby sa **vymenili v rámci svojej školy so svojimi kolegami a vedením** a aby sa podelili o zmeny, ktoré vznikli v dôsledku AI v poslaní školy.
+Tretia úroveň nabáda účastníkov, aby sa nezameriavali iba na technické otázky či predmetové učenie, ale aby sa **delili o získané poznatky v rámci školy so svojimi kolegami a vedením** a aby sa podieľali na napĺňaní poslania školy s dôrazom na spolunažívanie, rovnosť a rešpektovanie ľudských práv.
 
-Ako pri každej vzdelávacej činnosti je etický rozmer prierezovou zložkou. Umelá inteligencia ju stavia do popredia o to viac, že oblasti jej použitia - najmä vo vzdelávaní - je ešte potrebné definovať a skúmať jej účinky.
+Ako pri každej vzdelávacej činnosti je etický rozmer prierezovou zložkou. Umelá inteligencia ju stavia do popredia ešte viac, pretože ešte stále treba definovať oblasti jej použitia (najmä vo vzdelávaní) a skúmať jej účinky.
