@@ -1,5 +1,5 @@
 ---
-názov: "1.0.1 Prezentácia modulu 1
+názov: 1.0.1 Prezentácia modulu 1
 popis: Prezentácia modulu 1
 ---
 ??? info "Metadáta
