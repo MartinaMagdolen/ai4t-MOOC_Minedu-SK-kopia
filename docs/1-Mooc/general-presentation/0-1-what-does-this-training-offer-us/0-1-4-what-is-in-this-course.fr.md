@@ -16,14 +16,14 @@ popis: Prezentácia obsahu a usporiadania MOOC kurzu
 # Čo tento kurz obsahuje?
 
 ## Cieľ kurzu
-Hlavným cieľom tohto kurzu je poskytnúť učiteľom a celej vzdelávacej komunite základné alebo pokročilejšie poznatky o umelej inteligencii: pochopenie umelej inteligencie, ako aj jej fungovania, výziev a dôsledkov.
+Hlavným cieľom tohto kurzu je poskytnúť učiteľom a celej vzdelávacej komunite základné alebo pokročilejšie poznatky o umelej inteligencii: pochopiť umelú inteligenciu, ako aj jej fungovanie, výzvy a dôsledky.
 
 Konkrétnejšie bol tento kurz navrhnutý tak, aby pomohol učiteľom vytvoriť si vlastný názor na nasledujúce otázky:
 
-- Aký je účel umelej inteligencie v kontexte vzdelávania?
+- Aký je účel AI v kontexte vzdelávania?
 - Aký typ AI na aký účel?
-- Aké sú výhody a výzvy?
-- Ako sa využívať zdroje založené na AI?
+- Aké sú výhody a výzvy AI?
+- Ako využívať zdroje založené na AI?
 - Aký vplyv AI môžeme očakávať vo vyučovacích a vzdelávacích postupoch?
 
 ## Usporiadanie kurzu
@@ -35,7 +35,7 @@ Kurz je rozdelený do 4 modulov:
 - M3. Ako umelá inteligencia funguje?
 - M4. Umelá inteligencia v službách učiteľov
 
-Celkové trvanie kurzu sa odhaduje na 2 až 3 hodiny v závislosti od toho, koľko času chcete venovať aktivitám a konzultáciám a práci s doplnkovými materiálmi.
+Celkové trvanie kurzu sa odhaduje na 2 až 3 hodiny v závislosti od toho, koľko času chcete venovať aktivitám a práci s doplnkovými materiálmi.
 
 ## Typy obsahu
 
