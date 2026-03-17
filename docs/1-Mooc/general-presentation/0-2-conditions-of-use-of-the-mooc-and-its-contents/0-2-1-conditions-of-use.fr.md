@@ -22,7 +22,7 @@ Konzorcium AI4T sa rozhodlo uplatniť licenciu, ktorá umožňuje rôzne použí
 
 ### Používanie vzdelávacích zdrojov z MOOC kurzu
 
-Pokiaľ nie je uvedené inak, **vzdelávacie zdroje** sa šíria pod licenciou [Creative Commons CC-BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.fr):
+Pokiaľ nie je uvedené inak, **vzdelávacie zdroje** sa šíria pod licenciou [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr):
 
 **Uvedenie autora**. Držiteľ práv povoľuje akékoľvek použitie diela vrátane použitia na komerčné účely, ako aj vytváranie odvodených diel, ktorých šírenie je tiež povolené bez obmedzenia. To všetko je možné za predpokladu, že sa pri takomto použití uvedie meno pôvodného autora.
 
