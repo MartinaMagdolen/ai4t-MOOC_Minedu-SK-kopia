@@ -1,5 +1,5 @@
 ---
-názov: 0.4.1 Partneri
+názov: 0.4.1 Partneri a financovanie
 popis: Partneri, financovanie a upozornenia
 ---
 ??? info "Metadáta
@@ -14,7 +14,7 @@ popis: Partneri, financovanie a upozornenia
     - Dátum: 2022-11-15
 
 
-# Credits
+# Financovanie
 MOOC kurz AI4T je financovaný z grantu č. 626154-EPP-1-2020-2-EN-EPPKA3-PI-POLICY agentúry EK EACEA v rámci projektu Erasmus+ KA3: Umelá inteligencia pre učiteľov a od učiteľov.
 
 <figure>
