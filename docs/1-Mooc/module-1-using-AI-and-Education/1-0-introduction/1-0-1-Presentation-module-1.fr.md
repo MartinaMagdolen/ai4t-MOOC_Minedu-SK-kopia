@@ -16,7 +16,7 @@ popis: Predstavenie 1. modulu
 # Predstavenie 1. modulu
 V posledných rokoch sa umelá inteligencia (AI) stala súčasťou nášho každodenného života, napríklad na identifikovanie spamových e-mailov či na výber obsahu podľa našich preferencií na sociálnych sieťach.
 
-Keď sa pozrieme na vplyv umelej inteligencie na rôzne profesie, v nasledujúcich rokoch sa AI dotkne nielen rušňovodičov či pracovníkov za prepážkou, ale ovplyvní aj odvetvia bankovníctva, poisťovníctva, účtovníctva, administratívy či manažmentu.
+Keď sa pozrieme na vplyv umelej inteligencie na rôzne profesie, v nasledujúcich rokoch sa AI dotkne nielen rušňovodičov či pracovníkov pri priehradke, ale ovplyvní aj odvetvia bankovníctva, poisťovníctva, účtovníctva, administratívy či manažmentu.
 
 Ovplyvní vývoj týchto technológií v najbližších rokoch aj vzdelávanie?
 
