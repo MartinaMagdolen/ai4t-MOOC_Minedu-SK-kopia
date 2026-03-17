@@ -7,6 +7,7 @@ prispievateľ: Anne, Boyer - Loria
               Guilherme, Medeiros-Machado - Loria
 typ: video
 ---
+
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M1.1.1v
     - Názov: 1.1.1 Video : Prechádzka po umelej inteligencii - proces učenia vo vzdelávaní
