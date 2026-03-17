@@ -1,5 +1,5 @@
 ---
-názov: "1.1.2 Video : Prechádzka v umelej inteligencii - vedenie študentov k úspechu pozorovaním procesov učenia".
+názov: "1.1.2 Video: Prechádzka v umelej inteligencii - vedenie študentov k úspechu pozorovaním procesov učenia".
 popis: Video 2 Prechádzka v umelej inteligencii - vedenie študentov k úspechu pozorovaním procesov učenia
 prispievateľ: Anne, Boyer - Loria
               Armelle, Brun - Loria
