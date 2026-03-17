@@ -1,50 +1,50 @@
 ---
 názov: 0.1.4 Čo tento kurz obsahuje?
-popis: Prezentácia obsahu a organizácie Mooc
+popis: Prezentácia obsahu a usporiadania MOOC kurzu
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M0.1.4t
     - Názov: 0.1.4 Čo tento kurz obsahuje?
     - Typ: text
-    - Opis: Prezentácia obsahu a organizácie Mooc
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Opis: Prezentácia obsahu a usporiadania MOOC kurzu
+    - Predmet: AI pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Čo je v tomto kurze?
+# Čo tento kurz obsahuje?
 
 ## Cieľ kurzu
-Hlavným cieľom tohto kurzu je poskytnúť učiteľom a celej vzdelávacej komunite počiatočné alebo pokročilejšie znalosti o umelej inteligencii: pochopenie umelej inteligencie, jej fungovania, výziev a dôsledkov.
+Hlavným cieľom tohto kurzu je poskytnúť učiteľom a celej vzdelávacej komunite základné alebo pokročilejšie poznatky o umelej inteligencii: pochopenie umelej inteligencie, ako aj jej fungovania, výziev a dôsledkov.
 
-Konkrétnejšie bol tento kurz navrhnutý tak, aby pomohol účastníkom vytvoriť si vlastný názor na nasledujúce otázky:
+Konkrétnejšie bol tento kurz navrhnutý tak, aby pomohol učiteľom vytvoriť si vlastný názor na nasledujúce otázky:
 
-- Aký účel má umelá inteligencia v kontexte vzdelávania?
-- Aký typ UI na aký účel?
+- Aký je účel umelej inteligencie v kontexte vzdelávania?
+- Aký typ AI na aký účel?
 - Aké sú výhody a výzvy?
-- Ako sa môžu využívať zdroje založené na UI?
-- Aký vplyv môžeme očakávať vo vyučovacích a vzdelávacích postupoch?
+- Ako sa využívať zdroje založené na AI?
+- Aký vplyv AI môžeme očakávať vo vyučovacích a vzdelávacích postupoch?
 
-## Organizácia kurzu
+## Usporiadanie kurzu
 
 Kurz je rozdelený do 4 modulov:
 
 - M1. Využitie umelej inteligencie vo vzdelávaní
 - M2. Čo je to umelá inteligencia?
-- M3. Ako AI funguje?
-- M4. UI v našich službách ako učiteľov?
+- M3. Ako umelá inteligencia funguje?
+- M4. Umelá inteligencia v službách učiteľov
 
-Celkové trvanie kurzu sa odhaduje na 2 až 3 hodiny v závislosti od toho, koľko času chcete venovať aktivitám a konzultáciám s podpornými dokumentmi.
+Celkové trvanie kurzu sa odhaduje na 2 až 3 hodiny v závislosti od toho, koľko času chcete venovať aktivitám a konzultáciám a práci s doplnkovými materiálmi.
 
 ## Typy obsahu
 
 V tomto kurze je 5 typov obsahu:
 
-- Text: na objavenie krátkych zhrnutí založených na vedeckej literatúre a odborných správach.
-- Kvízy: krátke akcie (kvízy, preťahovanie, vypĺňanie prázdnych políčok atď.) na konci textov na ukotvenie prezentovaných pojmov.
-- Videá: na udelenie slova vedúcemu projektu alebo na objavovanie výziev v oblasti umelej inteligencie na podporu študentov. Niektoré videá sú prevzaté z francúzskeho Mooc "Umelá inteligencia s inteligenciou" a môžu sa použiť na hodine.
-- Aktivita: na podporu sebaspytovania, upevnenie vedomostí o etapách umelej inteligencie alebo na prenos predtým prečítaného alebo objaveného na konkrétne situácie.
-- Učebný materiál: na experimentovanie s tým, ako sa program "učí", a s úlohou údajov v strojovom učení.
+- Text: Slúži na prezentovanie krátkych zhrnutí založených na vedeckej literatúre a odborných správach.
+- Kvíz: Ide o krátke otázky (výber z viacerých možností, spájanie) na konci textov na ukotvenie prezentovaných konceptov.
+- Video: Udeľuje slovo propagátorovi projektu, prípadne umožňuje objavovať výzvy umelej inteligencie s cieľom podporovať študentov. Niektoré videá sú prevzaté z francúzskeho MOOC kurzu _Intelligence artificielle avec Intelligence_ (Umelá inteligencia s inteligenciou) a môžu sa použiť priamo na hodine.
+- Aktivita: Slúži na podporu sebareflexie, upevnenie vedomostí o míľnikoch umelej inteligencie alebo na využitie prečítaných či inak získaných poznatkov v konkrétnych situáciách.
+- Tutoriál: Slúži na experimentovanie s tým, ako sa program "učí", a ukazuje úlohu dát v strojovom učení.
 
-Teraz začnime a ponorme sa do srdca Moocu!
+Tak poďme na to a pustime sa do MOOC kurzu!
