@@ -1,11 +1,12 @@
 ---
-názov: "1.1.1 Video : Prechádzka po umelej inteligencii - proces učenia vo vzdelávaní".
-popis: "Video 1 A walk in AI - The learning process in education" - vo francúzštine
-prispievateľ: Anne, Boyer - Loria
-              Armelle, Brun - Loria
-              Azim, Roussanaly - Loria
-              Guilherme, Medeiros-Machado - Loria
-typ: video
+názov: "1.1.1 Video: Prechádzka po umelej inteligencii - proces učenia vo vzdelávaní"
+popis: "Video 1 A walk in AI - The learning process in education - vo francúzštine"
+prispievateľ:
+  - "Anne Boyer - Loria"
+  - "Armelle Brun - Loria"
+  - "Azim Roussanaly - Loria"
+  - "Guilherme Medeiros-Machado - Loria"
+typ: "video"
 ---
 
 ??? info "Metadáta
