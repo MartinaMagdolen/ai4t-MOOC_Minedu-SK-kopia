@@ -23,7 +23,7 @@ MOOC kurz AI4T je financovaný z grantu č. 626154-EPP-1-2020-2-EN-EPPKA3-PI-POL
 
 *Podpora Európskej komisie pri vytváraní tohto MOOC kurzu nie je schvaľovaním jeho obsahu, za ktorý sú zodpovední výlučne autori. Komisia nenesie zodpovednosť za akékoľvek použitie informácií, ktoré sú v kurze obsiahnuté.
 
-# Konzorcium AI4T združuje 17 partnerov.
+# Konzorcium AI4T združuje 17 partnerov
 
 <a href="https://www.ai4t.eu/partners/" target="_blank">
 <figure>
