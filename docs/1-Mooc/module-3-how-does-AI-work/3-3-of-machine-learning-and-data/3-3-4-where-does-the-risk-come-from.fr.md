@@ -1,75 +1,75 @@
 ---
-názov: "3.3.4 Odkiaľ pochádza riziko?
-opis: Identifikujte rôzne typy rizika
+title: "3.3.4 Where Does the Risk Come From?"
+description: Identify the different types of risks
 ---
-??? info "Metadáta
+??? info "Metadata"
     - Id: EU.AI4T.O1.M3.3.3t
-    - Názov: "3.3.3: 
-    - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a pre učiteľov 
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Title: 3.3.3 Where Does the Risk Come From?
+    - Type: text
+    - Description: Identify the different types of risks
+    - Subject: Artificial Intelligence for and by Teachers
+    - Authors:
         - AI4T 
-    - Licencia: CC BY 4.0
-    - Dátum: 2022-11-15
+    - Licence: CC BY 4.0
+    - Date: 2022-11-15
 
 
-# Odkiaľ pochádza riziko?
-Vo svojej štúdii o umelej inteligencii [^1] vedecká prognostická jednotka Európskeho parlamentu (STOA) uviedla: "*Dôležité je poznamenať, že algoritmy umelej inteligencie nemôžu byť objektívne, pretože rovnako ako ľudia si v priebehu svojho výcviku vytvoria spôsob, ako dať zmysel tomu, čo už videli, a tento "pohľad na svet" používajú na kategorizáciu nových situácií, ktoré sú im predložené.*"
+# Where Does the Risk Come From?
+In its study about Artificial Intelligence[^1], the European Parliamentary Research Service stated: "*It is important to note that AI algorithms cannot be objective because, just like people, in the course of their training they develop a way of making sense of what they have seen before, and use this 'worldview' to categorise new situations with which they are presented.*"
 
-Pozrime sa na to, odkiaľ pochádza subjektivita umelej inteligencie a aké sú s ňou spojené riziká.
+Let's see where the subjectivity of an AI comes from and what are the associated risks.
 
-## Predsudky v údajoch a algoritmoch
+## The bias in data and in algorithms
 
-Tak ako pri každom digitálnom systéme, aj údaje používané v platformách založených na AI pochádzajú z rôznych zdrojov a majú viacero formátov. Nesú so sebou rôzne typy zaujatosti[^2]. Predpojatosti údajov majú prevažne štatistický charakter. Uvádzame niekoľko príkladov.
+As for any digital system, the data used in AI-based platforms come from different sources and have multiple formats. They carry different types of bias[^2]. Data bias is mainly statistical. Let's list a few of them.
 
-- Skreslenie údajov** je vo všeobecnosti prítomné v hodnotách údajov. Napríklad náborový algoritmus vycvičený na databáze, v ktorej sú nadmerne zastúpení muži, vylúči ženy.
+-   **Sample bias** is typically present in data values. For example, this is the case for a recruitment algorithm trained on a database in which men are overrepresented will exclude women.
 
-- Stereotypné skreslenie** je tendencia konať s ohľadom na sociálnu skupinu, do ktorej človek patrí. Napríklad jedna štúdia ukazuje, že ženy majú tendenciu klikať na pracovné ponuky, o ktorých si myslia, že ich ako ženy ľahšie získajú.
+-   **Stereotype bias** is a tendency to act in reference to the social group we belong to. For example, one study shows that women tend to click on job offers that they think are easier to get as a woman.
 
-- Predpojatosť vynechanej premennej** (modelovanie alebo kódovanie) je predpojatosť spôsobená ťažkosťami pri reprezentácii alebo kódovaní faktora v údajoch. Napríklad, keďže je ťažké nájsť faktické kritériá na meranie emocionálnej inteligencie, tento rozmer v náborových algoritmoch chýba.
+-   **Omitted variable bias** (modelling or coding bias) is a bias due to the difficulty of representing or coding a factor in the data. For example, because it is difficult to find factual criteria to measure emotional intelligence, this dimension is absent from recruitment algorithms.
 
-- Skreslenie výberu** je spôsobené charakteristikami vzorky vybranej na vyvodenie záverov. Napríklad banka použije interné údaje na stanovenie úverového skóre, pričom sa zameria na ľudí, ktorí získali alebo nezískali úver, ale ignoruje tých, ktorí si nikdy nepotrebovali požičať, atď. Výberové skreslenie je spôsobené charakteristikami vzorky vybranej na vyvodenie záverov.
+-   **The selection bias** is in turn due to the characteristics of the sample selected to draw conclusions. For example, a bank will use internal data to derive a credit score, focusing on those who have or have not obtained a loan, but ignoring those who have never needed to borrow, etc.
 
-Algoritmické skreslenie je predovšetkým otázkou argumentácie. Toto skreslenie zavádzajú inžinieri umelej inteligencie, či už úmyselne, alebo inak.
+The algorithmic bias is mainly a matter of reasoning. Such bias is introduced by AI engineers deliberately or not.
 
-V už spomínanej štúdii Výskumnej služby Európskeho parlamentu sa uvádzajú dva konkrétne príklady: "*Uvažujte o symbolickom algoritme AI na skúmanie žiadostí o zamestnanie. Mohol by hodnotiť uchádzačov tak, že by im prideľoval známky výlučne na základe ich vzdelania a skúseností. Ak však nezohľadní faktory, ako je materská dovolenka, alebo primerane neuzná štúdium na zahraničných inštitúciách, ako by to urobili ľudské výberové komisie, algoritmus by mohol diskriminovať ženy a zahraničných uchádzačov.*"
+The previously mentioned European Parliamentary Research Service study gives two concrete examples: "*Consider a symbolic AI algorithm for examining job applications. It might evaluate candidates by assigning scores only on the basis of their education and experience. Yet, if it fails to take account of factors such as maternity leave or to appropriately recognise education in foreign institutions in ways that human selection committees would, the algorithm might discriminate against women and foreign candidates.*"
 
-"*Uvažujme teraz o podobnom nástroji umelej inteligencie v rámci paradigmy ML (Machine Learning). Tieto algoritmy nachádzajú vlastné spôsoby identifikácie typov uchádzačov vybraných v ich trénujúcich údajoch. Ak v minulosti existovali štrukturálne predsudky v týchto výberoch - napríklad rasová diskriminácia - algoritmus sa ich môže naučiť. Dokonca aj keď sa z údajov odstráni národnosť alebo etnická príslušnosť, ML dokáže nájsť náhrady za základné vzory v iných údajoch, ako sú jazyky, poštové smerovacie čísla alebo školy, ktoré môžu byť dobrými prediktormi etnickej príslušnosti.*"
+"*Now, consider a similar AI tool within the ML (Machine Learning) paradigm. Such algorithms find their own ways of identifying which kind of candidates were selected in their training data. Where there is a history of structural biases in these selections -- for example racial discrimination -- the algorithm can learn these. Even where data about nationality or ethnicity is removed from the data, ML is adept at finding proxies for underlying patterns in other data such as languages, postcodes or schools that can be good predictors of ethnicity.*"
 
-## Tri aspekty algoritmického rizika
+## The three facets of algorithmic risk
 
-Algoritmické riziko možno charakterizovať tromi spôsobmi[^3].
+The algorithmic risk can be characterised in three ways[^3].
 
-- Po prvé, ide o **algoritmické uzamknutie**, ktoré môže ovplyvniť aj názory, kultúrne znalosti alebo dokonca obchodné postupy. V skutočnosti algoritmy konfrontujú používateľov internetu s rovnakým obsahom v závislosti od ich profilu a integrovaných parametrov, a to napriek dodržiavaniu zásady spravodlivosti. To je prípad stránok s odporúčaním správ niektorých sociálnych sietí alebo stránok s odporúčaním produktov, ktoré používajú napríklad online predajcovia.
+-   Firstly, there is **algorithmic confinement**, which can also relate to opinions, cultural knowledge or even commercial practices. Indeed, the algorithms confront the Internet user with the same content, depending on his profile and the integrated parameters, despite the respect of the principle of fairness. This is the case on news recommendation sites such as Facebook or product recommendation sites such as Amazon.
 
-- Druhý aspekt algoritmického rizika súvisí s **kontrolou všetkých aspektov života jednotlivca**, od regulácie informácií pre investorov až po ich stravovacie návyky, záľuby alebo zdravotný stav. Toto sledovanie jednotlivca naznačuje formu dohľadu, ktorá je v rozpore so samotnou podstatou slobody jednotlivca.
+-   The second facet of algorithmic risk is linked to the **control of all aspects of an individual's life**, from the regulation of information for investors to his or her eating habits, hobbies, or even health status. This tracing of the individual suggests a form of surveillance that contravenes the very essence of individual freedom.
 
-- Tretí sa týka **potenciálneho porušenia základných práv**. Konkrétne ide o algoritmickú diskrimináciu definovanú ako nepriaznivé alebo nerovnaké zaobchádzanie v porovnaní s inými osobami alebo inými rovnakými alebo podobnými situáciami na základe dôvodu výslovne zakázaného zákonom. Patrí sem štúdia spravodlivosti algoritmov hodnotenia (triedenie ľudí hľadajúcich prácu online), odporúčacích algoritmov a algoritmov prediktívneho učenia. Problém diskriminačnej zaujatosti vyvolanej algoritmami sa týka viacerých oblastí, napríklad náboru zamestnancov online, súdnych rozhodnutí, rozhodnutí policajných hliadok a prijímania na školy.
+-   The third is related to the **potential violation of fundamental rights**. In particular, algorithmic discrimination defined as unfavourable or unequal treatment, in comparison with other persons or other equal or similar situations, based on a ground expressly prohibited by law. This encompasses the study of the fairness (*fairness*) of ranking (sorting of people looking for a job online), recommendation, and prediction learning algorithms. The problem of discriminatory bias induced by algorithms concerns several areas such as online hiring, court decisions, police patrol decisions, or school admissions.
 
-### Ako môžeme riadiť riziká spojené s údajmi a algoritmami?
+## How to deal with data and algorithmic risks?
 
-Podľa R. Schwartz a kol[^4], "*Predpojatosť nie je pre umelú inteligenciu ani nová, ani jedinečná a nie je možné dosiahnuť nulové riziko zaujatosti v systéme umelej inteligencie*".  
-Zatiaľ je uznanie skutočnosti, že agenti UI sú vo svojej podstate subjektívni, kľúčovým predpokladom na zabezpečenie toho, aby sa používali len na úlohy, na ktoré sú vhodní.
+For R. Schwartz & al.[^4], "*Bias is neither new nor unique to AI and it is not possible to achieve zero risk of bias in an AI system*".  
+Meanwhile, recognizing that AI agents are inherently subjective is a crucial prerequisite for ensuring that they are only applied to tasks for which they are well equipped.
 
-V závere štúdie EPRS sa uvádza niekoľko odporúčaní pri používaní aplikácií založených na UI:
+EPRS' study concludes with several recommendations when using AI-based applications:
 
-- Pochopiť zaujatosť a subjektivitu
+-   Understand bias and subjectivity
 
-- Vyhýbajte sa aplikáciám, ktoré presahujú možnosti umelej inteligencie
+-   Avoid applications beyond AI's capabilities
 
-- Vyhýbanie sa aplikáciám s nežiaducimi účinkami
+-   Avoid applications with undesirable impacts
 
-- Zachovanie autonómie človeka
+-   Maintain human autonomy
 
-- Hľadanie riešení problémov, nie problémov riešení
+-   Look for solutions to problems, not problems for solutions
 
-- Premýšľajte o tom, čo od umelej inteligencie skutočne chceme
+-   Consider what we really want from AI
 
-[^1]: Štúdia v angličtine: [Artificial intelligence: How does it work, why does it matter, and what can we do about it?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Európska únia, 2020
+[^1]: [Artificial intelligence: How does it work, why does it matter, and what can we do about it ?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Union Européenne, 2020
 
-[^2]: [Algoritmy, údaje a zaujatosť: aké verejné politiky?](https://www.institutmontaigne.org/analyses/algorithmes-donnees-et-biais-quelles-politiques-publiques?_wrapper_format=html), Anne Bouverot, Thierry Delaporte, 2019
+[^2]: [Algorithms, Data and Bias: Public Policy Needed](https://www.institutmontaigne.org/en/analysis/algorithms-data-and-bias-public-policy-needed?_wrapper_format=html), Anne Bouverot, Thierry Delaporte, 2019
 
-[^3]: [Odkiaľ pochádza riziko? údaje a algoritmy](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes) - Serge Abiteboul, Thierry Viéville, 2020
+[^3]: Article in French: [D'où vient le risque ? Des données et des algorithmes](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) - Serge Abiteboul, Thierry Viéville, 2020
 
-[^4]: Článok v angličtine: ["Towards a Standard for Identifying and Managing Bias in Artificial Intelligence"](https://doi.org/10.6028/NIST.SP.1270) - Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, Andrew Burt, NIST Special Publication 1270 , 2022
+[^4]: [Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://doi.org/10.6028/NIST.SP.1270) - Reva Schwartz, Apostol Vassilev, Kristen Greene, Lori Perine, Andrew Burt, NIST Special Publication 1270 , 2022
