@@ -17,19 +17,19 @@ opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti
 
 Technológie umelej inteligencie majú potenciál podporiť nové pedagogické a odborné postupy v prospech učiteľov a žiakov. Tu je niekoľko príkladov vzdelávacích aktivít, ktoré využívajú technológie umelej inteligencie a už sa experimentálne overujú v triedach:
 
-- Individualizované učenie krok za krokom
+- individualizované učenie krok za krokom;
 
-- Dynamické zoskupovanie žiakov pre efektívnejšiu prácu v triede
+- dynamické zoskupovanie žiakov pre efektívnejšiu prácu v triede;
 
-- Analýza a automatické hodnotenie žiackych písomných prác
+- analýza a automatické hodnotenie žiackych písomných prác;
 
-- Četboti na podporu žiakov
+- četboti na podporu žiakov;
 
-- Automatické generovanie testov 
+- automatické generovanie testov;
+  
+- monitorovanie študijných výsledkov žiakov;
 
-- Monitorovanie študijných výsledkov žiakov
-
-- Administratívne úlohy, ako je tvorba rozvrhov hodín či odpovedanie na často kladené otázky.
+- administratívne úlohy, ako je tvorba rozvrhov hodín či odpovedanie na často kladené otázky.
 
 K týmto niekoľkým príkladom by sme mohli pridať dlhý zoznam nástrojov, ktoré sú dnes súčasťou každodenného života učiteľov a žiakov pri používaní digitálnych služieb, ako je automatická oprava pravopisu, odporúčania či návrhy na čítanie, spamové filtre na e-maily, automatické rozpoznávanie hlasu alebo tváre atď.
 
