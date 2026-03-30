@@ -1,19 +1,19 @@
 ---
-názov: "1.3.2 Niektoré nástroje výučby založené na umelej inteligencii".
-opis: Objavte funkcie niektorých nástrojov na experimentovanie.
+názov: "1.3.2 Výber vzdelávacích nástrojov založených na AI"
+popis: "Experimentujte a objavte funkcie niektorých nástrojov"
+typ: aktivita
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M1.3.2t
-    - Názov: 1.3.2 Niektoré vzdelávacie nástroje založené na umelej inteligencii
+    - Názov: 1.3.2 Výber vzdelávacích nástrojov založených na AI
     - Typ: text
-    - Opis: Objavte funkcie niektorých nástrojov na experimentovanie.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
-        - AI4T
+    - Opis: Experimentujte a objavte funkcie niektorých nástrojov.
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori: AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Niektoré vzdelávacie nástroje založené na umelej inteligencii
+# Výber vzdelávacích nástrojov založených na umelej inteligencii
 Mnohé spoločnosti a výskumné ústavy zaoberajúce sa vzdelávacími technológiami (EdTech) navrhujú a vyvíjajú nástroje a softvér založený na umelej inteligencii na uľahčenie vyučovania a učenia, od inteligentných výučbových systémov až po špecifickejšie aplikácie, ako je automatické generovanie testov alebo učenie sa cudzích jazykov. Tieto prvé nástroje umelej inteligencie vo vzdelávaní (AIEd) začínajú byť k dispozícii a učitelia a ich žiaci ich používajú v triedach.
 
 ## Nástroje založené na umelej inteligencii sa už testujú v triede
