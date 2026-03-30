@@ -33,7 +33,7 @@ Technológie umelej inteligencie majú potenciál podporiť nové pedagogické a
 
 K týmto niekoľkým príkladom by sme mohli pridať dlhý zoznam nástrojov, ktoré sú dnes súčasťou každodenného života učiteľov a žiakov pri používaní digitálnych služieb, ako je automatická oprava pravopisu, odporúčania či návrhy na čítanie, spamové filtre na e-maily, automatické rozpoznávanie hlasu alebo tváre atď.
 
-Ak vezmeme do úvahy len úlohy orientované na vzdelávanie, Fengchun a kol. [^1] definovali súbor štyroch kategórií novovznikajúcich a potenciálnych aplikácií založených na potrebách:
+Ak vezmeme do úvahy len úlohy orientované na vzdelávanie, Fengchun a kol.[^1] definovali súbor štyroch kategórií novovznikajúcich a potenciálnych aplikácií založených na potrebách:
 
 - riadenie a poskytovanie vzdelávania;
 
@@ -43,7 +43,7 @@ Ak vezmeme do úvahy len úlohy orientované na vzdelávanie, Fengchun a kol. [
 
 - celoživotné vzdelávanie.
 
-Holmes a kol. [^2] rozdelili rôzne typy súčasných AI systémov v oblasti vzdelávania do nasledujúcich kategórií.
+Holmes a kol.[^2] rozdelili rôzne typy súčasných AI systémov v oblasti vzdelávania do nasledujúcich kategórií.
 
 <figure>
 	 <img src="Images/AIED-Holmes-systems-FR.png" />
@@ -56,9 +56,9 @@ Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti
 
 1.  **Ako sa dá AI využiť na zlepšenie vzdelávania?**
 
-    *V poslednom desaťročí rástlo využívanie AI nástrojov na podporu alebo zlepšenie učenia exponenciálne.[^3]. Tento trend sa ešte zintenzívnil po zatvorení škôl počas pandémie COVID-19. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo[^4]. Okrem toho stále potrebujeme preskúmať potenciál AI pri sledovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri posudzovaní kompetencií, najmä tých získaných v neformálnych kontextoch.*
+    *V poslednom desaťročí rástlo využívanie AI nástrojov na podporu alebo zlepšenie učenia exponenciálne.[^3] Tento trend sa ešte zintenzívnil po zatvorení škôl počas pandémie COVID-19. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo.[^4] Okrem toho stále potrebujeme preskúmať potenciál AI pri sledovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri posudzovaní kompetencií, najmä tých získaných v neformálnych kontextoch.*
 
-    *Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii[^5]. Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky[^6][^7].*
+    *Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii.[^5] Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky.[^6][^7]*
 
     *Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.*
 
@@ -74,7 +74,7 @@ Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti
 
 ## Základné kompetencie potrebné v ére umelej inteligencie
 
-Zavádzanie technológií založených na umelej inteligencii v školách vyvoláva otázky o vplyve používania týchto systémov na vyučovacie zručnosti, na čo upozornilo Spoločné výskumné centrum (JRC) – zložka Európskej komisie, ktorá poskytuje vedeckú a znalostnú podporu[^8]:
+Zavádzanie technológií založených na umelej inteligencii v školách vyvoláva otázky o vplyve používania týchto systémov na vyučovacie zručnosti, na čo upozornilo Spoločné výskumné centrum (JRC) – zložka Európskej komisie, ktorá poskytuje vedeckú a znalostnú podporu:[^8]
 
 - Do akej miery by mal učiteľ alebo používateľ poznať technológiu, na ktorej sú AI nástroje postavené?
 
@@ -88,7 +88,7 @@ Autori správy Spoločného výskumného centra poukazujú na to, že okrem vše
 
 - kompetencie na zmysluplné využívanie týchto digitálnych technológií vo vzdelávaní.
 
-V roku 2019 UNESCO predstavilo konkrétnu výzvu, ktorú predstavuje zavádzanie umelej inteligencie do vzdelávania a príprava študentov na svet ovplyvňovaný umelou inteligenciou[^10]:
+V roku 2019 UNESCO predstavilo konkrétnu výzvu, ktorú predstavuje zavádzanie umelej inteligencie do vzdelávania a príprava študentov na svet ovplyvňovaný umelou inteligenciou:[^10]
 *„Príprava učiteľov na vzdelávanie s využitím umelej inteligencie a zároveň príprava umelej inteligencie na pochopenie vzdelávania, ktorá však musí byť obojsmerná: učitelia sa musia naučiť nové digitálne zručnosti, aby mohli AI zmysluplne využívať vo svojej pedagogickej praxi, a vývojári AI musia pochopiť prácu učiteľov a vytvárať riešenia, ktoré budú v reálnom prostredí udržateľné.“*
 
 V nasledujúcich moduloch tohto online kurzu vám chceme pomôcť pochopiť umelú inteligenciu a jej základné technológie; uvedomiť si jej prínosy a riziká, aby sme ako učitelia mohli konať informovane a efektívne; a zamyslieť sa nad vplyvom AI systémov na učenie sa, vyučovanie a vzdelávanie.
