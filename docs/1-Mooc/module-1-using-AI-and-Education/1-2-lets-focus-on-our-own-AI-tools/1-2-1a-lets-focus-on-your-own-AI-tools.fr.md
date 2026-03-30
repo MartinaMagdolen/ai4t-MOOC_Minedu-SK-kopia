@@ -1,17 +1,17 @@
 ---
-názov: "1.2.1 Aktivita: Zamerajte sa na svoje vlastné nástroje umelej inteligencie".
-opis: Nastolenie otázok o našich vlastných postupoch v oblasti umelej inteligencie
+názov: "1.2.1 Aktivita: Zamerajte sa na svoje vlastné nástroje umelej inteligencie"
+opis: "Nastolenie otázok o našich vlastných postupoch v oblasti umelej inteligencie"
 typ: aktivita
 ---
 
-??? info "Metadáta
+??? info "Metadáta"
     - Id: EU.AI4T.O1.M1.2.1a
     - Názov: 1.2.1 Aktivita: Zameranie sa na vlastné nástroje umelej inteligencie
     - Typ: činnosť
     - Opis: Nastolenie otázok o vlastných postupoch v oblasti umelej inteligencie
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
-        - AI4T 
+    - Predmet: Umelá inteligencia pre učiteľov
+    - Autori:
+        - AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
