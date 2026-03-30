@@ -20,7 +20,7 @@ Keď sa pozrieme na vplyv umelej inteligencie na rôzne profesie, v nasledujúc
 
 Ovplyvní vývoj týchto technológií v najbližších rokoch aj vzdelávanie?
 
-**Cieľom modulu č. 1 –Využitie umelej inteligencie vo vzdelávaní** – je pokúsiť sa zodpovedať niekoľko úvodných otázok:
+**Cieľom modulu č. 1 – Využitie umelej inteligencie vo vzdelávaní** – je pokúsiť sa zodpovedať niekoľko úvodných otázok:
 
 - Sú učitelia znepokojení umelou inteligenciou?
 - Sú tieto AI technológie už k dispozícii a ako by sa dali využiť v prospech učiteľov, ich pedagogickej praxe a samotných študentov?
