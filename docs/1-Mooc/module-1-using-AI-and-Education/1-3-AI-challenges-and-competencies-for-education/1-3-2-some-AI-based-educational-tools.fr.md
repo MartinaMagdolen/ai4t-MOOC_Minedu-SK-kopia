@@ -20,9 +20,9 @@ Mnohé edtechové spoločnosti (pôsobiace v oblasti vzdelávacích technológi
 
 V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a stredných školách, ktorý obsahuje zoznam niekoľkých AI nástrojov využívaných vo vzdelávaní, ktoré vznikli v rámci medzinárodných alebo národných projektov. Tieto nástroje sa šíria buď na základe licencií Creative Commons, alebo ako ovtvorené vzdelávacie zdroje.[^1] Príkladmi sú:
 
-- [Lalilo](https://p2ia.lalilo.com/)(FR): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
+- [Lalilo](https://www.lalilo.com/en) (EN): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
 
-- [Adaptiv'Math](https://www.adaptivmath.fr/)(FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
+- [Adaptiv'Math](https://www.adaptivmath.fr/) (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
 
 ## Ďalšie príklady AI zdrojov
 Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z nich:
@@ -42,7 +42,7 @@ Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z�
 
 [Photomath](https://photomath.com/): Nástroj na riešenie matematických úloh, ktorý využíva mobilný telefón na skenovanie, rozpoznávanie a zobrazovanie podrobného postupu pri riešení matematických úloh.
 
-[Kwyk](https://www.kwyk.fr/): Interaktívne cvičenia z matematiky s možnosťou prispôsobenia učebnej cesty.
+[Kwyk](https://www.kwyk.fr/) (FR): Interaktívne cvičenia z matematiky s možnosťou prispôsobenia učebnej cesty.
 
 [Orange](https://orangedatamining.com/): Open-source strojové učenie a vizualizácia dát. S pomocou veľkého a rozmanitého súboru nástrojov umožňuje vytvárať pracovné postupy na dátovú analýzu.
 
