@@ -54,23 +54,23 @@ Holmes a kol. [^2] rozdelili rôzne typy súčasných AI systémov v oblasti v
 
 Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti s ich využívaním vo vzdelávaní. Na využitie príležitostí a zmiernenie potenciálnych rizík AI vo vzdelávaní boli v správe UNESCO (Fengchun a kol., 2021) identifikované nasledujúce výzvy:
 
-1.  **Ako sa dá AI využiť na zlepšenie vzdelávania?
+1.  **Ako sa dá AI využiť na zlepšenie vzdelávania?**
 
-    *„V poslednom desaťročí rástlo využívanie AI nástrojov na podporu alebo zlepšenie učenia exponenciálne.[^3]. Tento trend sa ešte zintenzívnil po zatvorení škôl počas pandémie COVID-19. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo[^4]. Okrem toho stále potrebujeme preskúmať potenciál AI pri sledovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri posudzovaní kompetencií, najmä tých získaných v neformálnych kontextoch.“*
+    *V poslednom desaťročí rástlo využívanie AI nástrojov na podporu alebo zlepšenie učenia exponenciálne.[^3]. Tento trend sa ešte zintenzívnil po zatvorení škôl počas pandémie COVID-19. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo[^4]. Okrem toho stále potrebujeme preskúmať potenciál AI pri sledovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri posudzovaní kompetencií, najmä tých získaných v neformálnych kontextoch.*
 
-    *„Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii[^5]. Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky[^6][^7].“*
+    *Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii[^5]. Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky[^6][^7].*
 
-    *„Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.“*
+    *Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.*
 
-2.  **Ako môžeme zabezpečiť etické, inkluzívne a spravodlivé využívanie umelej inteligencie vo vzdelávaní?
+2.  **Ako môžeme zabezpečiť etické, inkluzívne a spravodlivé využívanie umelej inteligencie vo vzdelávaní?**
 
-    *„Etické, inkluzívne a spravodlivé využívanie AI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Príslušné otázky sa zameriavajú na dáta a algoritmy, pedagogické rozhodnutia, inklúziu a ,digitálnu priepasť‘, právo detí na súkromie, slobodu a nerušený vývoj a rovnosť z hľadiska rodu, zdravotného stavu, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu či geografickej polohy.“*
+    *Etické, inkluzívne a spravodlivé využívanie AI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Príslušné otázky sa zameriavajú na dáta a algoritmy, pedagogické rozhodnutia, inklúziu a „digitálnu priepasť“, právo detí na súkromie, slobodu a nerušený vývoj a rovnosť z hľadiska rodu, zdravotného stavu, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu či geografickej polohy.*
 
-3.  **Ako môže vzdelávanie pripraviť ľudí na život a prácu s umelou inteligenciou?
+3.  **Ako môže vzdelávanie pripraviť ľudí na život a prácu s umelou inteligenciou?**
 
-    *„Ak má svet zabezpečiť, aby umelá inteligencia nezhoršovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť dôkladne ju pochopiť – čo je to AI, ako funguje a ako môže ovplyvniť jeho život. Niekedy tento súbor poznatkov označujeme aj výrazom ,AI gramotnosť‘. Kľúčovú úlohu v tomto smere budú zohrávať učitelia.“*
+    *Ak má svet zabezpečiť, aby umelá inteligencia nezhoršovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť dôkladne ju pochopiť – čo je to AI, ako funguje a ako môže ovplyvniť jeho život. Niekedy tento súbor poznatkov označujeme aj výrazom „AI gramotnosť“. Kľúčovú úlohu v tomto smere budú zohrávať učitelia.*
 
-    *„Ak chceme pomôcť žiakom naučiť sa efektívne fungovať vo svete, ktorý je čoraz viac ovplyvňovaný umelou inteligenciou, vyžaduje si to pedagogiku, ktorá kladie väčší dôraz na ľudské zručnosti (napr. kritické myslenie, komunikáciu, spoluprácu a tvorivosť) a schopnosť spolupracovať so všadeprítomnými AI nástrojmi v živote, učení a práci.“*
+    *Ak chceme pomôcť žiakom naučiť sa efektívne fungovať vo svete, ktorý je čoraz viac ovplyvňovaný umelou inteligenciou, vyžaduje si to pedagogiku, ktorá kladie väčší dôraz na ľudské zručnosti (napr. kritické myslenie, komunikáciu, spoluprácu a tvorivosť) a schopnosť spolupracovať so všadeprítomnými AI nástrojmi v živote, učení a práci.*
 
 ## Základné kompetencie potrebné v ére umelej inteligencie
 
