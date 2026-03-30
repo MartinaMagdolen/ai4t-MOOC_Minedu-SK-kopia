@@ -3,6 +3,7 @@ názov: "1.2.1 Aktivita: Zamerajte sa na svoje vlastné nástroje umelej intelig
 opis: Nastolenie otázok o našich vlastných postupoch v oblasti umelej inteligencie
 typ: aktivita
 ---
+
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M1.2.1a
     - Názov: 1.2.1 Aktivita: Zameranie sa na vlastné nástroje umelej inteligencie
