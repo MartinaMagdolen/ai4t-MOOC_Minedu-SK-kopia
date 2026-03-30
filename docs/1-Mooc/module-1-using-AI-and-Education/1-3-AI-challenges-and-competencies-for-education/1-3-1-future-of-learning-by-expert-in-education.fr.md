@@ -35,32 +35,32 @@ K týmto niekoľkým príkladom by sme mohli pridať dlhý zoznam nástrojov, kt
 
 Ak vezmeme do úvahy len úlohy orientované na vzdelávanie, Fengchun a kol. [^1] definovali súbor štyroch kategórií novovznikajúcich a potenciálnych aplikácií založených na potrebách:
 
-- Riadenie vzdelávania ;
+- riadenie a poskytovanie vzdelávania;
 
-- Učenie a hodnotenie ;
+- učenie sa a hodnotenie;
 
-- Posilnenie postavenia učiteľov a zlepšenie vyučovania;
+- posilnenie postavenia učiteľov a zlepšenie výučby;
 
-- a celoživotné vzdelávanie.
+- celoživotné vzdelávanie.
 
-Holmes &amp; al [^2] rozdelili rôzne typy súčasných systémov založených na umelej inteligencii pre vzdelávanie do nasledujúcich kategórií.
+Holmes a kol. [^2] rozdelili rôzne typy súčasných AI systémov v oblasti vzdelávania do nasledujúcich kategórií.
 
 <figure>
 	 <img src="Images/AIED-Holmes-systems-FR.png" />
-	 <figcaption> Rôzne typy súčasných systémov na báze umelej inteligencie pre vzdelávanie (podľa Holmes &amp; al. 2019) </figcaption>
+	 <figcaption> Rôzne typy súčasných AI systémov v oblasti vzdelávania (podľa Holmes a kol. 2019) </figcaption>
 </figure>
 
-## AI a výzvy v oblasti vzdelávania
+## Výzvy spojené s AI v oblasti vzdelávania
 
-O týchto vznikajúcich technológiách umelej inteligencie je potrebné pochybovať aj v súvislosti s ich využívaním vo vzdelávaní. Na využitie príležitostí a zmiernenie potenciálnych rizík AI vo vzdelávaní boli v správe Fengchun &amp; al. UNESCO, 2021, identifikované nasledujúce výzvy:
+Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti s ich využívaním vo vzdelávaní. Na využitie príležitostí a zmiernenie potenciálnych rizík AI vo vzdelávaní boli v správe UNESCO (Fengchun a kol., 2021) identifikované nasledujúce výzvy:
 
-1.  **Ako možno využiť AI na zlepšenie vzdelávania?
+1.  **Ako sa dá AI využiť na zlepšenie vzdelávania?
 
-    "*V priebehu posledného desaťročia exponenciálne narástlo využívanie nástrojov AI na podporu alebo zlepšenie vzdelávania[^3]. Tento trend sa po zatvorení škôl v rámci programu COVID-19 len zvýšil. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo[^4]. Okrem toho stále potrebujeme preskúmať potenciál UI pri monitorovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri hodnotení zručností, najmä tých, ktoré sa získali v neformálnom a informálnom kontexte*."
+    *„V poslednom desaťročí rástlo využívanie AI nástrojov na podporu alebo zlepšenie učenia exponenciálne.[^3]. Tento trend sa ešte zintenzívnil po zatvorení škôl počas pandémie COVID-19. Dôkazov o tom, ako môže umelá inteligencia zlepšiť výsledky vzdelávania a či môže pomôcť vedcom a odborníkom z praxe lepšie pochopiť, ako prebieha efektívne vzdelávanie, je však stále málo[^4]. Okrem toho stále potrebujeme preskúmať potenciál AI pri sledovaní výsledkov vzdelávania v rôznych kontextoch, ako aj pri posudzovaní kompetencií, najmä tých získaných v neformálnych kontextoch.“*
 
-    "*Takisto existuje potenciál, aby AI uľahčila nové prístupy k hodnoteniu, ako napríklad adaptívne a priebežné hodnotenie založené na AI[^5]. Hneď na začiatku je však dôležité uznať, že využívanie UI na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne riešené. Patria k nim obavy týkajúce sa ich prístupu k pedagogike, nedostatok spoľahlivých dôkazov o ich účinnosti a ich potenciálny vplyv na úlohu učiteľov, ako aj širšie etické otázky[^6][^7]*."
+    *„Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii[^5]. Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky[^6][^7].“*
 
-    "*Mnohé aplikácie umelej inteligencie pre učiteľov majú za cieľ pomôcť učiteľom znížiť ich pracovné zaťaženie automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administrácia a spätná väzba. Často sa uvádza, že by sa tým mal učiteľom uvoľniť čas, ktorý by mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom."
+    *„Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.*“
 
 2.  **Ako môžeme zabezpečiť etické, inkluzívne a spravodlivé využívanie umelej inteligencie vo vzdelávaní?
 
