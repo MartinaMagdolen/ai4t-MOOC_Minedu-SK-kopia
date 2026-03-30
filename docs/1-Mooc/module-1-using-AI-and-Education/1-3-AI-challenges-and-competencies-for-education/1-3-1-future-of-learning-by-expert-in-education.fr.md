@@ -93,22 +93,22 @@ V roku 2019 UNESCO predstavilo konkrétnu výzvu, ktorú predstavuje zavádzanie
 
 V nasledujúcich moduloch tohto online kurzu vám chceme pomôcť pochopiť umelú inteligenciu a jej základné technológie; uvedomiť si jej prínosy a riziká, aby sme ako učitelia mohli konať informovane a efektívne; a zamyslieť sa nad vplyvom AI systémov na učenie sa, vyučovanie a vzdelávanie.
 
-[^1]: Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN: 978-92-3-100447-6 - UNESCO, 2021
+[^1]: AI and education: Guidance for policy-makers - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN: 978-92-3-100447-6 - UNESCO, 2021
 
 [^2]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
 [^3]: Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
-[^4]: Zawacki-Richter, O., Marín, V. I., Bond, M. a Gouverneur, F. 2019. Systematický prehľad výskumu aplikácií umelej inteligencie vo vysokoškolskom vzdelávaní -- kde sú pedagógovia? International Journal of Educational Technology in Higher Education, Vol. 16, No. 1, pp. 1--27.
+[^4]: Zawacki-Richter, O., Marín, V. I., Bond, M. a Gouverneur, F. 2019. Systematic review of research on artificial intelligence applications in higher education -- where are the educators? International Journal of Educational Technology in Higher Education, roč. 16, č. 1, s. 1 – 27.
 
-[^5]: Luckin, R. 2017. K systémom hodnotenia založeným na umelej inteligencii. Nat Hum Behav 1, 0028
+[^5]: Luckin, R. 2017. Towards artificial intelligence-based assessment systems. Nat Hum Behav 1, 0028.
 
-[^6]: Holmes, W., Bektik, D., Whitelock, D. a Woolf, B. P. 2018b. Etika v AIED: Koho to zaujíma? C. Penstein Rosé, R. Martínez- Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K. Porayska-Pomsta, B. McLaren a B. du Boulay (eds.), Lecture Notes in Computer Science. London, Springer International Publishing, zv. 10948, s. 551-553.
+[^6]: Holmes, W., Bektik, D., Whitelock, D. and Woolf, B. P. 2018b. Ethics in AIED: Who cares? C. Penstein Rosé, R. Martínez- Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K. Porayska-Pomsta, B. McLaren a B. du Boulay (ed.), Lecture Notes in Computer Science. London, Springer International Publishing, zv. 10948, s. 551 – 553.
 
 [^7]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019
 
-[^8]: Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - správa Spoločného výskumného centra - 2020
+[^8]: Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios- Vuorikari Riina, Punie Yves,Marcelino Cabrera - Joint Research Center report - 2020
 
-[^9]:  DigComp 2.2: Rámec digitálnych kompetencií pre občanov - s novými príkladmi vedomostí, zručností a postojov, Vuorikari, R., Kluzer, S. a Punie, Y., EUR 31006 SK, Úrad pre publikácie Európskej únie, Luxemburg, 2022, ISBN 978-92-76-48883-5, doi:10.2760/490274, JRC128415.
+[^9]:  DigComp 2.2: The Digital Competence Framework for Citizens - With new examples of knowledge, skills and attitudes, Vuorikari, R., Kluzer, S. a Punie, Y., EUR 31006 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-48883-5, doi:10.2760/490274, JRC128415.
 
-[^10]: Umelá inteligencia vo vzdelávaní: výzvy a príležitosti pre udržateľný rozvoj- Pedró Francesc, Subosa Miguel, Rivas Axel, Valverde Paula, ED-2019/WS/8, UNESCO, 2019.
+[^10]: Artificial intelligence in education: challenges and opportunities for sustainable development- Pedró Francesc, Subosa Miguel, Rivas Axel, Valverde Paula, ED-2019/WS/8, UNESCO, 2019.
