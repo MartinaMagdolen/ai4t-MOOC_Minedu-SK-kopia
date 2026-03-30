@@ -1,17 +1,17 @@
 ---
-názov: "2.1.1 Video : Kto sa bojí umelej inteligencie?
-popis: Úvod k videu "Kto sa bojí umelej inteligencie?
-prispievateľ: "Umelá inteligencia... s inteligenciou" Mooc
+názov: "2.1.1 Video: Kto sa bojí umelej inteligencie?"
+opis: "Úvod k videu: Kto sa bojí umelej inteligencie?"
+prispievateľ: "MOOC Intelligence Artificielle...avec Intelligence"
 typ: video
-licencia: CC BY-SA 2.0
+licencia: "CC BY-SA 2.0"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M2.1.1v
-    - Názov: 2.1.1 Video : Kto sa bojí umelej inteligencie?
+    - Názov: 2.1.1 Video: Kto sa bojí umelej inteligencie?
     - Typ: video
-    - Popis: Úvod k videu Kto sa bojí umelej inteligencie?
-    - Téma: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Popis: Úvod k videu: Kto sa bojí umelej inteligencie?
+    - Téma: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
         - Mooc "Umelá inteligencia... s inteligenciou
     - Licencia: CC BY-SA 2.0
