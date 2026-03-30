@@ -14,18 +14,18 @@ typ: aktivita
     - Dátum: 2022-11-15
 
 # Výber vzdelávacích nástrojov založených na umelej inteligencii
-Mnohé spoločnosti a výskumné ústavy zaoberajúce sa vzdelávacími technológiami (EdTech) navrhujú a vyvíjajú nástroje a softvér založený na umelej inteligencii na uľahčenie vyučovania a učenia, od inteligentných výučbových systémov až po špecifickejšie aplikácie, ako je automatické generovanie testov alebo učenie sa cudzích jazykov. Tieto prvé nástroje umelej inteligencie vo vzdelávaní (AIEd) začínajú byť k dispozícii a učitelia a ich žiaci ich používajú v triedach.
+Mnohé edtechové spoločnosti (pôsobiace v oblasti vzdelávacích technológií) a výskumné ústavy navrhujú a vyvíjajú AI nástroje a softvér založený na uľahčenie vyučovania a učenia – od inteligentných doučovacích systémov až po špecifickejšie aplikácie, napríklad na automatické generovanie testov či učenie sa cudzích jazykov. Väčšina týchti nástrojov umelej inteligencie vo vzdelávaní (AIED) pritom už začína byť k dispozícii na použitie, takže učitelia a ich žiaci ich už využívajú v triedach.
 
-## Nástroje založené na umelej inteligencii sa už testujú v triede
+## AI nástroje, ktoré sa už experimentálne overujú v triedach
 
-V prieskume o vzdelávaní K12 v Európe z roku 2021 boli uvedené niektoré nástroje AI vo vzdelávaní, ktoré boli vytvorené v rámci medzinárodných alebo národných projektov. Tieto nástroje boli zdieľané buď prostredníctvom licencií Creative Commons alebo bezplatných vzdelávacích zdrojov[^1], alebo prostredníctvom verejných zákaziek zriadených francúzskym ministerstvom školstva, napríklad aj prostredníctvom partnerstva pre inovácie v oblasti umelej inteligencie[^2]:
+V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a stredných školách, ktorý obsahuje zoznam niekoľkých AI nástrojov využívaných vo vzdelávaní, ktoré vznikli v rámci medzinárodných alebo národných projektov. Tieto nástroje sa šíria buď na základe licencií Creative Commons, alebo ako ovtvorené vzdelávacie zdroje.[^1] Príkladmi sú:
 
-- Lalilo](https://p2ia.lalilo.com/){:target="_blank"} (FR): Vzdelávací asistent na podporu rozhodovania a monitorovanie adaptívneho učenia sa čítania pre CP, CE1, CE2.
+- [Lalilo](https://p2ia.lalilo.com/){:target="_blank"} (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
 
-- Adaptiv'Math](https://www.adaptivmath.fr/){:target="_blank"} (FR): Asistent výučby na podporu rozhodovania a sledovania pre adaptívne učenie matematiky pre úrovne CP, CE1 a CE2.
+- [Adaptiv'Math](https://www.adaptivmath.fr/){:target="_blank"} (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
 
-## Ďalšie príklady zdrojov založených na umelej inteligencii
-Na internete možno nájsť mnoho ďalších nástrojov. Tu je niekoľko príkladov.
+## Ďalšie príklady AI zdrojov
+Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z nich:
 
 ### Na učenie jazykov a matematiky
 [Duolingo for Schools](https://schools.duolingo.com){:target="_blank"} : Bezplatná vrstva na správu nad aplikáciou na učenie jazykov Duolingo, ktorá umožňuje získať prehľad a určitú úroveň kontroly nad skúsenosťami študentov na Duolingu.
@@ -43,7 +43,7 @@ Na internete možno nájsť mnoho ďalších nástrojov. Tu je niekoľko príkla
 [Kwyk](https://www.kwyk.fr/){:target="_blank"}: Samoopravné matematické cvičenia s možnosťou prispôsobenia cesty.
 
 ## Mapovanie umelej inteligencie vo vzdelávaní
-Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte webovú stránku Medzinárodného strediska pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä úvahy a novinky na osi "Vzdelávanie a posilnenie postavenia", ktorej cieľom je "zamyslieť sa nad spôsobmi zlepšenia digitálnej gramotnosti a spôsobmi mobilizácie UI a digitálnych technológií s cieľom zvýšiť dostupnosť systému vzdelávania a odbornej prípravy a podporiť vzdelávanie". [^3].
+Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte webovú stránku Medzinárodného strediska pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä úvahy a novinky na osi "Vzdelávanie a posilnenie postavenia", ktorej cieľom je "zamyslieť sa nad spôsobmi zlepšenia digitálnej gramotnosti a spôsobmi mobilizácie UI a digitálnych technológií s cieľom zvýšiť dostupnosť systému vzdelávania a odbornej prípravy a podporiť vzdelávanie". [^2].
 
 ### Ako sa orientovať v množstve ponúkaných vzdelávacích zdrojov?
 Nástroje založené na umelej inteligencii, ako sú vyššie uvedené, sú základom umelej inteligencie vo vzdelávaní. Model analýzy vedeckých, technických, regulačných a etických charakteristík týchto nástrojov bude navrhnutý neskôr v tomto kurze. Cieľom je poskytnúť učiteľom
@@ -51,6 +51,4 @@ pochopenie prostriedkov, ktoré oni alebo ich študenti používajú.
 
 [^1]: [European Schoolnet. "Artificial Intelligence Role in K12 Education: Agile Collection of Information"](http://www.eun.org/documents/411753/7316225/Artificial+Intelligence+Role+in+K12+Education+Report/0b9f5e20-62f7-4966-a58e-fdacc9199248){:target="_blank"}, 2021, Brusel, Belgicko.
 
-[^2]:[AI Innovation Partnership](https://eduscol.education.fr/1911/partenariat-d-innovation-et-intelligence-artificielle-p2ia){:target="_blank"}
-
-[^3]:[Os pre vzdelávanie a posilnenie postavenia v oblasti umelej inteligencie, vzdelávania a učenia sa](https://observatoire-ia.ulaval.ca/axe/education-et-capacitation/){:target="_blank"}
+[^2]:[Os pre vzdelávanie a posilnenie postavenia v oblasti umelej inteligencie, vzdelávania a učenia sa](https://observatoire-ia.ulaval.ca/axe/education-et-capacitation/){:target="_blank"}
