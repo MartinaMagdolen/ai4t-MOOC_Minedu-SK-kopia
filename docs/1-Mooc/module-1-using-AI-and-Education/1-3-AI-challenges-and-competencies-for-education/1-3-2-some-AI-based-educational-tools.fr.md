@@ -28,13 +28,13 @@ V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a�
 Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z nich:
 
 ### Na učenie jazykov a matematiky
-[Duolingo for Schools](https://schools.duolingo.com) : Bezplatná vrstva na správu nad aplikáciou na učenie jazykov Duolingo, ktorá umožňuje získať prehľad a určitú úroveň kontroly nad skúsenosťami študentov na Duolingu.
+[Duolingo for Schools](https://schools.duolingo.com): Bezplatná nadstavba slúžiaca na správu aplikácie na učenie jazykov Duolingo, ktorá poskytuje prehľad a viac kontroly nad tým, ako sa žiaci v službe Duolingo učia.
 
-[Adaptiv'langue](https://evidenceb.fr/produits/adaptiv-langue)(FR): Každý študent vyplní diagnostický test, v ktorom je učiteľ informovaný o úrovni študenta a triedy v zručnostiach, na ktorých sa pracuje. Pokrok žiakov v aplikácii sa určuje podľa ich úspešnosti v cvičeniach, ktoré sú navrhnuté tak, aby im pomohli napredovať bez toho, aby ich demotivovali.
+[Adaptiv'langue](https://evidenceb.fr/produits/adaptiv-langue) (FR): Každý žiak absolvuje diagnostický test, na základe ktorého učiteľ získa informácie o tom, akú úroveň zručností majú v precvičovaných zručnostiach jednotliví študenti aj celá trieda. Pokrok žiakov v aplikácii je určený ich úspešnosťou v cvičeniach, ktoré sú navrhnuté tak, aby im pomohli napredovať bez toho, aby ich demotivovali.
 
-[EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/){:target="_blank"} (SK): Mobilné aplikácie umožňujúce študentom konverzovať v angličtine ako cudzom jazyku.
+[EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/) (SK): Mobilné aplikácie umožňujúce študentom konverzovať v angličtine ako cudzom jazyku.
 
-[Checkmath](https://checkmath.com/)(SK): Mobilná podpora výučby matematiky pre žiakov vo veku 11 až 13 rokov.
+[Checkmath](https://checkmath.com/) (SK): Mobilná podpora výučby matematiky pre žiakov vo veku 11 až 13 rokov.
 
 [Mathia](https://mathia.education/): Na mieru šité aktivity, ktoré pomáhajú žiakom od CP po CE2 zvládnuť základy matematiky a napredovať s istotou.
 
