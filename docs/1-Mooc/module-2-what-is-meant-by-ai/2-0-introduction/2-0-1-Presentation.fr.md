@@ -1,31 +1,30 @@
 ---
-názov: "2.0.1 Prezentácia modulu 2" - len vo francúzštine
-opis: Teraz sa pozrieme, čo je to vlastne umelá inteligencia, aký je jej potenciál a aké sú jej limity pre vzdelávanie.
+názov: "2.0.1 Predstavenie 2. modulu"
+opis: "Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M2.0.1t
-    - Názov: 2.0.1 Prezentácia modulu 2
+    - Názov: 2.0.1 Predstavenie 2. modulu
     - Typ: text
-    - Popis: Teraz sa pozrieme na to, čo vlastne umelá inteligencia je, aký je jej potenciál a aké sú jej limity pre vzdelávanie.
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
-        - AI4T 
+    - Popis: Pozrieme sa, čo je to vlastne AI, aký má potenciál a aké má limity vo vzdelávaní
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori: AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
 
-# Prezentácia modulu 2
+# Predstavenie 2. modulu
 
-**Ciele modulu 2: Čo je to umelá inteligencia?
+**Modul č. 2: Čo je to umelá inteligencia?** má nasledujúce ciele:
 
-- Získať prvotné pochopenie toho, čo to vlastne umelá inteligencia je a odkiaľ pochádza
-- Experimentovať so základmi AI a jej obmedzeniami
-- Preskúmať existujúce techniky AI, ich potenciál a súčasné využitie vo vzdelávaní.
+- získať základné pochopenie toho, čo to vlastne umelá inteligencia je a odkiaľ pochádza;
+- experimentovať so základmi umelej inteligencie  a jej obmedzeniami;
+- preskúmať existujúce techniky umelej inteligencie, ich potenciál a súčasné využitie vo vzdelávaní.
 
 **Vzdelávacie zdroje** :
 
 - 2 videá
 - 2 aktivity
-- 3 čítanie
+- 3 texty
 
-**Čas investície: približne 40 minút**
+**Čas: približne 40 minút**
