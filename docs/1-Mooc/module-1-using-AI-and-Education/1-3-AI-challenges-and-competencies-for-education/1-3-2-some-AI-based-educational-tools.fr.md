@@ -14,27 +14,27 @@ typ: aktivita
     - Dátum: 2022-11-15
 
 # Výber vzdelávacích nástrojov založených na umelej inteligencii
-Mnohé edtechové spoločnosti (pôsobiace v oblasti vzdelávacích technológií) a výskumné ústavy navrhujú a vyvíjajú AI nástroje a softvér založený na uľahčenie vyučovania a učenia – od inteligentných doučovacích systémov až po špecifickejšie aplikácie, napríklad na automatické generovanie testov či učenie sa cudzích jazykov. Väčšina týchti nástrojov umelej inteligencie vo vzdelávaní (AIED) pritom už začína byť k dispozícii na použitie, takže učitelia a ich žiaci ich už využívajú v triedach.
+Mnohé edtechové spoločnosti (pôsobiace v oblasti vzdelávacích technológií) a výskumné ústavy navrhujú a vyvíjajú AI nástroje a softvér na uľahčenie vyučovania a učenia – od inteligentných doučovacích systémov až po špecifickejšie aplikácie, napríklad na automatické generovanie testov či učenie sa cudzích jazykov. Väčšina týchto nástrojov umelej inteligencie vo vzdelávaní (AIED) pritom už začína byť k dispozícii na použitie, takže učitelia a ich žiaci ich už využívajú v triedach.
 
 ## AI nástroje, ktoré sa už experimentálne overujú v triedach
 
-V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a stredných školách, ktorý obsahuje zoznam niekoľkých AI nástrojov využívaných vo vzdelávaní, ktoré vznikli v rámci medzinárodných alebo národných projektov. Tieto nástroje sa šíria buď na základe licencií Creative Commons, alebo ako ovtvorené vzdelávacie zdroje.[^1] Príkladmi sú:
+V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a stredných školách so zoznamom niekoľkých AI nástrojov využívaných vo vzdelávaní, ktoré vznikli v rámci medzinárodných alebo národných projektov. Tieto nástroje sa šíria buď na základe licencií Creative Commons, alebo ako otvorené vzdelávacie zdroje.[^1] Príkladmi sú:
 
 - [Lalilo](https://www.lalilo.com/en) (EN): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
 
 - [Adaptiv'Math](https://www.adaptivmath.fr/) (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
 
 ## Ďalšie príklady AI zdrojov
-Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z nich:
+Na internete sa dá nájsť množstvo ďalších nástrojov. V nasledujúcej sekcii predstavujeme niektoré z nich.
 
 ### Na učenie jazykov a matematiky
-[Duolingo for Schools](https://schools.duolingo.com): Bezplatná nadstavba slúžiaca na správu aplikácie na učenie jazykov Duolingo, ktorá poskytuje prehľad a viac kontroly nad tým, ako sa žiaci v službe Duolingo učia.
+[Duolingo for Schools](https://schools.duolingo.com): Bezplatná nadstavba slúžiaca na správu aplikácie na učenie sa jazykov Duolingo, ktorá poskytuje prehľad a viac kontroly nad tým, ako sa žiaci v službe Duolingo učia.
 
-[Adaptiv’langue](https://evidenceb.fr/produits/adaptiv-langue) (FR): Každý žiak absolvuje diagnostický test, na základe ktorého učiteľ získa informácie o tom, akú úroveň zručností majú v precvičovaných zručnostiach jednotliví študenti aj celá trieda. Pokrok žiakov v aplikácii je určený ich úspešnosťou v cvičeniach, ktoré sú navrhnuté tak, aby im pomáhali napredovať bez toho, aby ich demotivovali.
+[Adaptiv’langue](https://evidenceb.fr/produits/adaptiv-langue) (FR): Každý žiak absolvuje diagnostický test, na základe ktorého učiteľ získa informácie o tom, akú úroveň majú v precvičovaných zručnostiach jednotliví študenti aj celá trieda. Pokrok žiakov v aplikácii je určený ich úspešnosťou v cvičeniach, ktoré sú navrhnuté tak, aby im pomáhali napredovať bez toho, aby ich demotivovali.
 
-[EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/) (EN): Mobilné aplikácie, ktoré žiakom umožňujúučiť sa angličtinu ako cudzí jazyk prostredníctvom konverzácií.
+[EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/) (EN): Mobilné aplikácie, ktoré žiakom umožňujú učiť sa angličtinu ako cudzí jazyk prostredníctvom konverzácií.
 
-[AXIθME](https://axiome.ai/) (FR): Asistent učiteľa, ktorý pomáha odhaliť medzery v matematických vedomostiach a individualizovať učebné cesty žiakov vo veku od 11 do 18 rokov.
+[AXIθME](https://axiome.ai/) (FR): Asistent učiteľa, ktorý pomáha odhaliť medzery v matematických vedomostiach a individualizovať učebné cesty žiakov vo veku 11 až 18 rokov.
 
 [Checkmath](https://checkmath.com/) (EN): Podpora učenia sa matematiky cez mobilný telefón pre žiakov vo veku 11 až 13 rokov.
 
@@ -47,7 +47,7 @@ Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z�
 [Orange](https://orangedatamining.com/): Open-source strojové učenie a vizualizácia dát. S pomocou veľkého a rozmanitého súboru nástrojov umožňuje vytvárať pracovné postupy na dátovú analýzu.
 
 ## Mapovanie AI vo vzdelávaní
-Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte webovú stránku Medzinárodného observatória pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä komentáre a novinky týkajúce sa témy vzdelávania a posilňovania postavenia ľudí, pričom jeho cieľom je „reflektovať, ako zlepšiť digitálnu gramotnosť a spôsoby mobilizácie umelej inteligencie a digitálnych technológií s cieľom zvýšiť dostupnosť vzdelávania a odbornej prípravy a podporiť učenie sa.“[^2].
+Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte web Medzinárodného observatória pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä komentáre a novinky týkajúce sa témy vzdelávania a posilňovania postavenia ľudí, pričom jeho cieľom je „reflektovať, ako zlepšiť digitálnu gramotnosť a spôsoby mobilizácie umelej inteligencie a digitálnych technológií s cieľom zvýšiť dostupnosť vzdelávania a odbornej prípravy a podporiť učenie sa.“[^2].
 
 ### Ako sa orientovať v množstve ponúkaných vzdelávacích zdrojov?
 Nástroje založené na umelej inteligencii, ako napríklad tie uvedené vyššie, tvoria jadro využívania umelej inteligencie vo vzdelávaní. V tomto kurze neskôr prinášame šablónu na analýzu vlastností týchto nástrojov z vedeckého, technického, regulačného a etického hľadiska. Cieľom je pomôcť učiteľom lepšie pochopiť prostriedky, ktoré oni alebo ich študenti využívajú.
