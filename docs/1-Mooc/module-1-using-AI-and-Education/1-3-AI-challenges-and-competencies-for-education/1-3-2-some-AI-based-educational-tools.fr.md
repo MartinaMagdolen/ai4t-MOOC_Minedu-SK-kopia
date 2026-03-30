@@ -20,27 +20,27 @@ Mnohé edtechové spoločnosti (pôsobiace v oblasti vzdelávacích technológi
 
 V roku 2021 sa realizoval prieskum o vzdelávaní na európskych základných a stredných školách, ktorý obsahuje zoznam niekoľkých AI nástrojov využívaných vo vzdelávaní, ktoré vznikli v rámci medzinárodných alebo národných projektov. Tieto nástroje sa šíria buď na základe licencií Creative Commons, alebo ako ovtvorené vzdelávacie zdroje.[^1] Príkladmi sú:
 
-- [Lalilo](https://p2ia.lalilo.com/){:target="_blank"} (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
+- [Lalilo](https://p2ia.lalilo.com/)(FR): vzdelávací asistent slúžiaci na adaptívne učenie sa čítania;
 
-- [Adaptiv'Math](https://www.adaptivmath.fr/){:target="_blank"} (FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
+- [Adaptiv'Math](https://www.adaptivmath.fr/)(FR): vzdelávací asistent slúžiaci na adaptívne učenie sa matematiky.
 
 ## Ďalšie príklady AI zdrojov
 Na internete sa dá nájsť množstvo ďalších nástrojov. Tu sú niektoré z nich:
 
 ### Na učenie jazykov a matematiky
-[Duolingo for Schools](https://schools.duolingo.com){:target="_blank"} : Bezplatná vrstva na správu nad aplikáciou na učenie jazykov Duolingo, ktorá umožňuje získať prehľad a určitú úroveň kontroly nad skúsenosťami študentov na Duolingu.
+[Duolingo for Schools](https://schools.duolingo.com) : Bezplatná vrstva na správu nad aplikáciou na učenie jazykov Duolingo, ktorá umožňuje získať prehľad a určitú úroveň kontroly nad skúsenosťami študentov na Duolingu.
 
-[Adaptiv'langue](https://evidenceb.fr/produits/adaptiv-langue){:target="_blank"} (FR): Každý študent vyplní diagnostický test, v ktorom je učiteľ informovaný o úrovni študenta a triedy v zručnostiach, na ktorých sa pracuje. Pokrok žiakov v aplikácii sa určuje podľa ich úspešnosti v cvičeniach, ktoré sú navrhnuté tak, aby im pomohli napredovať bez toho, aby ich demotivovali.
+[Adaptiv'langue](https://evidenceb.fr/produits/adaptiv-langue)(FR): Každý študent vyplní diagnostický test, v ktorom je učiteľ informovaný o úrovni študenta a triedy v zručnostiach, na ktorých sa pracuje. Pokrok žiakov v aplikácii sa určuje podľa ich úspešnosti v cvičeniach, ktoré sú navrhnuté tak, aby im pomohli napredovať bez toho, aby ich demotivovali.
 
-[EF Hello](https://www.hello.ef.com/){:target="_blank"} alebo [AndyChatbot](https://andychatbot.com/){:target="_blank"} (SK): Mobilné aplikácie umožňujúce študentom konverzovať v angličtine ako cudzom jazyku.
+[EF Hello](https://www.hello.ef.com/) alebo [AndyChatbot](https://andychatbot.com/){:target="_blank"} (SK): Mobilné aplikácie umožňujúce študentom konverzovať v angličtine ako cudzom jazyku.
 
-[Checkmath](https://checkmath.com/){:target="_blank"} (SK): Mobilná podpora výučby matematiky pre žiakov vo veku 11 až 13 rokov.
+[Checkmath](https://checkmath.com/)(SK): Mobilná podpora výučby matematiky pre žiakov vo veku 11 až 13 rokov.
 
-[Mathia](https://mathia.education/){:target="_blank"} : Na mieru šité aktivity, ktoré pomáhajú žiakom od CP po CE2 zvládnuť základy matematiky a napredovať s istotou.
+[Mathia](https://mathia.education/): Na mieru šité aktivity, ktoré pomáhajú žiakom od CP po CE2 zvládnuť základy matematiky a napredovať s istotou.
 
-[Photomath](https://photomath.com/fr){:target="_blank"}: Matematický riešiteľ, ktorý využíva mobilné telefóny na skenovanie, rozpoznávanie a zobrazovanie krokov pri riešení matematických úloh.
+[Photomath](https://photomath.com/fr): Matematický riešiteľ, ktorý využíva mobilné telefóny na skenovanie, rozpoznávanie a zobrazovanie krokov pri riešení matematických úloh.
 
-[Kwyk](https://www.kwyk.fr/){:target="_blank"}: Samoopravné matematické cvičenia s možnosťou prispôsobenia cesty.
+[Kwyk](https://www.kwyk.fr/): Samoopravné matematické cvičenia s možnosťou prispôsobenia cesty.
 
 ## Mapovanie umelej inteligencie vo vzdelávaní
 Ak chcete objaviť ďalšie zdroje založené na umelej inteligencii, navštívte webovú stránku Medzinárodného strediska pre sledovanie spoločenských vplyvov umelej inteligencie a digitálnych technológií (OBVIA). Prináša najmä úvahy a novinky na osi "Vzdelávanie a posilnenie postavenia", ktorej cieľom je "zamyslieť sa nad spôsobmi zlepšenia digitálnej gramotnosti a spôsobmi mobilizácie UI a digitálnych technológií s cieľom zvýšiť dostupnosť systému vzdelávania a odbornej prípravy a podporiť vzdelávanie". [^2].
