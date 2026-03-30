@@ -82,16 +82,16 @@ Zavádzanie technológií založených na umelej inteligencii v školách vyvol�
 
 - Budú mať dnešné novovznikajúce technológie vplyv na profesijné zručnosti učiteľov v budúcnosti?
 
-Autori správy Spoločného výskumného centra poukazujú na to, že okrem všeobecných pedagogických vedomostí, vedomostí o jednotlivých predmetoch a zručností v oblasti riadenia triedy budú pedagógovia potrebovať
+Autori správy Spoločného výskumného centra poukazujú na to, že okrem všeobecných pedagogických poznatkov, vedomostí o jednotlivých predmetoch a zručností v oblasti riadenia triedy budú pedagógovia potrebovať:
 
-- všeobecné digitálne zručnosti na používanie a uplatňovanie digitálnych technológií ako u každého občana[^9] týkajúce sa informačnej a digitálnej gramotnosti, komunikácie a spolupráce, tvorby digitálneho obsahu, bezpečnosti a riešenia problémov.
+- všeobecné digitálne kompetencie na používanie a aplikáciu digitálnych technológií ako u každého občana[^9] v oblastiach informačnej a digitálnej gramotnosti, komunikácie a spolupráce, tvorby digitálneho obsahu, bezpečnosti a riešenia problémov;
 
-- a zručnosti na zmysluplné využívanie týchto digitálnych technológií vo vzdelávaní.
+- kompetencie na zmysluplné využívanie týchto digitálnych technológií vo vzdelávaní.
 
-Konkrétnu výzvu zavádzania umelej inteligencie do vzdelávania a prípravy študentov na kontext využívajúci umelú inteligenciu predstavilo UNESCO v roku 2019[^10]:
-"*Príprava učiteľov na vzdelávanie využívajúce UI a zároveň príprava UI na pochopenie vzdelávania, ktorá však musí byť obojsmerná: učitelia sa musia naučiť nové digitálne zručnosti, aby mohli UI pedagogicky a zmysluplne využívať, a vývojári UI sa musia naučiť, ako učitelia pracujú a vytvárajú udržateľné riešenia v reálnom prostredí.*"
+V roku 2019 UNESCO predstavilo konkrétnu výzvu, ktorú predstavuje zavádzanie umelej inteligencie do vzdelávania a príprava študentov na svet ovplyvňovaný umelou inteligenciou[^10]:
+*„Príprava učiteľov na vzdelávanie s využitím umelej inteligencie a zároveň príprava umelej inteligencie na pochopenie vzdelávania, ktorá však musí byť obojsmerná: učitelia sa musia naučiť nové digitálne zručnosti, aby mohli AI zmysluplne využívať vo svojej pedagogickej praxi, a vývojári AI musia pochopiť prácu učiteľov a vytvárať riešenia, ktoré budú v reálnom prostredí udržateľné.“*
 
-V nasledujúcich moduloch tohto kurzu sa snažíme pomôcť pochopiť, čo je AI a jej základné technológie, uvedomiť si výhody a obmedzenia, aby sme ako učitelia mohli konať informovane a efektívne, a spochybniť vplyv systémov AI na učenie, vyučovanie a vzdelávanie.
+V nasledujúcich moduloch tohto online kurzu vám chceme pomôcť pochopiť umelú inteligenciu a jej základné technológie; uvedomiť si jej prínosy a riziká, aby sme ako učitelia mohli konať informovane a efektívne; a zamyslieť sa nad vplyvom AI systémov na učenie sa, vyučovanie a vzdelávanie.
 
 [^1]: Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN: 978-92-3-100447-6 - UNESCO, 2021
 
