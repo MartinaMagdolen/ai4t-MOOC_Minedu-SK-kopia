@@ -68,7 +68,7 @@ Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti
 
 3.  **Ako môže vzdelávanie pripraviť ľudí na život a prácu s umelou inteligenciou?**
 
-    *Ak má svet zabezpečiť, aby umelá inteligencia nezhoršovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť dôkladne ju pochopiť – čo je to AI, ako funguje a ako môže ovplyvniť jeho život. Niekedy tento súbor poznatkov označujeme aj výrazom „AI gramotnosť“. Kľúčovú úlohu v tomto smere budú zohrávať učitelia.*
+    *Ak má svet zabezpečiť, aby umelá inteligencia neprehlbovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť dôkladne ju pochopiť – čo je to AI, ako funguje a ako môže ovplyvniť jeho život. Niekedy tento súbor poznatkov označujeme aj výrazom „AI gramotnosť“. Kľúčovú úlohu v tomto smere budú zohrávať učitelia.*
 
     *Ak chceme pomôcť žiakom naučiť sa efektívne fungovať vo svete, ktorý je čoraz viac ovplyvňovaný umelou inteligenciou, vyžaduje si to pedagogiku, ktorá kladie väčší dôraz na ľudské zručnosti (napr. kritické myslenie, komunikáciu, spoluprácu a tvorivosť) a schopnosť spolupracovať so všadeprítomnými AI nástrojmi v živote, učení a práci.*
 
