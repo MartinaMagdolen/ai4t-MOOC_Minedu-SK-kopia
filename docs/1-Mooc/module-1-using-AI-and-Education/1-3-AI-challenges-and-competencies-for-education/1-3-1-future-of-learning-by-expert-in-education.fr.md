@@ -60,27 +60,27 @@ Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti
 
     *„Existuje tiež potenciál, aby umelá inteligencia umožnila nové prístupy k hodnoteniu, ako je napríklad adaptívne a priebežné hodnotenie založené na umelej inteligencii[^5]. Hneď na začiatku je však dôležité poznamenať, že využívanie umelej inteligencie na učenie a hodnotenie vyvoláva aj rôzne obavy, ktoré zatiaľ neboli dostatočne prebraté. Patria sem obavy týkajúce sa prístupu AI nástrojov k pedagogike, nedostatku spoľahlivých dôkazov o ich účinnosti a ich potenciálneho vplyvu na rolu učiteľov, ako aj širšie etické otázky[^6][^7].“*
 
-    *„Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.*“
+    *„Mnohé využitia umelej inteligencie zamerané na učiteľov majú za cieľ pomôcť znížiť pracovné zaťaženie učiteľov automatizáciou úloh, ako je hodnotenie, odhaľovanie plagiátorstva, administratíva či poskytovanie spätnej väzby. Často sa uvádza, že by to malo učiteľom uvoľniť čas, ktorý by následne mohli investovať do iných úloh, napríklad do poskytovania účinnejšej podpory jednotlivým študentom.“*
 
 2.  **Ako môžeme zabezpečiť etické, inkluzívne a spravodlivé využívanie umelej inteligencie vo vzdelávaní?
 
-    "Etické, inkluzívne a spravodlivé využívanie UI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Existujú otázky, ktoré sa sústreďujú na údaje a algoritmy, pedagogické rozhodnutia, inklúziu a "digitálnu priepasť", právo detí na súkromie, slobodu a neobmedzený rozvoj a spravodlivosť z hľadiska pohlavia, zdravotného postihnutia, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu a geografickej polohy.*"
+    *„Etické, inkluzívne a spravodlivé využívanie AI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Príslušné otázky sa zameriavajú na dáta a algoritmy, pedagogické rozhodnutia, inklúziu a ,digitálnu priepasť‘, právo detí na súkromie, slobodu a nerušený vývoj a rovnosť z hľadiska rodu, zdravotného stavu, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu či geografickej polohy.“*
 
 3.  **Ako môže vzdelávanie pripraviť ľudí na život a prácu s umelou inteligenciou?
 
-    "*Ak má svet zabezpečiť, aby UI nezhoršovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť získať dôkladné znalosti o UI - čo je to UI, ako funguje a ako by mohla ovplyvniť jeho život. Niekedy sa to označuje ako "gramotnosť v oblasti UI". Kľúčovú úlohu v tomto smere budú zohrávať učitelia.*"
+    *„Ak má svet zabezpečiť, aby umelá inteligencia nezhoršovala existujúce nerovnosti, bude čoraz dôležitejšie, aby mal každý občan možnosť dôkladne ju pochopiť – čo je to AI, ako funguje a ako môže ovplyvniť jeho život. Niekedy tento súbor poznatkov označujeme aj výrazom ,AI gramotnosť‘. Kľúčovú úlohu v tomto smere budú zohrávať učitelia.“*
 
-    "*Pomôcť žiakom naučiť sa efektívne žiť vo svete, ktorý je čoraz viac ovplyvňovaný UI, si vyžaduje pedagogiku, ktorá kladie väčší dôraz na ľudské zručnosti (napr. kritické myslenie, komunikáciu, spoluprácu a tvorivosť) a schopnosť spolupracovať so všadeprítomnými nástrojmi UI v živote, pri učení a v práci.*"
+    *„Ak chceme pomôcť žiakom naučiť sa efektívne fungovať vo svete, ktorý je čoraz viac ovplyvňovaný umelou inteligenciou, vyžaduje si to pedagogiku, ktorá kladie väčší dôraz na ľudské zručnosti (napr. kritické myslenie, komunikáciu, spoluprácu a tvorivosť) a schopnosť spolupracovať so všadeprítomnými AI nástrojmi v živote, učení a práci.“*
 
 ## Základné kompetencie potrebné v ére umelej inteligencie
 
-Zavádzanie technológií založených na UI v školách vyvoláva otázky o vplyve používania týchto systémov na vyučovacie zručnosti, na čo upozornilo Spoločné výskumné centrum (JRC), oddelenie Európskej komisie pre vedu a znalosti[^8]:
+Zavádzanie technológií založených na umelej inteligencii v školách vyvoláva otázky o vplyve používania týchto systémov na vyučovacie zručnosti, na čo upozornilo Spoločné výskumné centrum (JRC) – zložka Európskej komisie, ktorá poskytuje vedeckú a znalostnú podporu[^8]:
 
-- Do akej miery by mal učiteľ alebo používateľ poznať základnú technológiu?
+- Do akej miery by mal učiteľ alebo používateľ poznať technológiu, na ktorej sú AI nástroje postavené?
 
-- Do akej miery musia pedagógovia poznať umelú inteligenciu, aby mohli konať znalostne a efektívne ako pedagógovia?
+- Do akej miery by mali pedagógovia poznať umelú inteligenciu, aby mohli vo svojej práci konať informovane a efektívne?
 
-- Budú mať dnešné nové technológie vplyv na profesijné zručnosti učiteľov v budúcnosti?
+- Budú mať dnešné novovznikajúce technológie vplyv na profesijné zručnosti učiteľov v budúcnosti?
 
 Autori správy Spoločného výskumného centra poukazujú na to, že okrem všeobecných pedagogických vedomostí, vedomostí o jednotlivých predmetoch a zručností v oblasti riadenia triedy budú pedagógovia potrebovať
 
