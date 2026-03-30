@@ -1,40 +1,39 @@
 ---
-názov: 1.3.1 Budúcnosť expertného vzdelávania vo vzdelávaní
-opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére AI.
+názov: 1.3.1 Budúcnosť vzdelávania podľa odborníkov
+opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M1.3.1t
-    - Názov: 1.3.1 Budúcnosť expertného učenia vo vzdelávaní
+    - Názov: 1.3.1 Budúcnosť vzdelávania podľa odborníkov
     - Typ: text
-    - Opis: Identifikujte výzvy súvisiace s AI vo vzdelávaní a základné zručnosti potrebné v ére AI.
+    - Opis: Identifikujte výzvy spojené s AI vo vzdelávaní a základné zručnosti potrebné v ére umelej inteligencie.
     - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
-        - AI4T 
+    - Autori: AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Budúcnosť vzdelávania podľa odborníkov na vzdelávanie
-## Umelá inteligencia je už v triedach.
+# Budúcnosť vzdelávania podľa odborníkov
+## Umelá inteligencia sa už dostala do tried
 
-Technológie umelej inteligencie majú potenciál podporiť nové pedagogické a odborné postupy v prospech učiteľov a žiakov. Tu je niekoľko príkladov činností v oblasti vzdelávania, ktoré sa už testujú v triedach a podporujú sa technológiami umelej inteligencie:
+Technológie umelej inteligencie majú potenciál podporiť nové pedagogické a odborné postupy v prospech učiteľov a žiakov. Tu je niekoľko príkladov vzdelávacích aktivít, ktoré využívajú technológie umelej inteligencie a už sa experimentálne overujú v triedach:
 
 - Individualizované učenie krok za krokom
 
 - Dynamické zoskupovanie žiakov pre efektívnejšiu prácu v triede
 
-- Analýza písania žiakov a automatické hodnotenie
+- Analýza a automatické hodnotenie žiackych písomných prác
 
-- Chatboti na pomoc študentom
+- Četboti na podporu žiakov
 
 - Automatické generovanie testov 
 
-- Monitorovanie študijných výsledkov študentov
+- Monitorovanie študijných výsledkov žiakov
 
-- Správa administratívnych úloh, ako je organizácia výučby alebo odpovede na často kladené otázky.
+- Administratívne úlohy, ako je tvorba rozvrhov hodín či odpovedanie na často kladené otázky.
 
-K týmto niekoľkým príkladom by sme mohli pridať dlhý zoznam nástrojov, ktoré sú dnes súčasťou každodenného života učiteľov a žiakov pri používaní digitálnych služieb, ako napríklad automatická oprava pravopisu, odporúčania a návrhy na čítanie, spamové filtre pre e-maily, automatické rozpoznávanie hlasu alebo tváre atď.
+K týmto niekoľkým príkladom by sme mohli pridať dlhý zoznam nástrojov, ktoré sú dnes súčasťou každodenného života učiteľov a žiakov pri používaní digitálnych služieb, ako je automatická oprava pravopisu, odporúčania či návrhy na čítanie, spamové filtre na e-maily, automatické rozpoznávanie hlasu alebo tváre atď.
 
-Ak vezmeme do úvahy len úlohy špecifické pre vzdelávanie, Fengchun &amp; al [^1] definovali súbor štyroch kategórií vznikajúcich a potenciálnych aplikácií založených na potrebách:
+Ak vezmeme do úvahy len úlohy orientované na vzdelávanie, Fengchun a kol. [^1] definovali súbor štyroch kategórií novovznikajúcich a potenciálnych aplikácií založených na potrebách:
 
 - Riadenie vzdelávania ;
 
