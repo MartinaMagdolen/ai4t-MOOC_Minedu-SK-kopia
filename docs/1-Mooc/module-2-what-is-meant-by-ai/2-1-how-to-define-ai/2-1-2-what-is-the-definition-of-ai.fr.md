@@ -1,14 +1,14 @@
 ---
-názov: "2.1.2 Aká je definícia umelej inteligencie?
-opis: Uveďte rôzne definície umelej inteligencie a jej oblastí.
+názov: "2.1.2 Aká je definícia umelej inteligencie?"
+popis: "Uveďte rôzne definície umelej inteligencie a jej oblastí."
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M2.1.2t
-    - Názov: 2.1.2 Čo je definícia umelej inteligencie?
+    - Názov: 2.1.2 Aká je definícia umelej inteligencie?
     - Typ: text
     - Opis: Uveďte rôzne definície umelej inteligencie a jej oblastí.
     - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Autori:
         - AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
@@ -17,32 +17,32 @@ opis: Uveďte rôzne definície umelej inteligencie a jej oblastí.
 
 ## Vývoj definície
 
-Podať definíciu umelej inteligencie je zložitá úloha, pretože pre túto stále veľmi novú vedu (70 rokov) neexistuje žiadna všeobecne prijatá definícia alebo taxonómia umelej inteligencie[^1].
+Definovať umelú inteligenciu je zložitá úloha, pretože táto stále veľmi mladá vedu ani po 70 rokoch nemá žiadnu všeobecne prijatú definíciu či taxonómiu.[^1]
 
-Pojem "umelá inteligencia" prvýkrát použili v roku 1955 McCarthy &amp; al[^2] na označenie "*vedy a techniky vytvárania inteligentných strojov, najmä inteligentných počítačových programov*".
+Pojem „umelá inteligencia“ prvýkrát použili v roku 1955 McCarthy a kol.[^2] na označenie „*vedy a techniky vytvárania inteligentných prístrojov, najmä inteligentných počítačových programov.“*
 
-V roku 1968 ďalší otec umelej inteligencie Marvin Minsky navrhol stručnú definíciu umelej inteligencie, keď uviedol, že ide o "*vedu o tom, ako prinútiť stroje robiť veci, ktoré by si vyžadovali inteligenciu, keby ich robili ľudia*"[^3].
+V roku 1968 navrhol stručnú definíciu umelej inteligencie ďalší zo zakladateľov tejto disciplíny, Marvin Minsky. Uviedol, že ide o „*vedu o tom, ako prinútiť prístroje robiť veci, ktoré by si vyžadovali inteligenciu, keby ich robili ľudia.“[^3]*
 
-Odvtedy sa pojem "umelá inteligencia" často používa na označenie algoritmov, ktoré simulujú alebo zdieľajú niektoré schopnosti inteligencie živých bytostí.
+Odvtedy sa pojem „umelá inteligencia“ často používa na označenie algoritmov, ktoré simulujú alebo zdieľajú niektoré schopnosti inteligentných živých bytostí.
 
-Na európskej úrovni skupina expertov na vysokej úrovni pre umelú inteligenciu navrhuje túto podrobnú definíciu, na ktorú sa bežne odkazuje v práci Európskej komisie[^4] :
+Pod záštitou Európskej komisie funguje expertná skupina pre umelú inteligenciu a tá navrhuje nasledujúcu podrobnú definíciu, na ktorú sa bežne odkazuje v dokumentoch Európskej komisie:[^4]
 
-*"Systémy umelej inteligencie (UI) sú systémy* ***softvéru*** *(prípadne aj hardvéru) navrhnuté ľuďmi, ktoré vzhľadom na komplexný cieľ konajú vo fyzickom alebo digitálnom rozmere tak, že vnímajú svoje prostredie prostredníctvom získavania údajov, interpretujú získané štruktúrované alebo neštruktúrované údaje, uvažujú o poznatkoch alebo spracúvajú informácie získané z týchto údajov a rozhodujú o najlepšej činnosti (činnostiach) na dosiahnutie daného cieľa. Systémy umelej inteligencie môžu používať symbolické pravidlá alebo sa učiť numerický model a môžu tiež prispôsobovať svoje správanie analýzou toho, ako je prostredie ovplyvnené ich predchádzajúcimi činnosťami. "* [preklad Deepl]
+*AI systémy sú **softvérové** (prípadne aj hardvérové) systémy navrhnuté ľuďmi, ktoré po zadaní komplexného cieľa konajú vo fyzickom alebo digitálnom rozmere tak, že vnímajú svoje prostredie získavaním údajov, interpretujú získané štruktúrované alebo neštruktúrované údaje, uvažujú o poznatkoch alebo spracúvajú informácie získané z týchto údajov a vyberajú najlepšie možné kroky na dosiahnutie daného cieľa. AI systémy môžu využívať symbolické pravidlá alebo si osvojiť numerický model, pričom svoje správanie môžu prispôsobovať na základe analýzy toho, aký vplyv malo ich predchádzajúce konanie na okolité prostredie.*
 
-Tento opis umelej inteligencie je znázornený na nasledujúcom obrázku [^3].
+Tento opis umelej inteligencie je znázornený na nasledujúcom obrázku:[^3]
 
 <figure>
 	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-FR.png" />
-	 <figcaption> Päť veľkých myšlienok v umelej inteligencii. Kredit: Iniciatíva AIK12. CC BY-NC-SA 4.0 International </figcaption>
+	 <figcaption> Päť veľkých myšlienok o umelej inteligencii. Autor: Iniciatíva AIK12. CC BY-NC-SA 4.0 Medzinárodná </figcaption>
 </figure>
 
 ## Vedecká reprezentácia
 
-Umelá inteligencia ako vedná disciplína zahŕňa niekoľko čiastkových odborných oblastí a s nimi súvisiacich techník [^4]. Niektoré z nich sú často citované, iné sú menej známe.
+Umelá inteligencia je vednou disciplínou, ktorá zahŕňa niekoľko podoblastí odborných znalostí a s nimi súvisiacich techník.[^4] Niektoré z nich sa spomínajú často, iné sú menej známe:
 
-- Strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňovacie učenie),
-- strojové uvažovanie (ktoré zahŕňa plánovanie, rozvrhovanie, reprezentáciu znalostí a uvažovanie, vyhľadávanie a optimalizáciu),
-- A robotika (ktorá zahŕňa riadenie, vnímanie, senzory a aktuátory, ako aj integráciu všetkých ostatných techník v kyberneticko-fyzických systémoch).
+- strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňovacie učenie);
+- strojové uvažovanie (ktoré zahŕňa plánovanie, rozvrhovanie, reprezentáciu znalostí a uvažovanie, vyhľadávanie a optimalizáciu);
+- robotika (ktorá zahŕňa riadenie, vnímanie, senzory a aktuátory, ako aj integráciu všetkých ostatných techník v kyberneticko-fyzických systémoch).
 
 <figure>
   <img src="Images/AI-sub-disciplines-FR.jpg" />
