@@ -64,7 +64,7 @@ Tieto novovznikajúce AI technológie treba podrobiť skúmaniu aj v súvislosti
 
 2.  **Ako môžeme zabezpečiť etické, inkluzívne a spravodlivé využívanie umelej inteligencie vo vzdelávaní?**
 
-    *Etické, inkluzívne a spravodlivé využívanie AI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Príslušné otázky sa zameriavajú na dáta a algoritmy, pedagogické rozhodnutia, inklúziu a „digitálnu priepasť“, právo detí na súkromie, slobodu a nerušený vývoj a rovnosť z hľadiska rodu, zdravotného stavu, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu či geografickej polohy.*
+    *Etické, inkluzívne a spravodlivé využívanie AI vo vzdelávaní má vplyv na každý z cieľov udržateľného rozvoja. Príslušné otázky sa zameriavajú na dáta a algoritmy, pedagogické rozhodnutia, inklúziu a „digitálnu priepasť“, právo detí na súkromie, slobodu a nerušený vývoj, ako aj rovnosť z hľadiska rodu, zdravotného stavu, sociálneho a ekonomického postavenia, etnického a kultúrneho pôvodu či geografickej polohy.*
 
 3.  **Ako môže vzdelávanie pripraviť ľudí na život a prácu s umelou inteligenciou?**
 
