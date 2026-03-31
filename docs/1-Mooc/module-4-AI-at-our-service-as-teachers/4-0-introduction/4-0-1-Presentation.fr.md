@@ -14,7 +14,7 @@ popis: Predstavenie 4. modulu
     - Dátum: 2022-11-15
 
 
-# Mgr:
+# Predstavenie 4. modulu
 
 **Modul č. 4: Umelá inteligencia v službách učiteľov** má nasledujúce ciele:
 
