@@ -27,7 +27,7 @@ Hoci AI vzdelávacie zdroje sú čoraz bežnejšie, v súčasnosti neexistuje n�
 
 Výskumné laboratórium LORIA[^1] špeciálne navrhlo šablónu na charakterizovanie AI[^2] na vedeckej, technickej, regulačnej a etickej úrovni s cieľom pomôcť učiteľom lepšie pochopiť zdroje, ktoré oni alebo ich študenti používajú.
 
-Je usporiadaná do rôznych vrstiev, ktoré pokrývajú všetky charakteristiky AI vzdelávacích nástrojov, od scenárov používania až po mechanizmus transparentnosti na vysvetlenie rozhodnutia navrhnutého umelou inteligenciou.
+Je usporiadaná do rôznych vrstiev, ktoré pokrývajú všetky charakteristiky AI vzdelávacích nástrojov, od scenárov používania až po mechanizmus transparentnosti, ktorý vysvetľuje rozhodnutia navrhnuté umelou inteligenciou.
 
 **Chcete vedieť, aké otázky si klásť pri používaní AI vzdelávacích nástrojov?**
 
@@ -37,7 +37,7 @@ Kliknite na nasledujúci obrázok a pozrite si šablónu na analýzu AI vzdeláv
   <img src="Images/AI4T-Template-Detective-visual-FR.jpg" alt="Šablóna na analýzu AI vzdelávacích zdrojov"/>
 </figure></a>`
 
-Šablónu vo formáte pripravenom na použitie[^3] si môžete stiahnuť a využiť aj na vlastné AI vzdelávacie nástroje a zdroje.
+Hotovú šablónu pripravenú na použitie[^3] si môžete stiahnuť a využiť aj na analýzu AI vzdelávacích nástrojov a zdrojov, ktoré už používate.
 
 [^1]: Loria [Laboratoire Lorrain de Recherche en Informatique et ses Applications](https://www.loria.fr) je súčasťou výskumnej jednotky (UMR 7503), ktorú spoločne využívajú [CNRS](http://www.cnrs.fr), [Université de Lorraine](https://welcome.univ-lorraine.fr/fr/) a [Inria](http://www.inria.fr/). Je členom konzorcia AI4T a prispieva svojimi odbornými znalosťami v oblasti umelej inteligencie a vzdelávania, ako aj analýzy učenia.
 
