@@ -17,7 +17,7 @@ popis: "Uveďte rôzne definície umelej inteligencie a jej oblastí."
 
 ## Vývoj definície
 
-Definovať umelú inteligenciu je zložitá úloha, pretože táto stále veľmi mladá vedu ani po 70 rokoch nemá žiadnu všeobecne prijatú definíciu či taxonómiu.[^1]
+Definovať umelú inteligenciu je zložitá úloha, pretože táto stále veľmi mladá veda ani po 70 rokoch nemá žiadnu všeobecne prijatú definíciu či taxonómiu.[^1]
 
 Pojem „umelá inteligencia“ prvýkrát použili v roku 1955 McCarthy a kol.[^2] na označenie „*vedy a techniky vytvárania inteligentných prístrojov, najmä inteligentných počítačových programov.“*
 
@@ -40,7 +40,7 @@ Tento opis umelej inteligencie je znázornený na nasledujúcom obrázku:[^3]
 
 Umelá inteligencia je vednou disciplínou, ktorá zahŕňa niekoľko podoblastí odborných znalostí a s nimi súvisiacich techník.[^4] Niektoré z nich sa spomínajú často, iné sú menej známe:
 
-- strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňovanée učenie);
+- strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňované učenie);
 - strojové uvažovanie (z angl. _machine reasoning_, ktoré zahŕňa plánovanie, rozvrhovanie, reprezentáciu znalostí a uvažovanie, vyhľadávanie a optimalizáciu);
 - robotika (ktorá zahŕňa riadenie, vnímanie, senzory a aktuátory, ako aj integráciu všetkých ostatných techník do kyberneticko-fyzikálnych systémov).
 
