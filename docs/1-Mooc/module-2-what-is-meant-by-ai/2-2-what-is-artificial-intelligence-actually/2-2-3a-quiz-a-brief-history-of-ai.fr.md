@@ -16,7 +16,7 @@ typ: aktivita
 
 
 # Aktivita: Trocha histórie
- Na záver tejto lekcie skúsime zodpovedať niekoľko otázok o dejinách umelej inteligencie.
+ Na záver tejto lekcie si pár otázkami otestujete svoje znalosti o dejinách umelej inteligencie.
 
 
 **Prístup k aktivite**  
