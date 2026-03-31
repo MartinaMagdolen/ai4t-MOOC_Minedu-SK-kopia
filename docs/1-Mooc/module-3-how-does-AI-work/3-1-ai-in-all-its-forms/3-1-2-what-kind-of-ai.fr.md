@@ -17,18 +17,22 @@ popis: "Získajte základné pochopenie typov AI"
 Vo vedeckej literatúre možno nájsť mnoho typov umelej inteligencie. Pozrime sa, na čo jednotlivé typy odkazujú.
 
 ## Slabá alebo silná umelá inteligencia?
-- Slabá umelá inteligencia  
-  Ide o umelú inteligenciu, ktorú poznáme dnes: je to algoritmus, ktorý sa "učí" tým, že prispôsobuje svoje parametre učebným dátam. Nie je obdarený mentálnymi ani kognitívnymi schopnosťami, ale je schopný vykonávať konkrétnu úlohu, niekedy dokonca oveľa efektívnejšie než človek.
-- Silná umelá inteligencia  
-  Umelá inteligencia, ktorá je schopná kopírovať ľudské schopnosti (učenie sa, chápanie, porozumenie, uvažovanie, rozhodovanie, vedomie, emócie atď.). Cieľom vedcov je vyvinúť „silnú“ umelú inteligenciu, ktorá by vedela byť autonómna a všestranne využiteľná aj v nečakaných situáciách. Súčasné výsledky však ukazujú, že tento ideál silnej umelej inteligencie je technicky nemožný. Silná umelá inteligencia tak dodnes nevznikla, je iba teoretickým konceptom.
+- **Slabá umelá inteligencia**
+
+  Ide o umelú inteligenciu, ktorú poznáme dnes: je to algoritmus, ktorý sa „učí“ tým, že prispôsobuje svoje parametre učebným dátam. Nie je obdarený mentálnymi ani kognitívnymi schopnosťami, ale je schopný vykonávať konkrétnu úlohu, niekedy dokonca oveľa efektívnejšie než človek.
+- **Silná umelá inteligencia**
+  
+  Umelá inteligencia, ktorá je schopná kopírovať ľudské schopnosti (napr. učenie sa, chápanie, porozumenie, uvažovanie, rozhodovanie, vedomie či emócie). Cieľom vedcov je vyvinúť „silnú“ umelú inteligenciu, ktorá by vedela byť autonómna a všestranne využiteľná aj v nečakaných situáciách. Súčasné výsledky však ukazujú, že tento ideál silnej umelej inteligencie je technicky nemožný. Silná umelá inteligencia tak dodnes nevznikla, je iba teoretickým konceptom.
 
 ## Symbolický prístup alebo strojové učenie?
 
-Čo pri slabej umelej inteligencii myslíme pod symbolickými prístupmi či strojovým učením?
+Čo pri slabej umelej inteligencii myslíme pod symbolickým prístupom či strojovým učením?
 
-- Symbolická umelá inteligencia
-  Tento prístup k umelej inteligencii, na ktorý odkazujú aj výrazy „umelá inteligencia založená na pravidlách“ či „klasická umelá inteligencia“, je založený na logike a existujúcich znalostiach, ktoré poskytujú ľudskí odborníci. Z historického hľadiska je symbolický prístup starší – používa sa v expertných systémoch a novšie aj pri vývoji tzv. sémantickému webu.
-- Strojové učenie (digitálny prístup)  
+- **Symbolická umelá inteligencia**
+  
+  Tento prístup k umelej inteligencii, na ktorý odkazujú aj výrazy „umelá inteligencia založená na pravidlách“ či „klasická umelá inteligencia“, je založený na logike a existujúcich znalostiach, ktoré poskytujú ľudskí odborníci. Z historického hľadiska je symbolický prístup starší – používa sa v expertných systémoch a novšie aj pri vývoji tzv. sémantického webu.
+- **Strojové učenie (digitálny prístup)**
+  
   Tento prístup, tiež známy ako „digitálny prístup“, je založený na dátach a učení. Prístup strojového učenia zahŕňa umelé neurónové siete a hlboké učenie, keď je k dispozícii viacero vrstiev takýchto výpočtových jednotiek.[^1] V poslednom čase sa výrazne zefektívnil, a to vďaka zvýšenej výpočtovej rýchlosti a lepšej architektúre procesorov vrátane grafických procesorov a cloud computingu. Tento prístup nám umožňuje napríklad automaticky prepisovať diktované texty alebo rozpoznávať objekty na obrázkoch. Vyžaduje si veľa dát a je založený na štatistických prístupoch.
 
 <figure>
@@ -41,13 +45,13 @@ Vo vedeckej literatúre možno nájsť mnoho typov umelej inteligencie. Pozrime 
 V rámci prístupov strojového učenia existujú dva typy systémov umelej inteligencie v závislosti od toho, ako využívajú trénovacie dáta:[^2]
 
 - **Učenie s dohľadom**  
-  *Pod pojmom „učenie s dohľadom“ sa myslí používanie označených dát (napríklad fotografií, na ktorých je uvedené, či sú na nich vyobrazené mačky alebo nie) na trénovanie algoritmov. Tieto prístupy si vytvárajú vlastné metódy na predpovedanie toho, ako by mali byť obrázky označené.*
+  *Pod týmto pojmom sa myslí používanie označených dát (napríklad fotografií, na ktorých je uvedené, či sú na nich vyobrazené mačky alebo nie) na trénovanie algoritmov. Tieto prístupy si vytvárajú vlastné metódy na predpovedanie toho, ako by mali byť obrázky označené.*
 - **Učenie bez dohľadu**  
   *Učenie bez dohľadu sa môže použiť, keď nemáme k dispozícii kvalitne označené dáta. Dokáže v dátach dobre objavovať nové zhluky a asociácie, ktoré by človek nemusel úspešne identifikovať alebo označiť. Keďže takto vytvorené označenia sú často neúplné alebo nepresné, mnohé aplikácie (napríklad odporúčacie systémy) prístupy učenia sa s dohľadom a bez dohľadu kombinujú.*
 
 Mnohé mechanizmy umelej inteligencie dnes využívajú učenie s dohľadom. Na ilustráciu ich fungovania si predstavme, že chceme systém umelej inteligencie naučiť rozpoznať mačku na obrázku.
 
-Na tento účel poskytneme umelej inteligencii veľké množstvo dát. V tomto príklade jej poskytujeme veľa obrázkov, na ktorých vidieť mačku, a veľa obrázkov bez mačky. Program tak upraví svoje parametre tak, aby jeho výstupom bola informaćia o tom, či je na obrázku prítomná mačka alebo nie. Všetky tieto obrázky sú vstupnými údajmi a očakávaný výsledok, či sa na obrázku nachádza alebo mačka alebo nie, nazývame výstupnými údajmi. Tieto vstupné a výstupné údaje sú jedinými informáciami, ktoré poskytujeme na účely trénovania.
+Na tento účel poskytneme umelej inteligencii veľké množstvo dát. V tomto príklade jej poskytujeme veľa obrázkov, na ktorých vidieť mačku, a veľa obrázkov bez mačky. Program tak upraví svoje parametre tak, aby jeho výstupom bola informácia o tom, či je na obrázku prítomná mačka alebo nie. Všetky tieto obrázky sú vstupnými údajmi a očakávaný výsledok, či sa na obrázku nachádza mačka alebo nie, nazývame výstupnými údajmi. Tieto vstupné a výstupné údaje sú jedinými informáciami, ktoré poskytujeme na účely trénovania.
 
 Výpočtový mechanizmus preto musí upraviť vnútorné parametre (podobne ako keď nastavujeme ovládacie gombíky na fotoaparáte), aby určil, či sa na obrázku nachádza mačka alebo nie. Prvýkrát nám poskytne náhodný, a teda s najväčšou pravdepodobnosťou nesprávny výsledok. Potom mechanizmus postupne dostáva pozitívnu alebo negatívnu spätnú väzbu, vďaka ktorej pozoruje svoje chyby a postupnými pokusmi upravuje parametre tak, aby sa chybovosť znížila a úspešnosť zvýšila. Tento proces je známy ako strojové učenie.
 
