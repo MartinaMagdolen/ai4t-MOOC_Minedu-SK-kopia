@@ -1,18 +1,19 @@
 ---
-názov: "2.2.4 Aktivita: Počiatky technológií umelej inteligencie
-opis: Pôvod 3 aplikácií založených na umelej inteligencii - prirodzená interakcia, rozpoznávanie obrazu a autonómne auto.
-prispievateľ: Nicolas, Rougier - Inria
-              Daniela, Hau - SCRIPT / MENJE
-              Claude, Reuters - SCRIPT / MENJE
-typ: činnosť
+názov: "2.2.4 Aktivita: Pôvod AI technológií"
+popis: "Pôvod 3 využití umelej inteligencie – prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto."
+prispievateľ: 
+  - "Nicolas, Rougier - Inria"
+  - "Daniela, Hau - SCRIPT / MENJE"
+  - "Claude, Reuters - SCRIPT / MENJE"
+typ: aktivita
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M2.2.4a
-    - Názov: 2.2.4 Činnosť: Pôvod technológií umelej inteligencie 
-    - Typ: činnosť
-    - Typ: aktivita Opis: Pôvod 3 aplikácií založených na AI - prirodzená interakcia, rozpoznávanie obrazu a autonómne auto.
+    - Názov: 2.2.4 Aktivita: Pôvod AI technológií
+    - Typ: aktivita
+    - Opis: Pôvod 3 využití umelej inteligencie – prirodzené rozhrania, rozpoznávanie obrazu a autonómne auto.
     - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Autori:
         - AI4T 
         - Nicolas, Rougier - Inria
         - Daniela, Hau - SCRIPT / MENJE
@@ -21,24 +22,24 @@ typ: činnosť
     - Dátum: 2022-11-15
 
 
-# Aktivita: Pôvod 3 technológií umelej inteligencie
+# Aktivita: Pôvod troch AI technológií
 
-## Prirodzená interakcia, rozpoznávanie obrazu a aplikácie pre autonómne vozidlá
+## Prirodzené rozhrania, rozpoznávanie obrazu a autonómne vozidlá
 
-Prirodzená interakcia, rozpoznávanie obrazu a autonómne autá sú tri technológie, ktoré sa bežne uvádzajú ako aplikácie umelej inteligencie:
+Prirodzené rozhrania, rozpoznávanie obrazu a autonómne autá sú tri technológie, ktoré sa bežne uvádzajú ako príklady využitia AI:
 
-- Aplikácie prirodzenej interakcie sú založené na technikách komunikácie a spracovania prirodzeného jazyka (NLP), ktoré sa používajú na rozpoznávanie a tvorbu reči, chatboty, hlasových asistentov, automatické sumarizácie textu, extrakciu termínov, automatický preklad atď.
+- Prirodzené používateľské rozhrania (NUI, z angl. _Natural User Interface_) sú založené na technikách komunikácie a spracovania prirodzeného jazyka (NLP), ktoré sa používajú na: rozpoznávanie a tvorbu reči, četboty, hlasových asistentov, automatické zhŕňanie textov, extrakciu termínov, strojový preklad atď.
 
-- Aplikácie na rozpoznávanie obrazu sú založené na technikách počítačového videnia, ktoré sa používajú na rozpoznávanie tváre, vizuálnu diagnostiku, rozpoznávanie rukopisu atď.
+- Aplikácie na rozpoznávanie obrazu sú založené na technikách počítačového videnia, ktoré sa používajú na: rozpoznávanie tvárí, vizuálnu diagnostiku, rozpoznávanie rukou písaného textu atď.
 
-- Autonómne autá sú výsledkom integrácie a interakcie technológií a spájajú niekoľko techník: vnímanie, uvažovanie, činnosť, učenie a interakciu s prostredím.
+- Autonómne vozidlá sú výsledkom integračných a interakčných technológií a spájajú niekoľko techník: vnímanie, uvažovanie, konanie, učenie sa a interakciu s prostredím.
 
 ### Odkiaľ pochádzajú?
 
-V nasledujúcej aktivite vytvoríte prepojenie medzi určitými vedeckými pokrokmi a technológiami založenými na umelej inteligencii, ktoré by sa mohli využívať vo vzdelávaní (prirodzená interakcia, rozpoznávanie obrazu). Autonómne auto bude prezentované ako príklad toho, čo očakávame od umelej inteligencie.
+V nasledujúcej aktivite prepojíte určité vedecké pokroky s AI technológiami, ktoré by sa dali využívať vo vzdelávaní (prirodzené používateľské rozhrania, rozpoznávanie obrazu). Autonómne vozidlá budú prezentované ako príklad toho, čo ešte od umelej inteligencie očakáva.
 
-**Chcete sa dozvedieť viac o 3 technológiách založených na umelej inteligencii?
-Kliknite na obrázok nižšie a postupujte podľa pokynov.
+**Chcete sa dozvedieť viac o troch AI technológiách?**
+Kliknite na nasledujúci obrázok a postupujte podľa pokynov.
 
 <a href="2-2-4-Activity-Discover-AI-innovations-FR/2-2-4-Origin-of-AI-innovations-FR.html" target="_blank"><figure>
   <img src="Images/AI-historical-timeline-FR.png" alt="Image of AI history" />
