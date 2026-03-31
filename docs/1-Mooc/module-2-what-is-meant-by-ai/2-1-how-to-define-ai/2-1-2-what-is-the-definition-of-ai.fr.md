@@ -25,7 +25,7 @@ V roku 1968 navrhol stručnú definíciu umelej inteligencie ďalší zo zaklada
 
 Odvtedy sa pojem „umelá inteligencia“ často používa na označenie algoritmov, ktoré simulujú alebo zdieľajú niektoré schopnosti inteligentných živých bytostí.
 
-Pod záštitou Európskej komisie funguje expertná skupina pre umelú inteligenciu a tá navrhuje nasledujúcu podrobnú definíciu, na ktorú sa bežne odkazuje v dokumentoch Európskej komisie:[^4]
+Pod záštitou Európskej komisie funguje Vysoká expertná skupina pre umelú inteligenciu a tá navrhuje nasledujúcu podrobnú definíciu, na ktorú sa bežne odkazuje v dokumentoch Európskej komisie:[^4]
 
 *AI systémy sú **softvérové** (prípadne aj hardvérové) systémy navrhnuté ľuďmi, ktoré po zadaní komplexného cieľa konajú vo fyzickom alebo digitálnom rozmere tak, že vnímajú svoje prostredie získavaním údajov, interpretujú získané štruktúrované alebo neštruktúrované údaje, uvažujú o poznatkoch alebo spracúvajú informácie získané z týchto údajov a vyberajú najlepšie možné kroky na dosiahnutie daného cieľa. AI systémy môžu využívať symbolické pravidlá alebo si osvojiť numerický model, pričom svoje správanie môžu prispôsobovať na základe analýzy toho, aký vplyv malo ich predchádzajúce konanie na okolité prostredie.*
 
@@ -33,7 +33,7 @@ Tento opis umelej inteligencie je znázornený na nasledujúcom obrázku:[^3]
 
 <figure>
 	 <img src="Images/AI4K12_Five_Big_Ideas_Graphic-FR.png" />
-	 <figcaption> Päť veľkých myšlienok o umelej inteligencii. Autor: Iniciatíva AIK12. CC BY-NC-SA 4.0 Medzinárodná </figcaption>
+	 <figcaption> Päť veľkých myšlienok o umelej inteligencii. Autor: Iniciatíva AIK12. Podlieha licencii CC BY-NC-SA 4.0 – Medzinárodná </figcaption>
 </figure>
 
 ## Vedecká reprezentácia
@@ -46,7 +46,7 @@ Umelá inteligencia je vednou disciplínou, ktorá zahŕňa niekoľko podoblast�
 
 <figure>
   <img src="Images/AI-sub-disciplines-FR.jpg" />
-  <figcaption> Zjednodušený prehľad pododborov umelej inteligencie a ich vzťahov. Strojové učenie aj uvažovanie zahŕňajú množstvo ďalších techník a robotika zahŕňa techniky, ktoré nie sú súčasťou AI. Umelá inteligencia ako celok patrí pod odbor informatiky. Zdroj: Expertná skupina Európskej komisie pre umelú inteligenciu pre umelú inteligenciu.</figcaption>
+  <figcaption> Zjednodušený prehľad pododborov umelej inteligencie a ich vzťahov. Strojové učenie aj uvažovanie zahŕňajú množstvo ďalších techník a robotika zahŕňa techniky, ktoré nie sú súčasťou AI. Umelá inteligencia ako celok patrí pod odbor informatiky. Zdroj: Vysoká expertná skupina Európskej komisie pre umelú inteligenciu</figcaption>
 </figure>
 
 [^1]: Joint Research Centre technical report: AI Watch: defining artificial intelligence - toward an operational definition and taxonomy of artificial intelligence (2020) - [https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163) (citované 19. 8. 2022)
