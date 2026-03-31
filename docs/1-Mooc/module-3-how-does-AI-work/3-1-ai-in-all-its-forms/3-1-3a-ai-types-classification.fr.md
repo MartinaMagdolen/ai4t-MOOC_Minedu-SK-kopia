@@ -20,6 +20,7 @@ typ: aktivita
 V nasledujúcej aktivite sa zameriame na rozlišovanie rôznych typov umelej inteligencie a ich vzťahy.
 
 **Prístup k aktivite**
+
 Na nasledujúcom obrázku budete presúvať jednotlivé označenia zo stredného stĺpca na príslušné biele bodkované miesto vpravo alebo vľavo od stĺpca.
 
 <center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-FR.html" frameborder="0" allowfullscreen></iframe></center>
