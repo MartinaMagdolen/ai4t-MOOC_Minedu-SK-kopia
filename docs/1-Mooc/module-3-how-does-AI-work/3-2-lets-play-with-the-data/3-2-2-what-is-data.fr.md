@@ -1,7 +1,7 @@
 ---
-názov: "3.2.2 Čo sú to dáta?
-popis: Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii.
-prispievateľ: Laurent Romary - Inria
+názov: "3.2.2 Čo sú to dáta?"
+popis: "Základné informácie o tom, čo sú to dáta a ako sa využívajú pri umelej inteligencii."
+prispievateľ: "Laurent Romary - Inria"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.2.2t
