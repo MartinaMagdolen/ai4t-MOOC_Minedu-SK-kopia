@@ -1,25 +1,25 @@
 ---
-názov: "3.1.3 Činnosť: Klasifikácia typov UI".
-opis: Identifikujte typy UI a ich vzájomný vzťah.
-typ: činnosť
+názov: "3.1.3 Aktivita: Klasifikácia rôznych typov AI"
+popis: "Spoznajte rôzne typy AI a ich vzájomný vzťah."
+typ: aktivita
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.1.3a
-    - Názov: 3.1.3 Činnosť: Klasifikácia typov UI
-    - Typ: činnosť
-    - Opis: Identifikovať typy UI a ich vzájomný vzťah.
+    - Názov: 3.1.3 Aktivita: Klasifikácia rôznych typov AI
+    - Typ: aktivita
+    - Opis: Spoznajte rôzne typy AI a ich vzájomný vzťah.
     - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Autori:
         - AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
 
-# Aktivita: Klasifikácia typov umelej inteligencie  
+# Aktivita: Klasifikácia rôznych typov AI
 
-V nasledujúcej aktivite budete musieť identifikovať rôzne typy UI a ich vzťahy.
+V nasledujúcej aktivite sa zameriame na rozlišovanie rôznych typov umelej inteligencie a ich vzťahy.
 
-**Prístup k aktivite  
-*Na obrázku nižšie presuňte každý štítok zo stredného stĺpca na jeho biele bodkované miesto vpravo alebo vľavo od stĺpca.
+**Prístup k aktivite**
+Na nasledujúcom obrázku budete presúvať jednotlivé označenia zo stredného stĺpca na príslušné biele bodkované miesto vpravo alebo vľavo od stĺpca.
 
 <center><iframe width="860" height="540" src="3-1-3a-activity-what-type-of-ai/3-1-3a-AI-types-relations-FR.html" frameborder="0" allowfullscreen></iframe></center>
