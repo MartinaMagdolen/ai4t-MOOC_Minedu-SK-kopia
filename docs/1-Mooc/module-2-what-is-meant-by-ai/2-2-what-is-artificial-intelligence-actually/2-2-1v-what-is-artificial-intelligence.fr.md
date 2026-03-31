@@ -21,11 +21,11 @@ licencia: "CC BY-SA 2.0"
 
 # Video: Čo je to umelá inteligencia?
 
-Toto video sa zaoberá otázkou, čo je to biologická inteligencia, aby sme vedeli definovať umelú inteligenciu s jej symbolickými a digitálnymi prístupmi. Video poukazuje na to, že všetka umelá inteligencia, s ktorou sa stretávame v reálnom živote, je len technická a určená na konkrétne úlohy! Video využíva všeobecný prístup a môže sa použiť v triede.
+Toto video nás privádza k zamysleniu nad tým, čo je to biologická inteligencia, vďaka čomu nám pomôže definovať umelú inteligenciu s jej symbolickými a digitálnymi prístupmi. Video poukazuje na to, že všetka umelá inteligencia, s ktorou sa stretávame v reálnom živote, je len technická a určená na konkrétne úlohy. Video využíva všeobecný prístup a môže sa použiť v triede.
 
 #### Zhrnutie deja
-Hlavná postava _Guillaume_ vymenúva množstvo aplikácií alebo nástrojov, ktoré využívajú algoritmy, a zdôrazňuje ich miesto v našom každodennom živote. Na začiatku sa zamýšľa nad počítačmi a informatikou, čo ho vedie k otázke: „Sú už naše počítače inteligentné alebo nie?“
-Následne _Guillaume_ zameriava svoj záujem na biologickú inteligenciu, ktorej fungovanie ho privádza k otázke „skutočnej inteligencie“ umelej inteligencie a jej rôznych prístupov: symbolického, digitálneho atď. Video nakoniec dospieva k záveru, že všetka umelá inteligencia, s ktorou sa stretávame v každodennom živote, je obmedzená na konkrétne úlohy, a teda má ďaleko od vyobrazení, ktoré poznáme z filmov či beletrie.
+Hlavná postava _Guillaume_ vymenúva množstvo aplikácií alebo nástrojov, ktoré využívajú algoritmy, a zdôrazňuje ich miesto v našom každodennom živote. Na začiatku sa zamýšľa nad počítačmi a informatikou, čo ho vedie k otázke: „Sú už naše počítače inteligentné alebo nie?“
+Následne _Guillaume_ zameriava svoj záujem na biologickú inteligenciu, ktorej fungovanie ho privádza k otázke „skutočnej inteligencie“ AI a jej rôznych prístupov: symbolického, digitálneho atď. Video nakoniec dospieva k záveru, že všetka umelá inteligencia, s ktorou sa stretávame v každodennom živote, je obmedzená na konkrétne úlohy, a teda má ďaleko od vyobrazení, ktoré poznáme z filmov či beletrie.
 
 **Chcete vedieť Čo je to umelá inteligencia?**
 
