@@ -1,9 +1,10 @@
 ---
-názov: "3.1.6 Šablóna na charakterizovanie umelej inteligencie".
-opis: Získajte základnu predstavu o charakteristikách AI
-prispievateľ: Jiajun Pan
-              Azim Roussanaly
-              Anne Boyer
+názov: "3.1.6 Šablóna na charakterizovanie umelej inteligencie"
+popis: "Získajte základnú predstavu o charakteristikách AI"
+prispievateľ: 
+  - "Jiajun Pan"
+  - "Azim Roussanaly"
+  - "Anne Boyer"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.1.6t
