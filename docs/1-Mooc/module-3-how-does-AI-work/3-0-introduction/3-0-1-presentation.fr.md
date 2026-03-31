@@ -1,33 +1,33 @@
 ---
-názov: 3.0.1 Prezentácia modulu 3
-popis: Prezentácia modulu 3
+názov: 3.0.1 Predstavenie 3. modulu
+popis: Predstavenie 3. modulu
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.0.1t
-    - Názov: 3.0.1 Prehľad modulu 3
+    - Názov: 3.0.1 Predstavenie 3. modulu
     - Typ: text
-    - Opis: Prezentácia modulu 3
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Opis: Predstavenie 3. modulu
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
 
-# Prezentácia modulu 3
+# Predstavenie 3. modulu
 
-**Ciele modulu 3 "Ako funguje umelá inteligencia "** sú :
+**Modul č. 3: Ako funguje umelá inteligencia?** má nasledujúce ciele:
 
-- Pochopiť rozdiely medzi niekoľkými typmi umelej inteligencie
-- Vyskúšať si, ako funguje strojové učenie a neurónové siete
-- Identifikovať kľúčovú úlohu údajov a význam správne pripravených súborov údajov, najmä pre vzdelávacie nástroje založené na AI.
+- pochopiť rozdiely medzi rôznymi typmi umelej inteligencie;
+- vyskúšať si, ako funguje strojové učenie a neurónové siete;
+- uvedomiť si kľúčovú úlohu dát a význam správne pripravených dátových súborov, a to najmä pre AI vzdelávacie nástroje.
 
 **Vzdelávacie zdroje** :
 
 - 2 videá
 - 4 aktivity
-- 6 čítanie
+- 6 texty
 
-**Čas investície: približne 1 hodina 20 minút**
+**Čas: približne 1 hodina 20 minút**
 
 ---
