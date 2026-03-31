@@ -1,46 +1,45 @@
 ---
-názov: 2.2.5 Aké typy aplikácií umelej inteligencie vo vzdelávaní?
-opis: Existujúce systémy AI, ich potenciálne alebo existujúce využitie vo vzdelávaní.
+názov: 2.2.5 Aké sú možnosti využitia AI vo vzdelávaní?
+opis: Existujúce AI systémy a ich potenciálne či aktuálne využitie vo vzdelávaní.
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M2.2.5t
     - Názov: AIT4.0.1.1. Názov: AIT4.0.1.2:
     - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Aké sú možnosti využitia umelej inteligencie vo vzdelávaní?
+# Aké sú možnosti využitia AI vo vzdelávaní?
 
-Spomedzi možných klasifikácií vedných oblastí UI sa v nasledujúcej tabuľke uvádza taxonómia UI[^1] vo vzťahu k rodinným funkciám, ktoré môže UI vykonávať.
+Spomedzi všetkých možných spôsobov zatriedenia podoblastí umelej inteligencie v nasledujúcej tabuľke uvádzame taxonómiu umelej inteligencie[^1] podľa skupín funkcií, ktoré môže vykonávať.
 <figure>
-  <img src="Images/AI-Taxonomy-Samoli-al-2021-FR.png" alt="Image of AI Taxonomy"/>  
+  <img src="Images/AI-Taxonomy-Samoli-al-2021-FR.png" alt="Obrázok s taxonómiou umelej inteligencie"/>  
 </figure>
-Obrázok: Taxonómia UI - vedecké oblasti a podoblasti UI (podľa Samoili &amp; al., správa JRC z roku 2021[^1]).
+Obrázok: Taxonómia umelej inteligencie - vedecké oblasti a podoblasti AI (podľa Samoili a kol., správa JRC z roku 2021[^1])
 
-Pozrime sa, ktoré techniky AI sa používajú v aplikáciách zameraných na vzdelávanie na báze AI, ktoré navrhli Holmes &amp; al. v roku 2019[^2].
+Pozrime sa, ktoré techniky umelej inteligencie sa využívajú v aplikáciách zameraných na vzdelávanie pomocou AI, ktoré definovali Holmes a kol. v roku 2019[^2].
 <figure>
-  <img src="Images/AIED-Holmes-systems-FR.png" alt="Image of AI-based education-oriented systems"/>
+  <img src="Images/AIED-Holmes-systems-FR.png" alt="Obrázok s AI vzdelávacími systémami"/>
 </figure>
-Obrázok: Rôzne typy súčasných systémov založených na AI pre vzdelávanie (podľa Holmes &amp; al. 2019[^2])._
+Obrázok: Rôzne typy súčasných systémov založených na AI pre vzdelávanie (podľa Holmes a kol. 2019[^2]).
 
-Každý nástroj alebo prostriedok na vzdelávanie založený na AI má svoje vlastné špecifické techniky. Niekedy je však možné odhadnúť, ktoré z nich sa pravdepodobne použijú pre daný zdroj.
+Každý vzdelávací nástroj alebo zdroj založený na AI má svoje vlastné špecifické techniky. Niekedy však vieme odhadnúť, ktoré z nich sa pravdepodobne pri danom zdroji použijú.
 
 Uveďme si niekoľko príkladov:
 
-- **Dialogový výučbový systém**, ako služba na výučbu žiakov.
-Takéto systémy budú pravdepodobne používať: **komunikačné** techniky, ako je spracovanie prirodzeného jazyka na porozumenie a generovanie reči a jazyka a **techniky uvažovania** na účely výučby.
+- **Výučbový systém založený na dialógu**, ktorý slúži na výučbu žiakov.
+Takéto systémy pravdepodobne využívajú: **komunikačné** techniky, ako je spracovanie prirodzeného jazyka na porozumenie a generovanie reči a jazyka, ako aj techniky **uvažovania** na účely výučby.
 
-- Odporúčanie kurzov** ako podporná služba pre učiacich sa.
-Podobne ako v prípade personalizovaných komerčných ponúk a odporúčacích funkcií, ktoré možno nájsť na internete, budú systémy odporúčania kurzov pravdepodobne založené na technikách strojového učenia prostredníctvom analýzy relevantných aktuálnych údajov súvisiacich s učebnou dráhou študenta a identifikácie podobností s predchádzajúcimi zovšeobecnenými učebnými dráhami.
+- **Odporúčanie kurzov** ako podporná služba pre študentov.
+Podobne ako pri personalizovaných marketingových ponukách a odporúčacích funkciách, ktoré sa dajú nájsť na internete, systémy na odporúčanie kurzov pravdepodobne využívajú techniky **strojového učenia**, vďaka ktorým analyzujú relevantné aktuálne údaje súvisiace s učebnou dráhou študenta a identifikujú podobnosti s predchádzajúcimi zovšeobecnenými učebnými dráhami.
 
-- Zisťovanie pozornosti a emócií študentov**, ako podporná služba pre učiteľov.
-Takýto systém bude pravdepodobne využívať techniky **vnímania** (napríklad počítačové videnie na rozpoznávanie tváre) a techniky **strojového učenia** na analýzu výrazov tváre alebo správania študenta, ak sa tieto informácie zhromažďujú a analyzujú.
+- **Overovanie pozornosti a emócií študentov** ako podporná služba pre učiteľov.
+Takýto systém pravdepodobne využíva techniky **vnímania** (napríklad počítačové videnie na rozpoznávanie tvárí) a techniky **strojového učenia** na analýzu výrazov tváre alebo správania študentov, pokiaľ sa tieto informácie zhromažďujú a analyzujú.
 
 
-[^1]: AI Watch - Definovanie umelej inteligencie - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E., and De Prato, G. - EUR 30873 SK, Úrad pre vydávanie publikácií Európskej únie, Luxemburg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
+[^1]: AI Watch - Defining Artificial Intelligence - 2.0. Towards an operational definition and taxonomy for the AI landscape - Samoili, S., López Cobo, M., Delipetrev, B., Martínez-Plumed, F., Gómez, E. a De Prato, G. - EUR 30873 EN, Publications Office of the European Union, Luxembourg, 2021, ISBN 978-92-76-42648-6, doi:10.2760/019901, JRC126426.
 
 [^2]: Artificial Intelligence In Education: Promises and Implications for Teaching and Learning - Wayne Holmes, Maya Bialik, Charles Fadel - Boston, MA, Center for Curriculum Redesign, 2019.
