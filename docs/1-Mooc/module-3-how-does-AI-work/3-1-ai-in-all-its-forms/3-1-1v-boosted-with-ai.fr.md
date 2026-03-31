@@ -23,6 +23,6 @@ Tento vzdelávací zdroj je uchopený všeobecne a má humorný tón, vďaka č
 Hlavná postava, _Guillaume_, objavuje nové a nečakané spôsoby využitia umelej inteligencie,  napríklad možnosť vytvoriť pomocou strojového učenia recept na pizzu. Video sa následne zaoberá tým, aké miesto majú algoritmy a dáta v mnohých oblastiach vrátane marketingu.
 
 **Chcete objaviť nečakané využitie umelej inteligencie?** 
-Pozrite si nasledujúce video (1 min 26 s)_.
+Pozrite si nasledujúce video _(1 min 26 s)_.
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/97ZljRHjJq8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
