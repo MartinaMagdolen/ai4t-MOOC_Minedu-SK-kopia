@@ -1,65 +1,59 @@
 ---
-názov: "3.1.2 Aký typ umelej inteligencie?
-opis: Pre počiatočné pochopenie typov UI
+názov: "3.1.2 Aký typ umelej inteligencie?"
+popis: "Získajte základné pochopenie typov AI"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.1.2t
     - Názov: "M3.1.2: 
     - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a pre učiteľov 
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
 
 # Aký typ umelej inteligencie?  
-Vo vedeckej literatúre existuje mnoho typov umelej inteligencie. Pozrime sa, na čo sa vzťahujú.
+Vo vedeckej literatúre možno nájsť mnoho typov umelej inteligencie. Pozrime sa, na čo jednotlivé typy odkazujú.
 
 ## Slabá alebo silná umelá inteligencia?
 - Slabá umelá inteligencia  
-  Ide o umelú inteligenciu, ktorú poznáme dnes: je to algoritmus, ktorý sa "učí" tak, že prispôsobuje svoje parametre učebným údajom, a ktorý nemá mentálne a kognitívne schopnosti, ale je schopný vykonávať určitú úlohu niekedy oveľa efektívnejšie (rýchlosť, presnosť) ako človek.
+  Ide o umelú inteligenciu, ktorú poznáme dnes: je to algoritmus, ktorý sa "učí" tým, že prispôsobuje svoje parametre učebným dátam. Nie je obdarený mentálnymi ani kognitívnymi schopnosťami, ale je schopný vykonávať konkrétnu úlohu, niekedy dokonca oveľa efektívnejšie než človek.
 - Silná umelá inteligencia  
-  Umelá inteligencia, ktorá je schopná kopírovať ľudské schopnosti (učenie, chápanie, porozumenie, uvažovanie, rozhodovanie, svedomie, emócie atď.) Vývoj "silnej" umelej inteligencie, ktorá je schopná byť autonómna a univerzálna v neočakávaných situáciách, je vedeckým cieľom. Súčasné výsledky však ukazujú, že tento ideál silnej umelej inteligencie je technicky nemožný. Doteraz silná umelá inteligencia neexistuje.
+  Umelá inteligencia, ktorá je schopná kopírovať ľudské schopnosti (učenie sa, chápanie, porozumenie, uvažovanie, rozhodovanie, vedomie, emócie atď.). Cieľom vedcov je vyvinúť „silnú“ umelú inteligenciu, ktorá by vedela byť autonómna a všestranne využiteľná aj v nečakaných situáciách. Súčasné výsledky však ukazujú, že tento ideál silnej umelej inteligencie je technicky nemožný. Silná umelá inteligencia tak dodnes nevznikla, je iba teoretickým konceptom.
 
 ## Symbolický prístup alebo strojové učenie?
 
-Na čo sa v rámci slabej umelej inteligencie vzťahujú symbolické prístupy alebo strojové učenie?
+Čo pri slabej umelej inteligencii myslíme pod symbolickými prístupmi či strojovým učením?
 
-- Symbolický prístup k umelej inteligencii  
-  Tento prístup, známy aj ako "založený na pravidlách" alebo "klasická" umelá inteligencia, je založený na logike a apriórnych znalostiach, ktoré poskytujú ľudskí odborníci v skúmanej oblasti.
-  Z historického hľadiska je symbolický prístup starší, zodpovedá expertným systémom a v poslednom čase aj tzv. sémantickému webu.
-- Strojové učenie (alebo digitálny prístup)  
-  Tento prístup, známy aj ako "digitálny", je založený na údajoch a učení.
-  Digitálny prístup alebo prístup strojového učenia (ML) zahŕňa umelé neurónové siete a hlboké učenie, keď existuje niekoľko vrstiev týchto výpočtových jednotiek[^1]. V poslednom čase sa stal efektívnym v dôsledku technologického pokroku v oblasti rýchlosti a architektúry procesorov vrátane grafických procesorov a cloud computingu. Tento prístup umožňuje napríklad automaticky prepisovať texty, ktoré diktujeme, alebo rozpoznávať a spracovávať hlasy a objekty na obrázkoch. Vyžaduje si veľa údajov a je založený na štatistických prístupoch.
+- Symbolická umelá inteligencia
+  Tento prístup k umelej inteligencii, na ktorý odkazujú aj výrazy „umelá inteligencia založená na pravidlách“ či „klasická umelá inteligencia“, je založený na logike a existujúcich znalostiach, ktoré poskytujú ľudskí odborníci. Z historického hľadiska je symbolický prístup starší – používa sa v expertných systémoch a novšie aj pri vývoji tzv. sémantickému webu.
+- Strojové učenie (digitálny prístup)  
+  Tento prístup, tiež známy ako „digitálny prístup“, je založený na dátach a učení. Prístup strojového učenia zahŕňa umelé neurónové siete a hlboké učenie, keď je k dispozícii viacero vrstiev takýchto výpočtových jednotiek.[^1] V poslednom čase sa výrazne zefektívnil, a to vďaka zvýšenej výpočtovej rýchlosti a lepšej architektúre procesorov vrátane grafických procesorov a cloud computingu. Tento prístup nám umožňuje napríklad automaticky prepisovať diktované texty alebo rozpoznávať objekty na obrázkoch. Vyžaduje si veľa dát a je založený na štatistických prístupoch.
 
 <figure>
-  <img src="Images/Machine-Learning-NN-Deep-Learning-FR.png" alt= "Relationship between AI types">
-  <figcaption>Vzťah medzi umelou inteligenciou, neurónovými sieťami a hlbokým učením (preložené s DeepL) - Zdroj: AI and education: Guidance for policy-makers, UNESCO, 2021.</figcaption>
+  <img src="Images/Machine-Learning-NN-Deep-Learning-FR.png" alt= "Vzťah medzi rôznymi typmi AI">
+  <figcaption>Vzťah medzi umelou inteligenciou, neurónovými sieťami a hlbokým učením - Zdroj: AI and education: Guidance for policy-makers, UNESCO, 2021.</figcaption>
 </figure>
 
-## Prístup k učeniu s dohľadom alebo bez dohľadu?
+## Učenie s dohľadom alebo bez?
 
-V rámci prístupov strojového učenia sú systémy umelej inteligencie dvoch typov v závislosti od spôsobu použitia údajov na ich trénovanie[^2] :
+V rámci prístupov strojového učenia existujú dva typy systémov umelej inteligencie v závislosti od toho, ako využívajú trénovacie dáta:[^2]
 
-- Učenie pod dohľadom  
-  "*Supervised learning" sa vzťahuje na používanie označených údajov - napríklad fotografií, na ktorých je uvedené, či obsahujú alebo neobsahujú mačky - na trénovanie algoritmov. Tieto prístupy navrhujú vlastné metódy na predpovedanie toho, ako by mali byť obrázky označené.*"
-- Nekontrolované učenie  
-  "Učenie bez dozoru sa môže použiť, keď nie sú k dispozícii kvalitné označené údaje. Vyniká pri objavovaní nových skupín a asociácií v rámci údajov, ktoré by inak neboli identifikované alebo označené človekom. Keďže označenia sú často neúplné alebo nepresné, mnohé aplikácie, ako napríklad systémy odporúčania obsahu, kombinujú prístupy učenia pod dohľadom a učenia bez dohľadu*.
+- **Učenie s dohľadom**  
+  *Pod pojmom „učenie s dohľadom“ sa myslí používanie označených dát (napríklad fotografií, na ktorých je uvedené, či sú na nich vyobrazené mačky alebo nie) na trénovanie algoritmov. Tieto prístupy si vytvárajú vlastné metódy na predpovedanie toho, ako by mali byť obrázky označené.*
+- **Učenie bez dohľadu**  
+  *Učenie bez dohľadu sa môže použiť, keď nemáme k dispozícii kvalitne označené dáta. Dokáže v dátach dobre objavovať nové zhluky a asociácie, ktoré by človek nemusel úspešne identifikovať alebo označiť. Keďže takto vytvorené označenia sú často neúplné alebo nepresné, mnohé aplikácie (napríklad odporúčacie systémy) prístupy učenia sa s dohľadom a bez dohľadu kombinujú.*
 
-Mnohé mechanizmy umelej inteligencie dnes pracujú s využitím učenia pod dohľadom.
+Mnohé mechanizmy umelej inteligencie dnes využívajú učenie s dohľadom. Na ilustráciu ich fungovania si predstavme, že chceme systém umelej inteligencie naučiť rozpoznať mačku na obrázku.
 
-Na ilustráciu si predstavme, že chceme naučiť systém umelej inteligencie rozpoznať mačku na obrázku.
+Na tento účel poskytneme umelej inteligencii veľké množstvo dát. V tomto príklade jej poskytujeme veľa obrázkov, na ktorých vidieť mačku, a veľa obrázkov bez mačky. Program tak upraví svoje parametre tak, aby jeho výstupom bola informaćia o tom, či je na obrázku prítomná mačka alebo nie. Všetky tieto obrázky sú vstupnými údajmi a očakávaný výsledok, či sa na obrázku nachádza alebo mačka alebo nie, nazývame výstupnými údajmi. Tieto vstupné a výstupné údaje sú jedinými informáciami, ktoré poskytujeme na účely trénovania.
 
-Na tento účel poskytneme umelej inteligencii veľké množstvo údajov - v tomto príklade veľa obrázkov, na ktorých možno vidieť mačku, a veľa obrázkov bez mačky -, aby výpočet upravil svoje parametre tak, aby poskytol výstupnú hodnotu zodpovedajúcu prítomnosti alebo neprítomnosti mačky.
-Všetky tieto obrázky predstavujú vstupné údaje a očakávaný výsledok, či sa na obrázku nachádza alebo nenachádza mačka, výstupné údaje. Tieto "vstupné" a "výstupné" údaje sú jedinými informáciami poskytnutými na účely trénovania.
+Výpočtový mechanizmus preto musí upraviť vnútorné parametre (podobne ako keď nastavujeme ovládacie gombíky na fotoaparáte), aby určil, či sa na obrázku nachádza mačka alebo nie. Prvýkrát nám poskytne náhodný, a teda s najväčšou pravdepodobnosťou nesprávny výsledok. Potom mechanizmus postupne dostáva pozitívnu alebo negatívnu spätnú väzbu, vďaka ktorej pozoruje svoje chyby a postupnými pokusmi upravuje parametre tak, aby sa chybovosť znížila a úspešnosť zvýšila. Tento proces je známy ako strojové učenie.
 
-Výpočtový mechanizmus preto musí upraviť vnútorné parametre (podobne ako nastavovacie tlačidlá na fotoaparáte), aby určil, či sa na obrázku nachádza mačka alebo nie. Prvýkrát sa poskytne náhodný, a teda s najväčšou pravdepodobnosťou nesprávny výsledok, potom postupne v závislosti od pozitívnej alebo negatívnej spätnej väzby mechanizmus pozoruje chyby a postupnými pokusmi upravuje parametre tak, aby sa chyby znížili, a tým sa zvýšila úspešnosť. Tento proces je známy ako automatické učenie.
+Mnohé AI aplikácie využívajú strojové učenie a takmer vždy beží v pozadí aj nejaký typ symbolickej umelej inteligencie.
+Napríklad mnohé četboty sú vopred naprogramované pomocou pravidiel, ktoré presne zadefinovali ľudia, aby vedeli odpovedať na najpravdepodobnejšie otázky. Skúmanie toho, ako kombinovať prístupy symbolického a strojového učenia, je aktuálne predmetom výskumu.
 
-V skutočnosti mnohé aplikácie umelej inteligencie využívajú strojové učenie a takmer vždy symbolickú umelú inteligenciu v pozadí.
-Napríklad mnohé aplikácie chatbotov sú vopred naprogramované s pravidlami definovanými človekom o tom, ako odpovedať na predpokladané otázky. Štúdium toho, ako kombinovať prístupy symbolického a strojového učenia, je aktuálnou témou výskumu.
+[^1]:[AI and education: Guidance for policy-makers](https://unesdoc.unesco.org/ark:/48223/pf0000376709) - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN: 978-92-3-100447-6 - UNESCO, 2021
 
-[^1]: [AI and education: a guide for policy makers](https://unesdoc.unesco.org/ark:/48223/pf0000380006) - Miao Fengchun, Holmes Wayne, Ronghuai Huang, Hui Zhang - ISBN: 978-92-3-200244-0 - UNESCO, 2021
-
-[^2]: Štúdia v angličtine: [Artificial intelligence: How does it work, why does it matter, and what can we do about it?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - Európska únia, 2020
+[^2]:[Artificial intelligence: How does it work, why does it matter, and what can we do about it?](https://www.europarl.europa.eu/thinktank/en/document/EPRS_STU(2020)641547) - Philip Boucher, Scientific Foresight Unit (STOA) - ISBN: 978-92-846-6770-3 - European Union, 2020
