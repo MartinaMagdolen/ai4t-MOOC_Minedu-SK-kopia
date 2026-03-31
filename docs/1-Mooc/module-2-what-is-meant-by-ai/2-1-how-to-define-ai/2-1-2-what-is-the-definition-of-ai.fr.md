@@ -40,19 +40,19 @@ Tento opis umelej inteligencie je znázornený na nasledujúcom obrázku:[^3]
 
 Umelá inteligencia je vednou disciplínou, ktorá zahŕňa niekoľko podoblastí odborných znalostí a s nimi súvisiacich techník.[^4] Niektoré z nich sa spomínajú často, iné sú menej známe:
 
-- strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňovacie učenie);
-- strojové uvažovanie (ktoré zahŕňa plánovanie, rozvrhovanie, reprezentáciu znalostí a uvažovanie, vyhľadávanie a optimalizáciu);
-- robotika (ktorá zahŕňa riadenie, vnímanie, senzory a aktuátory, ako aj integráciu všetkých ostatných techník v kyberneticko-fyzických systémoch).
+- strojové učenie (ktorého konkrétnymi príkladmi sú hlboké učenie a posilňovanée učenie);
+- strojové uvažovanie (z angl. _machine reasoning_, ktoré zahŕňa plánovanie, rozvrhovanie, reprezentáciu znalostí a uvažovanie, vyhľadávanie a optimalizáciu);
+- robotika (ktorá zahŕňa riadenie, vnímanie, senzory a aktuátory, ako aj integráciu všetkých ostatných techník do kyberneticko-fyzikálnych systémov).
 
 <figure>
   <img src="Images/AI-sub-disciplines-FR.jpg" />
-  <figcaption> Zjednodušený prehľad subdisciplín umelej inteligencie a ich vzťahov. Strojové učenie a uvažovanie zahŕňajú mnoho ďalších techník a robotika zahŕňa techniky, ktoré nie sú súčasťou AI. Umelá inteligencia ako celok patrí do disciplíny informatiky. Zdroj: Skupina expertov na vysokej úrovni pre umelú inteligenciu.</figcaption>
+  <figcaption> Zjednodušený prehľad pododborov umelej inteligencie a ich vzťahov. Strojové učenie aj uvažovanie zahŕňajú množstvo ďalších techník a robotika zahŕňa techniky, ktoré nie sú súčasťou AI. Umelá inteligencia ako celok patrí pod odbor informatiky. Zdroj: Expertná skupina Európskej komisie pre umelú inteligenciu pre umelú inteligenciu.</figcaption>
 </figure>
 
-[^1]: Technická správa Spoločného výskumného centra: AI Watch: Definícia umelej inteligencie - smerom k operačnej definícii a taxonómii umelej inteligencie (2020) - [https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163) (konzultované 19. 8. 2022).
+[^1]: Joint Research Centre technical report: AI Watch: defining artificial intelligence - toward an operational definition and taxonomy of artificial intelligence (2020) - [https://publications.jrc.ec.europa.eu/repository/handle/JRC118163](https://publications.jrc.ec.europa.eu/repository/handle/JRC118163) (citované 19. 8. 2022)
 
-[^2]: McCarthy, J., Minsky, M. L., Rochester, N., &amp; Shannon, C. E. (2006). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (Návrh letného výskumného projektu Dartmouthskej univerzity o umelej inteligencii), 31. augusta 1955. AI Magazine, 27(4), 12. https://doi.org/10.1609/aimag.v27i4.1904
+[^2]: McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (2006). A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, August 31, 1955. AI Magazine, roč. 27 č. 4, s. 12. https://doi.org/10.1609/aimag.v27i4.1904
 
-[^3]: Minsky, M. L. Sémantické spracovanie informácií. Cambridge, MA: MIT Press citované v: M. Minsky, M.: MIT Press. AI watch: Defining artificial intelligence 2.0 - strana 113 (op.cit.).
+[^3]: Minsky, M. L. Semantic information processing. Cambridge, MA: MIT Press quoted in. AI watch: defining artificial intelligence 2.0 - s. 113 (op.cit)
 
-[^4]: High Level Panel on Artificial Intelligence: A definition of Artificial Intelligence: main capabilities and scientific disciplines (2019) [https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines](https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines) (prístup 19.8.2022).
+[^4]: High-Level Expert Group on Artificial Intelligence: A definition of AI: main capabilities and disciplines (2019) [https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines](https://digital-strategy.ec.europa.eu/en/library/definition-artificial-intelligence-main-capabilities-and-scientific-disciplines) (citované 19. 8. 2022)
