@@ -30,14 +30,15 @@ Video poskytuje prehľad určitých konceptov strojového učenia vo forme animo
 
 - Neurónové siete a hlboké učenie: od 3:23 do 5:12
 
-####Zhrnutie obsahu
+### Zhrnutie obsahu
 
-Toto video predstavuje dva rôzne prístupy k učeniu: symbolický a numerický. Video následne opisuje strojové učenie a jeho dva hlavné spôsoby fungovania: učenie s dohľadom a posilňované učenie. Ďalej sa zaoberá hlbokým učením (alebo hlbokými neurónovými sieťami), ktoré je jednou z metód storjového učenia a vychádza z toho, ako funguje ľudský mozog.  
+Toto video predstavuje dva rôzne prístupy k učeniu: symbolický a numerický. Video následne opisuje strojové učenie a jeho dva hlavné spôsoby fungovania: učenie s dohľadom a posilňované učenie. Ďalej sa zaoberá hlbokým učením (alebo hlbokými neurónovými sieťami), ktoré je jednou z metód strojového učenia a vychádza z toho, ako funguje ľudský mozog.  
 Okrem algoritmov spomenutých na začiatku videa _Guillaume_ zdôrazňuje aj dôležitosť dát. Na to, aby sa mohla umelá inteligencia správne učiť a vytvárať uspokojivé predpovede, musia byť tieto dáta dostatočne bohaté a správne označené. Je to príležitosť vrátiť sa k samotnej „výrobe“ dát a problémy s tým spojené.
 Záverečná časť videa sa zaoberá vplyvom umelej inteligencie na životné prostredie.
 
 
 **Vysvetlenie**
+
 Pozrite si nasledujúce video (9 min 35 s).
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/XD6fvv7ldA8?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
