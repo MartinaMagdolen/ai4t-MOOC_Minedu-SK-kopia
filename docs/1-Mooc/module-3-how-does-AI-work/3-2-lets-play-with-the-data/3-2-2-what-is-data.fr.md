@@ -50,26 +50,26 @@ Návrh anotovaných dát pre AI systémy s dohľadom je zložitejší, pretože 
 
 Celkovo je nevyhnutné, aby bol proces návrhu dobre zdokumentovaný, aby bolo vo výslednom vytrénovanom systéme možné spätne vystopovať zdroj prípadného chybného správania až k jeho zdroju.
 
-## Neobjektívne AI systémy
+## Zaujaté AI systémy
 
-Ako sme už naznačili, správanie systému umelej inteligencie úzko závisí od povahy údajov použitých na jeho trénovanie. To môže generovať možné skreslenia, ktoré vyplývajú z výberu súborov údajov. Napríklad jazykový model vycvičený výlučne na novinových článkoch bude pokrývať úplne iné typy výrazov a tém ako model, ktorý by si vybral literatúru alebo obsah sociálnych sietí. Podobne aj systémy na generovanie obrázkov budú odrážať veľkosť a rozmanitosť zdrojových databáz obrázkov (napr. umeleckých diel), ktoré sa brali do úvahy.
+Ako sme už naznačili, správanie AI systému úzko závisí od povahy dát použitých na jeho trénovanie. Výsledkom môže byť celá škála rôznych skreslení, ktoré vyplývajú z výberu dátových súborov. Napríklad jazykový model trénovaný len na novinových článkoch bude pokrývať úplne iné typy výrazov a tém než model trénovaný na literatúre alebo obsahu sociálnych sietí. Podobne aj systémy na generovanie obrázkov budú odrážať veľkosť a rozmanitosť zdrojových databáz obrázkov (napr. umeleckých diel), ktoré boli použité.
 
-V prípade systémov pod dohľadom môže špecifické skreslenie vyplynúť zo spôsobu, akým sú navrhnuté anotačné štítky, ako aj zo spôsobu, akým budú anotátori s vlastným kultúrnym pozadím interpretovať údaje. Ak chcete napríklad identifikovať nenávistné prejavy na sociálnych sieťach, spôsob, akým anotátori interpretujú pocity, sa môže líšiť v závislosti od veku, kultúry a osobných pocitov anotátorov voči materiálu, ktorý sa má anotovať.
+Pri systémoch vytvorených pomocou učenia s dohľadom môže konkrétne skreslenie či zaujatosť vyplývať z toho, ako boli navrhnuté anotačné štítky, ako aj z toho, do akej miery sa anotátori pri interpretácii dát nechávajú ovplyvniť svojím kultúrnym pozadím. Ak chcete napríklad identifikovať nenávistné prejavy na sociálnych sieťach, interpretácia emócií anotátormi sa môže líšiť v závislosti od ich veku, kultúry a osobných postojov k anotovanému materiálu.
 
-Celkovo treba mať vždy na pamäti, že systémy umelej inteligencie sú zo svojej podstaty veľmi konzervatívne, pokiaľ ide o ich tréningové údaje, a teda existujúce pozorovateľné údaje. Od systému umelej inteligencie nemôžeme očakávať žiadnu skutočnú kreativitu.
+Celkovo treba mať vždy na pamäti, že AI systémy sú zo svojej podstaty veľmi konzervatívne vzhľadom na ich tréningové dáta, a teda aj vzhľadom na existujúce pozorovateľné javy. Od AI systému nemôžeme očakávať žiadnu formu skutočnej kreativity.
 
-## Hosťovanie, zhromažďovanie a distribúcia údajov
+## Hosting, zlučovanie a distribúcia dát
 
-Vzhľadom na potenciálnu veľkosť a zložitosť tréningových údajov systémov AI a výsledných modelov boli zavedené rôzne iniciatívy, ktoré umožňujú ich hosťovanie a distribúciu.
+Vzhľadom na potenciálnu veľkosť a zložitosť tréningových dát pre AI systémy a výsledných modelov vznikli rôzne iniciatívy, ktoré umožňujú ich hosting a distribúciu.
 
-Otvorené súbory údajov a modely môžu byť umiestnené v špecializovaných úložiskách (napr. Image Data Resource[^2]) alebo vo všeobecných národných či medzinárodných úložiskách (napr. Zenodo[^3]). Tieto repozitáre spravidla poskytujú infraštruktúru na správu autorstva, licencií, verzií a archiváciu svojho obsahu.
+Otvorené dátové súbory a modely môžu byť umiestnené na špecializovaných úložiskách (napr. Image Data Resource[^2]) alebo v nešpecializovaných národných či medzinárodných úložiskách (napr. Zenodo[^3]). Takéto úložiské spravidla poskytujú potrebnú infraštruktúru na správu autorstva a verzií, licencovanie a archiváciu ich obsahu.
 
-V prípade komplexných úloh, keď na anotácii rôznych vzoriek údajov pracuje paralelne niekoľko tímov, niektoré iniciatívy fungujú ako katalógy pre príslušné zdroje údajov. To je napríklad prípad iniciatívy HTR United[^4], ktorá združuje metadáta anotovaných dokumentov na rozpoznávanie (ručne písaného) textu.
+V prípade zložitých úloh, kde na anotácii rôznych dátových vzoriek pracuje súbežne viacero tímov, niektoré iniciatívy fungujú ako katalógy pre príslušné zdroje dát. To je napríklad prípad iniciatívy HTR United[^4], ktorá združuje metadáta anotovaných dokumentov na rozpoznávanie (rukou písaných) textov.
 
-[^1]: Stránka v anglickom korpuse OSCAR : [https://oscar-corpus.com/](https://oscar-corpus.com/)
+[^1]: Korpus OSCAR: [https://oscar-corpus.com/](https://oscar-corpus.com/)
 
-[^2]: Webová stránka so zdrojmi obrazových údajov : [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
+[^2]: Image Data Resource: [https://idr.openmicroscopy.org/](https://idr.openmicroscopy.org/)
 
-[^3]: Webová stránka Zenodo : [https://zenodo.org/](https://zenodo.org/)
+[^3]: Zenodo: [https://zenodo.org/](https://zenodo.org/)
 
-[^4]: Webová stránka HTR United : [https://htr-united.github.io](https://htr-united.github.io)
+[^4]: HTR United: [https://htr-united.github.io](https://htr-united.github.io)
