@@ -1,6 +1,6 @@
 ---
 názov: "3.2.3 Aká je úloha dát vo vzdelávaní?"
-popis: "Identifikujte úlohu dát v AI vzdelávacích naśtrojoch."
+popis: "Identifikujte úlohu dát v AI vzdelávacích nástrojoch."
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.2.3t
@@ -16,13 +16,13 @@ popis: "Identifikujte úlohu dát v AI vzdelávacích naśtrojoch."
 # Aká je úloha dát vo vzdelávaní?
 Ak chceme preskúmať úlohu dát vo vzdelávaní, môžeme sa pozrieť na príklad personalizovaného vzdelávania. Práve to by totiž malo byť jednou z hlavných výhod AI služieb vo vzdelávaní:[^1]
 
-*„AI bude zohrávať kľúčovú úlohu pri realizácii vízie personalizovaného vzdelávania (t. j. schopnosti prispôsobiť podanie, obsah a tempo vzdelávania špecifickým potrebám jednotlivých študentov). Práve vďaka schopnosti prijímať dáta z viacerých zdrojov, skúmať ich a získavať z nich poznatky (pomocou nástrojov, ako je prediktívna analýza či strojové učenie) je umelá inteligencia takým vzrušujúcim pokrokom vo vzdelávacích technológiách. Preto bude jej používanie transformatívne pre všetky zainteresované strany, od jednotlivých študentov až po ministerstvá školstva“.*
+*„AI bude zohrávať kľúčovú úlohu pri realizácii vízie personalizovaného vzdelávania (teda schopnosti prispôsobiť podanie, obsah a tempo vzdelávania špecifickým potrebám jednotlivých študentov). Práve vďaka schopnosti prijímať dáta z viacerých zdrojov, skúmať ich a získavať z nich poznatky (pomocou nástrojov, ako je prediktívna analýza či strojové učenie) je umelá inteligencia takým vzrušujúcim pokrokom vo vzdelávacích technológiách. Preto bude jej používanie transformatívne pre všetky zainteresované strany, od jednotlivých študentov až po ministerstvá školstva“.*
 
-Zavádzanie takýchto personalizovaných vzdelávacích systémov založených na umelej inteligencii si vyžaduje zhromažďovanie, zobrazovanie a analýzu rôznych typov kvantitatívnych a kvalitatívnych údajov (ako sú hodnotenia a záznamy o štúdiu, informácie o záujmoch, zdraví či správaní, prípadne demografické údaje ako vek, pohlavie či krajina). Analyzovaním týchto dát vytvárajú AI vzdelávacie nástroje odporúčania, ktoré študentom pomáhajú zlepšiť si vzdelávací proces aj študijné výsledky.
+Zavádzanie takýchto personalizovaných vzdelávacích systémov založených na umelej inteligencii si vyžaduje zhromažďovanie, zobrazovanie a analýzu rôznych typov kvantitatívnych a kvalitatívnych údajov (ako sú hodnotenia a záznamy o štúdiu, informácie o záujmoch, zdraví či správaní, prípadne demografické údaje ako vek, pohlavie či krajina). Vďaka analyzovaniu týchto dát dokážu AI vzdelávacie nástroje vytvárať odporúčania, ktoré študentom pomáhajú zlepšiť si vzdelávací proces aj študijné výsledky.
 
-Na výpočet týchto personalizovaných odporúčaní využíva vzdelávací softvér počítačové metódy autonómneho rozhodovania. Využíva modely postavené na pedagogických znalostiach, znalosti obsahu a profiloch študentov. Na základe týchto modelov potom môže algoritmus určiť, aké kroky treba podniknúť v ďalšej fáze učenia.
+Na výpočet týchto personalizovaných odporúčaní využíva vzdelávací softvér počítačové metódy autonómneho rozhodovania. Využíva modely postavené na pedagogických poznatkoch, znalosti obsahu a profiloch študentov. Na základe týchto modelov potom môže algoritmus určiť, aké kroky treba podniknúť v ďalšej fáze učenia.
 
-V správe Spoločného výskumného centra (JRC) o novovznikajúcich technológiách a učiteľskej profesii sa uvádza niekoľko obáv. ktoré sa týkajú dát vo vzdelávaní a aplikácií s rozhodovacou právomocou:[^2]
+V správe Spoločného výskumného centra (JRC) o novovznikajúcich technológiách a učiteľskej profesii sa uvádza niekoľko obáv, ktoré sa týkajú dát vo vzdelávaní a aplikácií s rozhodovacou právomocou:[^2]
 
 *„Aké dáta by aplikácia používala a na aké účely? Ako sú dátové modely zostavené, na akých teoretických konštruktoch sú založené a do akej miery sú rozhodnutia softvéru spätne vysledovateľné (napr. z hľadiska ich vysvetliteľnosti)? Aké hodnoty a predpoklady sa v týchto dátových modeloch odrážajú a kto ich určuje?“*
 
