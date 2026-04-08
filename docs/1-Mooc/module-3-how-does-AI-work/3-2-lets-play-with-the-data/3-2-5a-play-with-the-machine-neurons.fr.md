@@ -1,32 +1,32 @@
 ---
-názov: "3.2.5 Aktivita: Hrajte sa s neurónmi stroja
-opis: Pochopiť, ako funguje umelá neurónová sieť
+názov: "3.2.5 Aktivita: Pohrajte sa s neurónmi stroja"
+popis: "Zistite, ako funguje umelá neurónová sieť"
 typ: aktivita
-prispievateľ: webová stránka Pixees
+prispievateľ: "Pixees.fr"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.2.5a
-    - Názov: 3.2.5 Činnosť: Hrajte sa s neurónmi stroja
+    - Názov: 3.2.5 Činnosť: Pohrajte sa s neurónmi stroja
     - Typ: aktivita
-    - Opis: Pochopiť, ako funguje umelá neurónová sieť
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Opis: Zistite, ako funguje umelá neurónová sieť
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
-        - Webová stránka Pixees
+        - Pixees.fr
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Aktivita: Hrajte sa s neurónmi stroja
-Online softvér **[TensorFlow](https://www.tensorflow.org/overview/)** umožňuje vytvárať umelé neurónové siete a testovať ich reakcie na rôzne typy problémov a na rôznych typoch údajov. V type problému "Klasifikácia" je cieľom oddeliť modro a oranžovo sfarbené body. Aplikáciou tohto typu problému je napríklad algoritmus klasifikácie fotografií. V nasledujúcom príklade je jeden vstup (charakteristika), ktorý oddeľuje body horizontálne, a druhý, ktorý ich oddeľuje vertikálne. Kombináciou týchto dvoch vstupov získame šikmú separáciu. Výsledok (výstup) je dobre prispôsobený zvolenému typu údajov.
+# Aktivita: Pohrajte sa s neurónmi stroja
+Online softvér **[TensorFlow](https://www.tensorflow.org/overview/)** umožňuje vytvárať umelé neurónové siete a testovať ich reakcie na rôzne typy problémov a rôzne typy dát. Pri úlohe typu „klasifikácia“ je cieľom oddeliť modré a oranžové body. Príkladom takéhoto využitia v praxi je napríklad algoritmus na klasifikáciu fotografií. V nasledujúcom príklade jeden vstup (príznak) oddeľuje body horizontálne a druhý ich oddeľuje vertikálne. Skombinovaním týchto dvoch vstupov získame šikmú rozdelenie. Výsledok (výstup) je dobre prispôsobený zvolenému typu údajov.
 
 <figure>
   <img src="Images/tensor-flow.png" />
-  <figcaption> Pohľad na rozhranie TensorFlow </figcaption>
+  <figcaption> Pohľad na rozhranie TensorFlow Playground</figcaption>
 </figure>
 
-## TensorFlow: Niekoľko vysvetlení pred vyskúšaním simulácie neurónovej siete
+## TensorFlow: Niekoľko vysvetlení, kým sa pustíme do simulácie neurónovej siete
 
-*Zdroj: [webová stránka Pixees](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)*
+*Zdroj: [web Pixees.fr](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)*
 
 **Čo je to neurónová sieť a ako funguje?
 Neurónová sieť je všeobecný mechanizmus zložený z malých jednotiek (pseudoneurónov) navzájom prepojených. Každá jednotka vykonáva veľmi jednoduchú operáciu: prijíma vstupné hodnoty, veľmi jednoducho ich kombinuje (jednoduchý priemer s koeficientmi) a na výsledok aplikuje transformáciu (napríklad ponecháva len kladné hodnoty).
@@ -47,9 +47,9 @@ Pochopenie toho, prečo (a ako) sa dosahujú také dobré výsledky, však zost�
 
 ## Vyskúšajte TensorFlow
 
-Kliknutím na obrázok nižšie otvoríte aplikáciu TensorFlow v novom okne_.
+*Kliknutím na nasledujúci obrázok otvoríte aplikáciu TensorFlow v novom okne.*
 
 <a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=8&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=10&amp;networkShape=5,2&amp;seed=0.02708&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false;" target="_blank"><figure>
   <img src="Images/playground-TensorFlow.png">
-  <figcaption> TensorFlow playground view </figcaption>
+  <figcaption>Rozhranie TensorFlow Playground, ktoré je určené na experimentovanie</figcaption>
 </figure></a>
