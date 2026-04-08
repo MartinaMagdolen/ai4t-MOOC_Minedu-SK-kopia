@@ -22,14 +22,14 @@ Zavádzanie takýchto personalizovaných vzdelávacích systémov založených n
 
 Na výpočet týchto personalizovaných odporúčaní využíva vzdelávací softvér počítačové metódy autonómneho rozhodovania. Využíva modely postavené na pedagogických znalostiach, znalosti obsahu a profiloch študentov. Na základe týchto modelov potom môže algoritmus určiť, aké kroky treba podniknúť v ďalšej fáze učenia.
 
-V správe Spoločného výskumného centra o nových technológiách a učiteľskej profesii sa uvádza niekoľko obáv týkajúcich sa vzdelávacích údajov a rozhodovacích aplikácií: [^2].
+V správe Spoločného výskumného centra (JRC) o novovznikajúcich technológiách a učiteľskej profesii sa uvádza niekoľko obáv. ktoré sa týkajú dát vo vzdelávaní a aplikácií s rozhodovacou právomocou:[^2]
 
-"*Aké údaje by aplikácia používala a na aké účely? Ako sú dátové modely konštruované, na základe akých teoretických konštruktov a do akej miery sú rozhodnutia, ktoré softvér urobí, sledovateľné (napr. vysvetliteľnosť)? Okrem toho, aké hodnoty a predpoklady sa odrážajú v týchto dátových modeloch a kto ich stanovuje?*"
+*„Aké dáta by aplikácia používala a na aké účely? Ako sú dátové modely zostavené, na akých teoretických konštruktoch sú založené a do akej miery sú rozhodnutia softvéru spätne vysledovateľné (napr. z hľadiska ich vysvetliteľnosti)? Aké hodnoty a predpoklady sa v týchto dátových modeloch odrážajú a kto ich určuje?“*
 
-"Aké veľké škody by spôsobilo chybné rozhodnutie založené na výpočtových metódach používaných na autonómne rozhodovanie?
+*„Aké veľké škody by spôsobilo, keby použitie výpočtových metód na autonómne rozhodovanie viedlo k chybnému rozhodnutiu?“*
 
-A z hľadiska rámca všeobecného nariadenia o ochrane údajov (GDPR): "V kontexte vzdelávania a odbornej prípravy je potrebné zachovať rovnováhu medzi zhromažďovaním digitálnych údajov a zásahom do osobnej sféry každého jednotlivca. "*"
+A z hľadiska rámca všeobecného nariadenia o ochrane údajov (GDPR): *„V kontexte vzdelávania a odbornej prípravy je potrebné zachovať rovnováhu medzi zhromažďovaním digitálnych dát a zasahovaním do osobnej integrity jednotlivcov.“*
 
-[^1]: "Umelá inteligencia vo vzdelávaní: zmena rýchlosťou učenia". Usmernenie UNESCO-IITE - Autor: Steven Duggan; Editor: Svetlana Knyazeva - ISBN: 978-5-6046449-2-8.
+[^1]: „AI in Education: Change at the Speed of Learning“. UNESCO IITE Policy Brief. Autor: Steven Duggan. Editorka: Svetlana Knyazeva - ISBN : 978-5-6046449-2-8.
 
-[^2]: "Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios" (Nové technológie a učiteľská profesia: etické a pedagogické úvahy na základe scenárov blízkej budúcnosti) - Vuorikari Riina, Punie Yves, Marcelino Cabrera - Správa Spoločného výskumného centra - 2020.
+[^2]: „Emerging technologies and the teaching profession: Ethical and pedagogical considerations based on near-future scenarios“- Vuorikari Riina, Punie Yves, Marcelino Cabrera - správa Spoločného výskumného centra - 2020.
