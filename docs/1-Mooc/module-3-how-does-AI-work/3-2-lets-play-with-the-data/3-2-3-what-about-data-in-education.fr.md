@@ -1,6 +1,6 @@
 ---
-názov: "3.2.3 Čo s údajmi vo vzdelávaní?"
-popis: "Identifikujte miesto vzdelávacích údajov v nástrojoch AIEd."
+názov: "3.2.3 Aká je úloha dát vo vzdelávaní?"
+popis: "Identifikujte úlohu dát v AI vzdelávacích naśtrojoch."
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.2.3t
