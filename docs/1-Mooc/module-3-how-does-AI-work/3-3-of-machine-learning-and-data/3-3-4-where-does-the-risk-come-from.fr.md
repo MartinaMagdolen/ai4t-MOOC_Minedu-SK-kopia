@@ -4,10 +4,10 @@ opis: Identifikujte rôzne typy rizík
 ---
 ??? info "Metadáta"
     - ID: EU.AI4T.O1.M3.3.3t
-    - Názov: 3.3.3 Where Does the Risk Come From?
+    - Názov: 3.3.3 Odkiaľ pochádza riziko?
     - Typ: text
-    - Opis: Identify the different types of risks
-    - Predmet: Artificial Intelligence for and by Teachers
+    - Opis: Identifikujte rôzne typy rizík
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
     - Autori:
         - AI4T 
     - Licencia: CC BY 4.0
@@ -15,15 +15,15 @@ opis: Identifikujte rôzne typy rizík
 
 
 # Odkiaľ pochádza riziko?
-Výskumná služba Európskeho parlamentu vo svojej štúdii *Artificial intelligence: How does it work, why does it matter, and what can we do about it?*[^1] uviedla: „*Je dôležité poznamenať, že algoritmy AI nemôžu byť objektívne, pretože rovnako ako ľudia si v priebehu svojho tréningu vytvárajú spôsob, akým dávajú zmysel tomu, čo videli predtým, a tento ‚svetonázor‘ využívajú na kategorizáciu nových situácií, s ktorými sú konfrontované.*“
+Výskumná služba Európskeho parlamentu (EPRS) vo svojej štúdii o umelej inteligencii[^1] uviedla: *„Je dôležité poznamenať, že AI algoritmy nemôžu byť objektívne, pretože rovnako ako ľudia si počas svojho tréningu osvojujú spôsob, ako dávať zmysel videným veciam a tento svoj ‚svetonázor‘ využívajú na kategorizáciu nových situácií, s ktorými sa stretávajú.“*
 
-Pozrime sa, odkiaľ pochádza subjektivita AI a aké sú s tým spojené riziká.
+Pozrime sa na to, aký má subjektivita umelej inteligencie zdroj a aké sú s ňou spojené riziká.
 
-## Zaujatosť v údajoch a v algoritmoch
+## Zaujatosť v dátach a algoritmoch
 
-Tak ako pri každom digitálnom systéme, údaje používané v platformách založených na AI pochádzajú z rôznych zdrojov a majú viacero formátov. Nesú v sebe rôzne typy zaujatosti (bias)[^2]. Zaujatosť údajov je hlavne štatistická. Uveďme si niektoré z nich:
+Tak ako pri každom digitálnom systéme, dáta používané na AI platformách pochádzajú z rôznych zdrojov a majú rôzne formáty. Aj preto môžu byť poznačené rôznymi typmi zaujatosti alebo skreslenia (z angl. _bias_).[^2] Zaujatosť dát sa prejavuje hlavne na štatistickej úrovni. Uveďme si niektoré z nich:
 
--   **Výberová zaujatosť (Sample bias)** je zvyčajne prítomná v hodnotách údajov. Ide napríklad o prípad náborového algoritmu trénovaného na databáze, v ktorej sú nadmerne zastúpení muži, čo povedie k vylúčeniu žien.
+-   **Výberová zaujatosť** je zvyčajne prítomná v hodnotách dát. Príkladom môže byť náborový algoritmus trénovaný na databáze, v ktorej sú nadmerne zastúpení muži, čo povedie k vylúčeniu žien.
 
 -   **Stereotypná zaujatosť (Stereotype bias)** je tendencia konať s odkazom na sociálnu skupinu, ku ktorej patríme. Jedna štúdia napríklad ukazuje, že ženy majú tendenciu klikať na pracovné ponuky, o ktorých si myslia, že ich ako ženy ľahšie získajú.
 
