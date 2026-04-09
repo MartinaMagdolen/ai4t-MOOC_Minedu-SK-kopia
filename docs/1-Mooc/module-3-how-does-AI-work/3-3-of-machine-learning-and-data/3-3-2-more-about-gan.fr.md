@@ -1,25 +1,25 @@
 ---
-názov: "3.3.2 Generatívne antagonistické siete (GAN)" (vo francúzštine)
-popis: Ďalšie informácie o sieťach GAN
-prispievateľ: Mooc IAI
+názov: "3.3.2 Generatívne adversariálne siete (GAN)"
+popis: "Ďalšie informácie o sieťach GAN"
+prispievateľ: "Mooc IAI"
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.3.2t
-    - Názov: 3.3.2 Generatívne antagonistické siete (GAN)
+    - Názov: 3.3.2 Generatívne adversariálne siete (GAN)
     - Typ: text
-    - Opis: Získajte viac informácií o GAN
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Opis: Ďalšie informácie o sieťach GAN
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
         - Mooc IAI
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Generatívne adverzné siete (GAN)
-Generatívne adverzné siete ležia medzi učením pod dohľadom založeným na poskytovaní vstupných údajov, ktorých zodpovedajúci požadovaný výstup je známy, aby bolo možné odhadnúť vzťah medzi vstupom a výstupom nad rámec vzoriek poskytnutých na trénovanie, a učením bez dohľadu.
+# Generatívne adversariálne siete (GAN)
+Generatívne adversariálne siete stoja na pomedzí učenia bez dohľadu a učenia s dohľadom (pri ktorom poskytujeme vstupné dáta so známym požadovaným výstupom, čo nám pomáha odhadnúť vzťah medzi vstupom aj mimo tréningových vzoriek).
 
-Ak sú k dispozícii len vstupné údaje s cieľom odhaliť určité štruktúry v údajoch (napríklad počet parametrov, ktoré ich charakterizujú), existuje mnoho ďalších paradigiem, napríklad **polovičný dohľad**, kde miešame údaje, pri ktorých poznáme požadovaný výstup, a iné údaje, pri ktorých ho nepoznáme, s cieľom zmiešať tieto dva prístupy.
+Ak sú k dispozícii len vstupné dáta a cieľom je odhaliť v nich určité štruktúry (napríklad počet parametrov, ktoré ich charakterizujú), môžeme využívať množstvo ďalších paradigiem. Napríklad pri **učení s polovičným dohľadom** tieto dva prístupy kombinujeme: dáta so známym požadovaným výstupom miešame s inými dátami, pri ktorých požadovaný výstup nepoznáme.
 
-Ďalšia paradigma, známa ako **samokontrolovaná**, spočíva v použití vstupných údajov na nájdenie externého mechanizmu na generovanie príslušného výstupu. Cieľom je vyhnúť sa obrovskému ľudskému úsiliu spojenému so zadávaním požadovaného výsledku pre každý vstup, napríklad ručným označovaním obrázkov, v prípade potreby pixel po pixeli (ak chceme zistiť, kde sa na obrázku nachádza mačka). Ďalším možným využitím by bolo naučiť sa automaticky vyfarbovať obrázky, pričom by sa začalo s farebnými obrázkami, zredukovalo by sa to na čiernobiele obrázky a potom by sa mechanizmus vycvičil tým, že by sa mu poskytli požadované farebné obrázky, v tomto prípade známe bez toho, aby sa museli rekonštruovať pre každý čiernobiely obrázok.
+Ďalšou paradigmou je **učenie so samostatným dohľadom**, pri ktorom sa pomocou vstupných dát hľadá externý mechanizmus na generovanie príslušných výstupov. Cieľom tohto prístupu je ušetriť veľké množstvo ľudského úsilia potrebné na zadávanie požadovaného výsledku pre každý vstup, napríklad pri ručnom označovaní obrázkov pixel po pixeli (ak napríklad chceme zistiť, kde sa na obrázku nachádza mačka). Ďalej sa dá využiť na naučenie umelej inteligencie automaticky vyfarbovať obrázky: začneme s farebnými obrázkami, prevedieme ich do čiernobielej podoby a následne mechanizmus trénujeme tým, že mu poskytneme požadované farebné obrázky. Tie sú v tomto prípade známe bez toho, aby sme museli každý čiernobiely obrázok prácne prevádzať späť do jeho farebnej verzie.
  
-Tento postup funguje aj pri učení sa relatívnej polohy prvkov v obraze, ktorý bol vystrihnutý, alebo časovej nadväznosti vo videu. Nefunguje to však na všetko a zakaždým bude potrebné nájsť riešenie na automatické generovanie požadovaných vstupov a výstupov z údajov. **Jedná sa o druh učenia bez dohľadu, ktoré automaticky generuje údaje pre paradigmu učenia s dohľadom.
+Tento postup funguje aj vtedy, keď chceme umelú inteligenciu naučiť relatívnu polohu prvkov na orezanom obrázku alebo časovej nadväznosti vo videu. Nefunguje však na všetko. Dá sa to použiť všade tam, kde nájdete spôsob, ako automaticky vygenerovať požadované vstupy a výstupy priamo z dostupných dát. **Ide v podstate o druh učenia bez dohľadu, ktoré automaticky generuje dáta pre paradigmu učenia s dohľadom.**
