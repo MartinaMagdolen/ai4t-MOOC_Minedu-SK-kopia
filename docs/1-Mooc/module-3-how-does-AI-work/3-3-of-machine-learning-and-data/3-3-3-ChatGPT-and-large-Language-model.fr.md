@@ -1,55 +1,56 @@
 ---
-názov: "3.3.3 ChatGPT a jazykový model" (francúzsky)
-popis: Videá a zdroje na dešifrovanie ChatGPT (Francúzsko)
-autor: Alexandre, Torres-Leguet - Flowers - Inria
-                Clément, Romac - Flowers - Inria
-                Thomas, Carta - Flowers - Inria
-                Pierre-Yves, Oudeyer - Kvety - Inria
+názov: "3.3.3 ChatGPT a jazykové modely"
+popis: "Videá a zdroje na pochopenie ChatGPT"
+autor:
+  - "Alexandre Torres-Leguet - Flowers - Inria"
+  - "Clément Romac - Flowers - Inria"
+  - "Thomas Carta - Flowers - Inria"
+  - "Pierre-Yves Oudeyer - Flowers - Inria"
 typ: video
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M3.3.2t
-    - Názov: ChatGPT a jazykový model
+    - Názov: ChatGPT a jazykové modely
     - Typ: video
     - Popis: Ďalšie informácie o GAN
-    - Vec: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Vec: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - Alexandre, Torres-Leguet - Flowers - Inria
         - Clément, Romac - Flowers - Inria
         - Thomas, Carta - Flowers - Inria
         - Pierre-Yves, Oudeyer - Flowers - Inria
     - Licencia: CC BY 4.0
     - Dátum: 2023-10-02
----
 
-V pozadí ChatGPT a mnohých diskusií, ktoré ho sprevádzajú, je základná otázka, o čo ide v generatívnej umelej inteligencii. V neposlednom rade kvôli ich mnohým dôsledkom pre vzdelávanie.
+
+Za jazykovým modelom ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, stojí základná otázka o tom, čo je podstatou generatívnej umelej inteligencie – najmä vzhľadom na jej početné dôsledky pre oblasť vzdelávania.
 
 ## 1 - Pochopenie ChatGPT
 
-Aby ste lepšie pochopili, čo sú to jazykové modely, výučbový tím AI4T pripravil sériu videí, ktoré vytvorili Alexandre Torres-Leguet, Clément Romac, Thomas Carta a Pierre-Yves Oudeyer z tímu Flowers v spoločnosti Inria. Sú šírené pod licenciou Creative Commons CC-BY.
+Pedagogický tím AI4T pre lepšie pochopenie jazykových modelov pripravil sériu videí, ktoré vytvorili Alexandre Torres-Leguet, Clément Romac, Thomas Carta a Pierre-Yves Oudeyer z tímu Flowers z francúzskeho výskumného ústavu Inria. Sú šírené pod licenciou Creative Commons CC-BY.
 
-### Episode#1: How do language models work?
+### 1. diel: Ako fungujú jazykové modely?
 
-**Ako funguje ChatGPT? Prehľad za menej ako 5 minút "**
+**Ako funguje ChatGPT? Prehľad za menej ako 5 minút**
 Zhrnutie: Úvodné video o jazykových modeloch, ktoré sú základom nástrojov ako ChatGPT a Bard. Je určené širokému publiku, najmä študentom a učiteľom na stredných školách.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/K8gOvC8gvB4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Episode#2: Ako prinútiť jazykový model, aby splnil úlohu?
+### 2. diel: Ako prinútiť jazykový model, aby splnil úlohu?
 
 **Promptovanie alebo umenie, ako sa dorozumieť pomocou ChatGPT: Vysvetlené v 5 minútach.
 Zhrnutie: Toto video predstavuje koncept promptovania, ktorý umožňuje prinútiť jazykový model (vrátane ChatGPT) vykonať určitú úlohu tak, že mu úlohu vysvetlíte pomocou viet v prirodzenom jazyku. Uvádzajú sa príklady dvoch metód podnecovania (vysvetlenie úlohy v prirodzenom jazyku a uvedenie príkladov, ako sa úloha vykonáva).
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/8IQ9i_QoA3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Episode#3: Limity a slabiny jazykových modelov
+### 3. diel: Limity a slabiny jazykových modelov
 
 ** Aké sú obmedzenia ChatGPT? Vysvetlené za 5 minút "**
 Zhrnutie: Jazykové modely, ako napríklad ChatGPT alebo Bard, preukázali pôsobivé schopnosti pri riešení najrôznejších úloh. Majú však aj mnoho obmedzení a slabých stránok!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xXHWTC4mJBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Episode#4: Silné stránky jazykových modelov
+### 4. diel: Silné stránky jazykových modelov
 
 **Silné stránky jazykových modelov
 Zhrnutie: Toto video predstavuje hlavné silné stránky jazykových modelov, ako sú ChatGPT alebo Bard. Napriek určitým slabým stránkam majú aj veľké množstvo silných stránok, ako napríklad :
@@ -62,7 +63,7 @@ Zhrnutie: Toto video predstavuje hlavné silné stránky jazykových modelov, ak
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5HVR3cVFot4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-### Episode#5: Advanced prompting and reasoning
+### 5. diel: Písanie pokročilých promptov a uvažovanie
 Zhrnutie: Toto video ukazuje, ako jazykové modely, ako napríklad ChatGPT alebo Bard, dokážu udržať jednoduché zdôvodnenia na riešenie daného problému.
 Niekedy je však potrebné použiť rôzne techniky **pokročilého podnecovania**, ktoré im pomôžu takéto uvažovanie zorganizovať.
 Niektoré z týchto techník (napr. myšlienkové reťazce) sú tu predstavené; potom sa diskutuje o pôvode a obmedzeniach týchto schopností uvažovania.
