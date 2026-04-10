@@ -1,24 +1,24 @@
 ---
-názov: "4.1.4 Riziká a rozhodovanie na základe umelej inteligencie".
-opis: Pochopiť klasifikáciu rizík spojených s používaním systémov umelej inteligencie pri rozhodovaní.
+názov: "4.1.4 Riziká rozhodovania s pomocou AI"
+popis: "Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní."
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M4.1.4t
-    - Názov: 4.1.4 Riziká a rozhodovanie založené na umelej inteligencii
+    - Názov: 4.1.4 Riziká rozhodovania s pomocou AI
     - Typ: text
-    - Opis: Pochopenie klasifikácie rizík súvisiacich s používaním systémov umelej inteligencie pri rozhodovaní.
+    - Opis: Klasifikácia rizík spojených s používaním AI systémov pri rozhodovaní.
     - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Autori:
         - AI4T
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Riziká spojené s používaním systémov umelej inteligencie pri rozhodovaní
+# Riziká spojené s používaním AI systémov pri rozhodovaní
 
-## 4 úrovne rizika v oblasti umelej inteligencie
+## 4 úrovne rizika pri používaní umelej inteligencie
 
-V **návrhu regulačného rámca pre umelú inteligenciu**[^1], ktorý má Európska komisia (EK) zaviesť v roku 2021, sa uvádzajú štyri úrovne rizika súvisiaceho s používaním systémov umelej inteligencie. Uvádza sa v ňom, že "*Akkoľvek väčšina systémov umelej inteligencie predstavuje obmedzené alebo žiadne riziko a môže pomôcť vyriešiť mnohé spoločenské výzvy, niektoré systémy umelej inteligencie vytvárajú riziká, ktoré musíme riešiť, aby sme sa vyhli nežiaducim výsledkom*".
-Zdôrazňuje, že "*často nie je možné zistiť, prečo systém UI urobil rozhodnutie alebo predpoveď a podnikol určitú akciu. Preto môže byť ťažké určiť, či bola osoba nespravodlivo znevýhodnená, napríklad pri rozhodovaní o prijatí do zamestnania alebo pri žiadosti o verejné dávky "*.
+**Návrhu regulačného rámca pre umelú inteligenciu**,[^1] ktorý Európska komisia (EK) publikovala už v roku 2021, rozlišuje štyri úrovne rizika súvisiaceho s používaním AI systémov. Uvádza sa v ňom, že *„hoci väčšina AI systémov predstavuje iba obmedzené alebo žiadne riziko a môže prispieť k riešeniu mnohých spoločenských výziev, niektoré AI systémy prinášajú riziká, ktoré musíme riešiť, aby sme sa vyhli nežiaducim dôsledkom.“*
+Zdôrazňuje, že *“často nie je možné zistiť, prečo AI systém urobil konkrétne rozhodnutie, predoveď či krok. Preto môže byť ťažké posúdiť, či bol niekto nespravodlivo znevýhodnený, napríklad pri rozhodovaní o prijatí do zamestnania alebo pri žiadosti o pridelenie sociálnych dávok."*
 
 Boli identifikované štyri úrovne rizika, od neprijateľnej po minimálnu:
 
