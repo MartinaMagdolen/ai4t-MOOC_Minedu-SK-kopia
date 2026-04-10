@@ -27,7 +27,7 @@ Hlavný hrdina _Guillaume_ volá na asistenčnú linku po tom, čo si prečítal
 Diskusia medzi _Guillaumom_ a _asistenčnou linkou_ sa následne preorientuje na novú otázku: nie na to, ktoré činnosti môžu AI systémy vykonávať, ale na to, o ktorých veciach by mali alebo nemali rozhodovať.
 
 
-**Máte aj vy otázky?**
+**Máte aj vy otázky?**  
 _Pozrite si nasledujúce video (1 min 51 s):_
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/CpS2_IsY2EI?rel=0&showinfo=0&cc_load_policy=1&hl=en&modestbranding=1" frameborder="0" allowfullscreen></iframe></center>
