@@ -19,7 +19,7 @@ typ: aktivita
 
 Táto krátka aktivita sa vracia ku klasifikácii 3 stupňov zapojenia AI do rozhodovania, pričom každý stupeň je ilustrovaný príkladom z oblasti vzdelávania.
 
-**Prístup k aktivite**
+**Prístup k aktivite**  
 *Kliknite na nasledujúci obrázok*
 
 <figure>
