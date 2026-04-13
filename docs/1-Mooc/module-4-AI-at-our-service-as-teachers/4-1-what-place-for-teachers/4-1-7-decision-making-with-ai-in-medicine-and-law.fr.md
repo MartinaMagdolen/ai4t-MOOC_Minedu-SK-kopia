@@ -1,35 +1,35 @@
 ---
-názov: 4.1.7 Rozhodovanie pomocou umelej inteligencie v medicíne a súdnictve
-opis: Objavte oblasti mimo vzdelávania, v ktorých systémy umelej inteligencie už zásadne zmenili spôsob rozhodovania.
+názov: 4.1.7 Rozhodovanie s pomocou AI v medicíne a práve
+opis: Objavte oblasti mimo vzdelávania, v ktorých AI systémy už zásadne zmenili spôsob prijímania rozhodnutí.
 ---
 ??? info "Metadáta
     - Id: EU.AI4T.O1.M4.1.7t
-    - Názov: 
+    - Názov: Rozhodovanie s pomocou AI v medicíne a práve
     - Typ: text
-    - Opis: Predmet: Umelá inteligencia pre učiteľov a pre učiteľov 
-    - Predmet: Umelá inteligencia pre učiteľov a pre učiteľov
-    - Autori: Mgr:
+    - Opis: Predmet: Umelá inteligencia pre učiteľov a of učiteľov 
+    - Predmet: Umelá inteligencia pre učiteľov a od učiteľov
+    - Autori:
         - AI4T 
     - Licencia: CC BY 4.0
     - Dátum: 2022-11-15
 
-# Rozhodovanie s umelou inteligenciou v medicíne a justícii
+# Rozhodovanie s pomocou AI v medicíne a práve
 
-Pokiaľ ide o podporu rozhodovania, dve oblasti už majú za sebou históriu využívania umelej inteligencie: medicína a právo.  
-Vzhľadom na dôležitosť rozhodnutí prijímaných v týchto oblastiach sú to zaujímavé príklady na štúdium.
+Pokiaľ ide o pomoc pri rozhodovaní, dve oblasti už majú bohatú históriu využívania umelej inteligencie: medicína a právo.  
+Vzhľadom na dôležitosť rozhodnutí prijímaných v týchto oblastiach ide o zaujímavé príklady na štúdium.
 
 ## AI a medicína
 
-"Umelá inteligencia je srdcom medicíny budúcnosti, s asistovanými operáciami, diaľkovým monitorovaním pacientov, inteligentnými protézami a personalizovanou liečbou založenou na veľkých objemoch údajov"[^1].
+„Umelá inteligencia je skutočne srdcom medicíny budúcnosti: prináša asistované operáciae, vzdialené monitorovanie pacientov, inteligentné protézy či dokonca personalizovanú liečbu založenú na krížovom porovnávaní veľkých dát.“[^1]
 
-Približne pred päťdesiatimi rokmi bol v oblasti diagnostiky vyvinutý jeden z najznámejších expertných systémov: MYCIN.  
-"Bol to jeden z prvých expertných systémov, ktorý využíval umelú inteligenciu na identifikáciu baktérií zodpovedných za závažné infekcie, ako je bakteriémia a meningitída, a na odporúčanie antibiotík, ktorých dávka sa upravovala podľa telesnej hmotnosti pacienta"[^2].
+Približne pred 50 rokmi bol práve v oblasti diagnostiky vyvinutý jeden z najznámejších expertných systémov: MYCIN.  
+„Bol to raný expertný systém, ktorý využíval umelú inteligenciu na identifikáciu baktérií spôsobujúcich závažné infekcie, ako sú bakteriémia či meningitída, a na odporúčanie antibiotík, ktorých dávka sa upravovala podľa telesnej hmotnosti pacienta.“[^2]
 
-Systém MYCIN vyvíjaný od roku 1972 dokázal o 6 rokov neskôr prekonať lekárov v presnej diagnostike. V rámci celoplošného testu mali MYCIN a 9 lekárov, stážistov a akademikov, stanoviť diagnózu a predpísať lieky 80 pacientom trpiacim meningitídou. Diagnózy a predpisy potom naslepo vyhodnotilo 8 špecialistov na meningitídu a ...... MYCIN dosiahol lepšie výsledky ako ľudskí odborníci.
+Systém MYCIN bol vyvíjaný od roku 1972 a o 6 rokov neskôr už dokázal prekonať lekárov v stanovovaní presných diagnóz. V rozsiahlom celoplošnom teste sa systém MYCIN porovnával s 9 lekármi, medicínskymi stážistami a akademikmi, v rámci ktorého bolo úlohou stanoviť diagnózu a predpísať lieky 80 pacientom s meningitídou. Diagnózy a predpisy potom naslepo vyhodnocovalo 8 špecialistov na meningitídu. A aký bol výsledok testu? Systém MYCIN dosiahol lepšie výsledky ako ľudskí odborníci.
 
-V súčasnosti je dôležitou oblasťou využitia strojového učenia na lekárske účely analýza obrazu na lekárske diagnózy [^3]. Pozrime sa v krátkosti na to, ako to funguje, ako to vysvetlil Gaël Varoquaux, výskumník spoločnosti Inria AI:
+Dnes je jednou z dôležitých oblastí využitia strojového učenia v medicíne analýza obrazu na lekársku diagnostiku.[^3] Pozrime sa v krátkosti na jej fungovanie podľa slov Gaëla Varoquauxa, výskumníka umelej inteligencie v ústave Inria:
 
-"Strojové učenie je jedným z odvetví umelej inteligencie (AI). Vo francúzštine znamená automatické učenie. Stručne povedané, táto technika zahŕňa podávanie tisícov príkladov softvéru, aby sa naučil vykonávať klasifikačné úlohy. Napríklad vyhľadávanie psov alebo mačiek na obrázkoch. Znamienka alebo zhubné melanómy. Teoreticky sa tak otvára celý nový svet medicínskych aplikácií. Napríklad röntgenové snímky tisícov pacientov trpiacich rovnakým ochorením sú zhromaždené v tzv. kohorte. Na základe týchto tréningových údajov potom počítač rozpozná rovnaké vizuálne charakteristiky na nových snímkach zhotovených počas vyšetrenia iných ľudí. Toto sú cieľové údaje*"[^4].
+„Strojové učenie je odvetvie umelej inteligencie (AI). Stručne povedané, pri tejto technike kŕmime softvér tisíckami príkladov, aby sa naučil vykonávať identifikačné úlohy: napríklad odlišovať na obrázkoch psy od mačiek, znamienka od zhubných melanómov. Teoreticky by sa tým mala otvoriť široká škála medicínskych aplikácií. Napríklad sa zhromaždia röntgenové snímky tisícov pacientov trpiacich rovnakým ochorením, čím vznikne tzv. kohorta. Pomocou týchto tréningových dát sa potom počítač naučí rozpoznávať rovnaké vizuálne charakteristiky aj na akýchkoľvek nových snímkach zhotovených počas skríningu iných ľudí. Tie sa stávajú cieľovými údajmi.“*[^4]
 
 ## Umelá inteligencia a spravodlivosť
 
