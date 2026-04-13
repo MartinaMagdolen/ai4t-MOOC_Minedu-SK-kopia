@@ -33,32 +33,32 @@ Dnes je jednou z dôležitých oblastí využitia strojového učenia v medicín
 
 ## Umelá inteligencia a spravodlivosť
 
-V oblasti spravodlivosti boli identifikované dve hlavné použitia systémov umelej inteligencie.
+V oblasti spravodlivosti boli identifikované dve hlavné využitia AI systémov.
 
-Prvým sú nástroje na podporu rozhodovania. Systém AI môže pomôcť sudcovi pri vyšetrovaní prípadu, napríklad tým, že ho informuje o všetkých rozsudkoch, ktoré vyniesli príslušné súdy v podobných prípadoch. V tomto prípade AI zlepšuje vyhľadávanie informácií, ale rozhodnutie prijíma sudca sám[^5].
+Prvým sú nástroje na podporu rozhodovania. AI systém môže pomôcť sudcovi pri vyšetrovaní prípadu, napríklad tým, že ho informuje o všetkých rozsudkoch, ktoré príslušné súdy vyniesli v podobných prípadoch. V tomto prípade umelá inteligencia zlepšuje vyhľadávanie informácií, ale rozhodnutie prijíma sudca sám.[^5]
 
-Potom existujú nástroje schopné predvídať rozhodnutia. V tomto prípade AI navrhuje právne rozhodnutie priamo sudcovi[^6]. Softvér analyzuje veľké množstvo príkladov súdnych rozhodnutí a "automaticky" z nich odvodzuje pravidlá rozhodovania. Vznik prediktívnej justície vyvoláva mnohé obavy.
+Potom sú tu nástroje, ktoré dokážu predpovedať rozhodnutia. V tomto prípade umelá inteligencia navrhuje právne rozhodnutie priamo sudcovi.[^6] Softvér analyzuje veľké množstvo príkladov súdnych rozhodnutí a „automaticky“ z nich odvodzuje pravidlá rozhodovania. Vznik prediktívnej justície vyvoláva mnohé obavy.
 
-Hoci "uplatňovanie umelej inteligencie v oblasti justície môže prispieť k zvýšeniu jej účinnosti a kvality" [musí] "byť vykonávané zodpovedne a v súlade so základnými právami"[^7]. Na európskej úrovni bola v roku 2018 prijatá Etická charta o používaní umelej inteligencie v justičných systémoch a ich prostredí.
+Hoci „využívanie umelej inteligencie v oblasti justície môže prispieť k zvýšeniu jej efektívnosti a kvality“ [musí] „sa zavádzať zodpovedne a v súlade so základnými právami.“[^7] Na európskej úrovni bola v roku 2018 prijatá európska Európska etická charta o používaní umelej inteligencie v súdnych systémoch a ich prostredí.
 
-Je usporiadaná okolo 5 zásad a uznáva sa v nej dôležitosť nediskriminácie, dodržiavania základných práv, kvality, bezpečnosti, transparentnosti, nestrannosti a spravodlivosti.
+Je postavená na 5 princípoch a uznáva dôležitosť nediskriminácie, rešpektovania základných práv, kvality, bezpečnosti, transparentnosti, nestrannosti a spravodlivosti.
 
-Napokon sa v nej zdôrazňuje zásada "kontroly používateľa": "vylúčenie normatívneho prístupu a zabezpečenie toho, aby používatelia boli informovaní a mali kontrolu nad svojimi rozhodnutiami" [^7].
+Napokon sa v nej zdôrazňuje zásada „kontroly používateľa“: „zabránenie preskriptívnemu prístupu a zabezpečenie toho, aby používatelia boli informovanými aktérmi a mali svoje rozhodnutia pod kontrolou.“[^7]
 
-V oblasti práva, rovnako ako vo vzdelávaní alebo medicíne, môže podpora pri rozhodovaní, ktorú poskytuje systém umelej inteligencie, zlepšiť prijaté rozhodnutie. Vzhľadom na možné dôsledky tých istých rozhodnutí je zachovanie ľudskej kontroly dôležitou otázkou pre vývoj systémov UI v nasledujúcich rokoch.
+V oblasti práva, rovnako ako vo vzdelávaní či medicíne, môže podpora rozhodovania poskytovaná AI systémom zlepšiť prijaté rozhodnutie. Vzhľadom na potenciálne dôsledky týchto rozhodnutí však zachovanie ľudského dohľadu zostáva kľúčovou otázkou pri vývoji AI systémov v nasledujúcich rokoch.
 
-Všetci používatelia musia byť schopní kriticky využívať rozhodnutia navrhované systémami UI. Napríklad pri odhaľovaní niektorých druhov rakoviny sú systémy tak dobre vycvičené na určité vizuálne charakteristiky, že pri týchto prejavoch stanovujú vynikajúcu diagnózu, ale ostatné už nie sú schopné rozpoznať. Stále potrebujete oko lekára, aby ste videli to, čo dobre vycvičená AI prehliadla.
+Všetci používatelia týchto systémov musia byť schopní zachovať si kritický prístup k rozhodnutiam navrhovaným AI systémami. Napríklad pri odhaľovaní určitých druhov rakoviny sú systémy na rozlišovanie určitých vizuálnych charakteristík natrénované tak dobre, že pri týchto prejavoch dokážu stanoviť vynikajúcu diagnózu, no ostatné už nemusia byť schopné rozpoznať. Stále potrebujeme vizuálnu kontrolu lekára, ktorý nájde to, čo dobre vycvičená umelá inteligencia prehliadla.
 
-[^1]: Výňatok z francúzskeho článku [Intelligence artificielle et santé : Des algorithmes au service de la médecine] (https://www.inserm.fr/dossier/intelligence-artificielle-et-sante/) - stránka francúzskeho Národného inštitútu pre zdravie a lekársky výskum (konzultované 23. 8. 2022).
+[^1]: Výňatok z francúzskeho článku [Intelligence artificielle et santé : Des algorithmes au service de la médecine] (https://www.inserm.fr/dossier/intelligence-artificielle-et-sante/) - stránka _Institut national de la santé et de la recherche médicale_ (Národný inštitút pre zdravie a lekársky výskum) (prístup 23. 8. 2022).
 
-[^2]: [Mycin](https://en.wikipedia.org/wiki/Mycin), článok na Wikipédii (konzultované 23/08/2022).
+[^2]: [Mycin](https://en.wikipedia.org/wiki/Mycin), článok na Wikipédii (prístup 23/08/2022).
 
-[^3]: Varoquaux, G., Cheplygina, V. - článok v angličtine ["Machine learning for medical imaging: methodological failures and recommendations for the future"](https://doi.org/10.1038/s41746-022-00592-y). *npj Digit. Med.* 5, 48 (2022).
+[^3]: Varoquaux, G., Cheplygina, V. [Machine learning for medical imaging: methodological failures and recommendations for the future](https://doi.org/10.1038/s41746-022-00592-y). *npj Digit. Med.* 5, 48 (2022).
 
-[^4]: Varoquaux, G. - [Imagerie médicale: l'intelligence artificielle peut-elle tenir ses promesses?](https://www.inria.fr/fr/imagerie-medicale-intelligence-artificielle-apprentissage-automatique) - rozhovor na webovej stránke spoločnosti Inria (konzultované 23. 8. 2022).
+[^4]: Varoquaux, G. - [Imagerie médicale: l'intelligence artificielle peut-elle tenir ses promesses?](https://www.inria.fr/fr/imagerie-medicale-intelligence-artificielle-apprentissage-automatique) - rozhovor na webovej stránke spoločnosti Inria (prístup 23. 8. 2022).
 
-[^5]: V tomto prípade ide o "rozšírenie rozhodovania" alebo "podporu rozhodovania", ako sa uvádza v predchádzajúcej časti o "rozhodovaní pomocou AI".
+[^5]: V tomto prípade ide o „rozšírenie rozhodovania“ alebo „podporu rozhodovania“ podľa predchádzajúcej časti o „rozhodovaní pomocou AI“.
 
-[^6]: V tomto prípade ide o "automatizáciu rozhodovania", ako sa uvádza v predchádzajúcej časti o "rozhodovaní s AI".
+[^6]: V tomto prípade ide o „automatizáciu rozhodovania“ podľa predchádzajúcej časti o „rozhodovaní s pomocou AI“.
 
 [^7]: Výňatok z [Európskej etickej charty pre používanie umelej inteligencie v súdnych systémoch](https://www.coe.int/fr/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- webová stránka Európskej komisie pre efektívnosť justície (prístup 29.8.2022).
