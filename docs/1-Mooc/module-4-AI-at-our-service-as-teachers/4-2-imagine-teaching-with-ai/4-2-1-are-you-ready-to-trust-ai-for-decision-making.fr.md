@@ -21,11 +21,11 @@ prispievateľ: |
 
 Nie všetky rozhodnutia prijaté pomocou AI nástrojov majú rovnaký vplyv.
 
-Pri niektorých automatizovaných rozhodnutiach, ako napríklad pri „krokoch riešenia“, ktoré študentovi navrhne aplikácia na riešenie matematických úloh, možno dlhodobé riziko a škodu *považovať* za pomerne nízke.
+Pri niektorých automatizovaných rozhodnutiach možno dlhodobé riziko a škodu *považovať* za pomerne nízke – napríklad keď aplikácia na riešenie matematických úloh navrhne študentovy kroky riešenia.
 
 Iné rozhodnutia, naopak, predstavujú potenciálnu škodu alebo riziko.
 
-V takýchto prípadoch je potrebné prijať maximálne možné preventívnE opatrenia. V prvom rade musí byť rozhodnutie vysvetliteľné: prečo sa toto rozhodnutie navrhuje pre túto konkrétnu situáciu, pre tohto konkrétneho študenta alebo skupinu študentov?
+V takýchto prípadoch je potrebné prijať maximálne možné preventívne opatrenia. V prvom rade musí byť rozhodnutie vysvetliteľné: prečo sa toto rozhodnutie navrhuje pre túto konkrétnu situáciu, pre tohto konkrétneho študenta alebo skupinu študentov?
 
 Pozrime sa na niektoré kritériá používané na „hodnotenie“ rozhodovacieho procesu AI systémov.
 
@@ -35,11 +35,11 @@ Vysvetliteľnosť - jedna zo 7 požiadaviek dôveryhodnej umelej inteligencie: _
 
 V oblasti vzdelávania to znamená, že pri akomkoľvek AI nástroji na rozhodovanie musí byť prístup k informáciám o tom, ako sa rozhodnutie navrhuje a akú mieru ľudskej interakcie zahŕňa.
 
-Túto požiadavku je pomerne ľahké splniť, ale pri niektorých AI technológiách sa vysvetliteľnosť nedá dosiahnuť tak ľahko. Napríklad v prípade mnohovrstvových neurónových sietí môže byť ťažké zabezpečiť vysvetliteľnosť. Preto sa v súčasnosti rozvíja nová oblasť umelej inteligencie: vysvetliteľná umelá inteligencia (XAI), teda _„umelá inteligencia, pri ktorej majú ľudia možnosť pochopiť rozhodnutia alebo predpovede robené umelou inteligenciou. Stojí v protiklade ku konceptu ,čiernej skrinky‘ v strojovom učení, kde ani samotní dizajnéri nedokážu vysvetliť, prečo umelá inteligencia dospela k určitému rozhodnutiu.“_[^2]
+Túto požiadavku je pomerne ľahké splniť, ale pri niektorých AI technológiách sa vysvetliteľnosť nedá dosiahnuť tak ľahko. Napríklad v prípade mnohovrstvových neurónových sietí môže byť ťažké zabezpečiť vysvetliteľnosť. Preto sa v súčasnosti rozvíja vysvetliteľná umelá inteligencia (XAI) ako nová oblasť umelej inteligencie, _„pri ktorej majú ľudia možnosť pochopiť rozhodnutia alebo predpovede robené umelou inteligenciou. Stojí v protiklade ku konceptu ,čiernej skrinky‘ v strojovom učení, kde ani samotní dizajnéri nedokážu vysvetliť, prečo umelá inteligencia dospela k určitému rozhodnutiu.“_[^2]
 
 ## Interpretovateľnosť
 
-Niektoré techniky umelej inteligencie vedú k predpovediam, ktoré sa sa interpretujú ľahšie ako iné. Napríklad predpoveď vytvorená na základe rozhodovacieho stromu je vysvetliteľná. Takéto predpovede však nutne nemusia byť zaujímavé.
+Niektoré techniky umelej inteligencie vedú k predpovediam, ktoré sa interpretujú ľahšie ako iné. Napríklad predpoveď vytvorená na základe rozhodovacieho stromu je vysvetliteľná. Takéto predpovede však nutne nemusia byť zaujímavé.
 
 Na opačnom konci spektra vysvetliteľnosti sa nachádza hlboké učenie, ktoré môže byť oveľa náročnejšie na vysvetlenie, ale jeho výstupy môžu byť oveľa významnejšie ako tie, ktoré vytvorila umelá inteligencia s dobrou vysvetliteľnosťou.
 
@@ -49,7 +49,7 @@ Na opačnom konci spektra vysvetliteľnosti sa nachádza hlboké učenie, ktoré
  Prevzaté z MOOC IAI / Ikram Chraibi Kaadoud - CC.BY.SA 2.0.</figcaption>
 </figure>
 
-Nástroe so slabou interpretovateľnosťou tak môžu pri rozhodovaní poskytovať väčšiu podporu než nástroje s dobrou interpretovateľnosťou.
+Nástroje so slabou interpretovateľnosťou tak môžu pri rozhodovaní poskytovať väčšiu podporu než nástroje s dobrou interpretovateľnosťou.
 
 ### Od deskriptívneho k preskriptívnemu prístupu
 
@@ -58,7 +58,7 @@ Nasledujúci graf spája použitú technológiu, jej komplexnosť a strategický
 <figure>
   <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-FR.jpg" alt="Reprezentácia využití dátovej analýzy: od deskriptívnych po preskriptívne" />
 </figure>
-Obrázok č. 2: Klasifikácia využití dátovej analýzy: od deskriptívnych k preskriptívnym[^3] (Prevzaté z videa "Learning Analytics" v tomto kurze).
+Obrázok č. 2: Klasifikácia využití dátovej analýzy: od deskriptívnych k preskriptívnym[^3] (Prevzaté z videa „Learning Analytics“ v tomto kurze).
 
 V nasledujúcich štyroch kategóriách si môžeme všimnúť koreláciu medzi komplexnosťou použitých metód a strategickými výsledkami.
 
@@ -75,7 +75,7 @@ Vedie k identifikácii povahy a príčiny javu s cieľom určiť zmierňujúce o
 ### Prediktívna analýza
 
 Prediktívna analýza skúma dáta alebo udalosti s cieľom odpovedať na otázku „Čo sa stane?“ alebo presnejšie „Čo sa pravdepodobne stane?“  
-„Prediktívna analýza sa orientuje na budúcnosť a využíva minulé udalosti na predvídanie budúcich. Využíva štatistické metódy akomodelovanie dát, strojové učenie, umelú inteligenciu, algoritmy hlbokého učenia či dolovanie dát.“[^5]
+„Prediktívna analýza sa orientuje na budúcnosť a využíva minulé udalosti na predvídanie budúcich. Využíva štatistické metódy ako modelovanie dát, strojové učenie, umelú inteligenciu, algoritmy hlbokého učenia či dolovanie dát.“[^5]
 
 ### Preskriptívna analýza
 
