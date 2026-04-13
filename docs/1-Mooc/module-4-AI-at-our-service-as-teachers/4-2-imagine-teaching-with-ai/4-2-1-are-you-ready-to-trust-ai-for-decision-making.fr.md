@@ -79,21 +79,21 @@ Prediktívna analýza skúma dáta alebo udalosti s cieľom odpovedať na otázk
 
 ### Preskriptívna analýza
 
-Preskriptívna analýza odpovedá na otázku "Čo by sa malo urobiť?" alebo "Ako to uskutočniť?".
+Preskriptívna analýza odpovedá na otázku „Čo by sa malo urobiť?“ alebo „Ako to dosiahnuť?“
 
-"*Preskriptívna analytika predvída nielen to, čo sa stane a kedy sa to stane, ale aj prečo sa to stane. Okrem toho preskriptívna analytika navrhuje možnosti rozhodnutia, ako využiť budúcu príležitosť alebo zmierniť budúce riziko, a ukazuje dôsledky každej možnosti rozhodnutia*." [Preklad DeepL] [^6]
+*„Preskriptívna analýza predvída nielen to, čo a kedy sa to stane, ale aj prečo. Okrem toho navrhuje možnosti rozhodnutia, ako využiť budúcu príležitosť alebo zmierniť budúce riziko, a ukazuje dôsledky každej možnosti rozhodnutia.“*[^6]
 
-Súhrnne možno povedať, že čím relevantnejšie môžu byť nástroje ako pomoc pri rozhodovaní, tým zložitejšie sú informačné technológie a tým ťažšie sa môžu vysvetľovať.
-Z hľadiska poskytovanej pomoci je však potrebné zachovať pozornosť na vysvetľovanosť a ostražitosť, ktorá sa môže vyžadovať pri používaní nástroja umelej inteligencie v oblasti, kde sú dôsledky rozhodnutí dôležité a dlhodobé.
+Zhrnutie: Čím relevantnejšie môžu byť nástroje ako pomôcka pri rozhodovaní, tým zložitejšie sú príslušné informačné technológie a tým náročnejšie môže byť ich vysvetľovanie.
+Z hľadiska poskytovanej pomoci však treba dbať na vysvetliteľnosť a zachovať ostražitosť pri používaní AI nástrojov v oblastiach, kde sú dôsledky rozhodnutí významné a trvalé.
 
-[^1]: "* Okrem toho môže byť potrebné urobiť kompromis medzi zlepšením vysvetliteľnosti systému (čo môže znížiť jeho presnosť) alebo zvýšením jeho presnosti (na úkor vysvetliteľnosti). Vždy, keď má systém UI významný vplyv na život ľudí, malo by byť možné požadovať primerané vysvetlenie rozhodovacieho procesu systému UI. Toto vysvetlenie by sa malo poskytnúť včas a malo by byť prispôsobené odborným znalostiam dotknutej zainteresovanej strany (napr. laik, regulačný orgán alebo výskumný pracovník). Okrem toho by malo byť k dispozícii vysvetlenie, do akej miery systém UI ovplyvňuje a formuje rozhodovací proces organizácie, výber návrhu systému a dôvody jeho nasadenia (zabezpečenie transparentnosti obchodného modelu)*." [Preklad DeepL] - Výňatok z "[Etické usmernenia pre dôveryhodnú UI (dokument v angličtine) na tému "Vysvetliteľnosť"](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency)" (konzultované 16. 10. 2022).
+[^1]: *„Okrem toho môže byť potrebné robiť kompromisy medzi zlepšovaním vysvetliteľnosti systému (čo môže znížiť jeho presnosť) alebo zvýšením jeho presnosti (na úkor vysvetliteľnosti). Kedykoľvek má AI systém významný vplyv na životy ľudí, malo by byť možné požadovať primerané vysvetlenie rozhodovacieho procesu daného systému. Takéto vysvetlenie by malo byť včasné a prispôsobené odborným znalostiam dotknutej zainteresovanej strany (napr. laik, regulačný orgán alebo výskumný pracovník). Okrem toho by malo byť k dispozícii vysvetlenie, do akej miery daný AI systém ovplyvňuje a formuje rozhodovací proces organizácie, informácie o dizajne systému a dôvody jeho nasadenia (zabezpečenie transparentnosti obchodného modelu).“* - Výňatok z článku [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency) (prístup 16. 10. 2022).
 
-[^2]: Výňatok z článku wikipédie ["Vysvetliteľná umelá inteligencia"](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (prezerané 16. 10. 2022).
+[^2]: Výňatok z článku na Wikipédii [„Explainable artificial intelligence“](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (prístup 16. 10. 2022).
 
 [^3]: Pozri v tomto kurze časť 1.1.3. o analýze učenia (video).
 
-[^4]: Výňatok z článku na Wikipédii ["Deskriptívna štatistika"] (https://en.wikipedia.org/wiki/Descriptive_statistics)" (prístup 16. 10. 2022).
+[^4]: Výňatok z článku na Wikipédii [„Descriptive statistics“] (https://en.wikipedia.org/wiki/Descriptive_statistics)" (prístup 16. 10. 2022).
 
-[^5]: Výňatok z článku wikipédie ["Prediktívna analýza"](https://en.wikipedia.org/wiki/Predictive_analytics)" (prístup 16/10/2022).
+[^5]: Výňatok z článku na Wikipédii [„Predictive analytics“](https://en.wikipedia.org/wiki/Predictive_analytics)" (prístup 16/10/2022).
 
-[^6]: Výber z článku wikipédie ["Prescriptive Analytics"](https://en.wikipedia.org/wiki/Prescriptive_analytics)" (prístup 16/10/2022).
+[^6]: Výber z článku na Wikipédii [„Prescriptive analytics“](https://en.wikipedia.org/wiki/Prescriptive_analytics)" (prístup 16/10/2022).
