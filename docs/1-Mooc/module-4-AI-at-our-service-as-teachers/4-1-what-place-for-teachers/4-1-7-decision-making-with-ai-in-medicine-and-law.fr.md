@@ -55,10 +55,10 @@ Všetci používatelia týchto systémov musia byť schopní zachovať si kritic
 
 [^3]: Varoquaux, G., Cheplygina, V. [Machine learning for medical imaging: methodological failures and recommendations for the future](https://doi.org/10.1038/s41746-022-00592-y). *npj Digit. Med.* 5, 48 (2022).
 
-[^4]: Varoquaux, G. - [Imagerie médicale: l'intelligence artificielle peut-elle tenir ses promesses?](https://www.inria.fr/fr/imagerie-medicale-intelligence-artificielle-apprentissage-automatique) - rozhovor na webovej stránke spoločnosti Inria (prístup 23. 8. 2022).
+[^4]: Varoquaux, G. - [Imagerie médicale: l'intelligence artificielle peut-elle tenir ses promesses?](https://www.inria.fr/fr/imagerie-medicale-intelligence-artificielle-apprentissage-automatique) - rozhovor na webe spoločnosti Inria (prístup 23. 8. 2022).
 
 [^5]: V tomto prípade ide o „rozšírenie rozhodovania“ alebo „podporu rozhodovania“ podľa predchádzajúcej časti o „rozhodovaní pomocou AI“.
 
 [^6]: V tomto prípade ide o „automatizáciu rozhodovania“ podľa predchádzajúcej časti o „rozhodovaní s pomocou AI“.
 
-[^7]: Výňatok z [Európskej etickej charty pre používanie umelej inteligencie v súdnych systémoch](https://www.coe.int/fr/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- webová stránka Európskej komisie pre efektívnosť justície (prístup 29.8.2022).
+[^7]: Výňatok z [Európskej etickej charty o používaní umelej inteligencie v súdnych systémoch a ich prostredí](https://www.coe.int/fr/web/cepej/cepej-european-ethical-charter-on-the-use-of-artificial-intelligence-ai-in-judicial-systems-and-their-environment)- webová stránka Európskej komisie pre efektívnosť justície (prístup 29.8.2022).
