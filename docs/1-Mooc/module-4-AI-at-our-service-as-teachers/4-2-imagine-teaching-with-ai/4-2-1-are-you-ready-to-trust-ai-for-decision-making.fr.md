@@ -21,7 +21,7 @@ prispievateľ: |
 
 Nie všetky rozhodnutia prijaté pomocou AI nástrojov majú rovnaký vplyv.
 
-Pri niektorých automatizovaných rozhodnutiach možno dlhodobé riziko a škodu *považovať* za pomerne nízke – napríklad keď aplikácia na riešenie matematických úloh navrhne študentovy kroky riešenia.
+Pri niektorých automatizovaných rozhodnutiach možno dlhodobé riziko a škodu *považovať* za pomerne nízke – napríklad keď aplikácia na riešenie matematických úloh navrhne študentovi kroky riešenia.
 
 Iné rozhodnutia, naopak, predstavujú potenciálnu škodu alebo riziko.
 
@@ -58,7 +58,7 @@ Nasledujúci graf spája použitú technológiu, jej komplexnosť a strategický
 <figure>
   <img src="Images/Data-analysis-uses-from-description-to-prescription-HQ-FR.jpg" alt="Reprezentácia využití dátovej analýzy: od deskriptívnych po preskriptívne" />
 </figure>
-Obrázok č. 2: Klasifikácia využití dátovej analýzy: od deskriptívnych k preskriptívnym[^3] (Prevzaté z videa „Learning Analytics“ v tomto kurze).
+Obrázok č. 2: Klasifikácia využití dátovej analýzy: od deskriptívnych k preskriptívnym (Prevzaté z videa „Learning Analytics“ v tomto kurze).[^3]
 
 V nasledujúcich štyroch kategóriách si môžeme všimnúť koreláciu medzi komplexnosťou použitých metód a strategickými výsledkami.
 
@@ -87,13 +87,8 @@ Zhrnutie: Čím relevantnejšie môžu byť nástroje ako pomôcka pri rozhodova
 Z hľadiska poskytovanej pomoci však treba dbať na vysvetliteľnosť a zachovať ostražitosť pri používaní AI nástrojov v oblastiach, kde sú dôsledky rozhodnutí významné a trvalé.
 
 [^1]: *„Okrem toho môže byť potrebné robiť kompromisy medzi zlepšovaním vysvetliteľnosti systému (čo môže znížiť jeho presnosť) alebo zvýšením jeho presnosti (na úkor vysvetliteľnosti). Kedykoľvek má AI systém významný vplyv na životy ľudí, malo by byť možné požadovať primerané vysvetlenie rozhodovacieho procesu daného systému. Takéto vysvetlenie by malo byť včasné a prispôsobené odborným znalostiam dotknutej zainteresovanej strany (napr. laik, regulačný orgán alebo výskumný pracovník). Okrem toho by malo byť k dispozícii vysvetlenie, do akej miery daný AI systém ovplyvňuje a formuje rozhodovací proces organizácie, informácie o dizajne systému a dôvody jeho nasadenia (zabezpečenie transparentnosti obchodného modelu).“* - Výňatok z článku [Ethics Guidelines for Trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines/1.html#Transparency) (prístup 16. 10. 2022).
-
 [^2]: Výňatok z článku na Wikipédii [„Explainable artificial intelligence“](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence) (prístup 16. 10. 2022).
-
 [^3]: Pozri v tomto kurze časť 1.1.3. o analýze učenia (video).
-
-[^4]: Výňatok z článku na Wikipédii [„Descriptive statistics“] (https://en.wikipedia.org/wiki/Descriptive_statistics)" (prístup 16. 10. 2022).
-
-[^5]: Výňatok z článku na Wikipédii [„Predictive analytics“](https://en.wikipedia.org/wiki/Predictive_analytics)" (prístup 16/10/2022).
-
-[^6]: Výber z článku na Wikipédii [„Prescriptive analytics“](https://en.wikipedia.org/wiki/Prescriptive_analytics)" (prístup 16/10/2022).
+[^4]: Výňatok z článku na Wikipédii [„Descriptive statistics“](https://en.wikipedia.org/wiki/Descriptive_statistics) (prístup 16. 10. 2022).
+[^5]: Výňatok z článku na Wikipédii [„Predictive analytics“](https://en.wikipedia.org/wiki/Predictive_analytics) (prístup 16. 10. 2022).
+[^6]: Výňatok z článku na Wikipédii [„Prescriptive analytics“](https://en.wikipedia.org/wiki/Prescriptive_analytics)" (prístup 16/10/2022).
