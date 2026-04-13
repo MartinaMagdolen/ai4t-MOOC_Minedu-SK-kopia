@@ -16,38 +16,38 @@ opis: Objavte oblasti mimo vzdelávania, v ktorých AI systémy už zásadne zme
 # Rozhodovanie s pomocou AI v medicíne a práve
 
 Pokiaľ ide o pomoc pri rozhodovaní, dve oblasti už majú bohatú históriu využívania umelej inteligencie: medicína a právo.  
-Vzhľadom na dôležitosť rozhodnutí prijímaných v týchto oblastiach ide o zaujímavé príklady na štúdium.
+Vzhľadom na dôležitosť rozhodnutí prijímaných v týchto oblastiach ide o zaujímavé príklady na preskúmanie.
 
 ## AI a medicína
 
-„Umelá inteligencia je skutočne srdcom medicíny budúcnosti: prináša asistované operáciae, vzdialené monitorovanie pacientov, inteligentné protézy či dokonca personalizovanú liečbu založenú na krížovom porovnávaní veľkých dát.“[^1]
+„Umelá inteligencia je skutočne srdcom medicíny budúcnosti: prináša asistované operácie, vzdialené monitorovanie pacientov, inteligentné protézy či dokonca personalizovanú liečbu založenú na krížovom porovnávaní veľkých dát.“[^1]
 
 Približne pred 50 rokmi bol práve v oblasti diagnostiky vyvinutý jeden z najznámejších expertných systémov: MYCIN.  
 „Bol to raný expertný systém, ktorý využíval umelú inteligenciu na identifikáciu baktérií spôsobujúcich závažné infekcie, ako sú bakteriémia či meningitída, a na odporúčanie antibiotík, ktorých dávka sa upravovala podľa telesnej hmotnosti pacienta.“[^2]
 
-Systém MYCIN bol vyvíjaný od roku 1972 a o 6 rokov neskôr už dokázal prekonať lekárov v stanovovaní presných diagnóz. V rozsiahlom celoplošnom teste sa systém MYCIN porovnával s 9 lekármi, medicínskymi stážistami a akademikmi, v rámci ktorého bolo úlohou stanoviť diagnózu a predpísať lieky 80 pacientom s meningitídou. Diagnózy a predpisy potom naslepo vyhodnocovalo 8 špecialistov na meningitídu. A aký bol výsledok testu? Systém MYCIN dosiahol lepšie výsledky ako ľudskí odborníci.
+Systém MYCIN bol vyvíjaný od roku 1972 a o šesť rokov neskôr už dokázal prekonať lekárov v stanovovaní presných diagnóz. V rozsiahlom celoplošnom teste si systém MYCIN zmeral sily s deviatimi lekármi, medicínskymi stážistami a akademikmi. Úlohou v teste bolo stanoviť diagnózu a predpísať lieky 80 pacientom s meningitídou. Diagnózy a predpisy potom naslepo vyhodnocovalo osem špecialistov na meningitídu. A aký bol výsledok testu? Systém MYCIN dosiahol lepšie výsledky ako ľudskí odborníci.
 
-Dnes je jednou z dôležitých oblastí využitia strojového učenia v medicíne analýza obrazu na lekársku diagnostiku.[^3] Pozrime sa v krátkosti na jej fungovanie podľa slov Gaëla Varoquauxa, výskumníka umelej inteligencie v ústave Inria:
+Jednou z dôležitých oblastí využitia strojového učenia v medicíne je dnes analýza obrazu na lekársku diagnostiku.[^3] Pozrime sa v krátkosti na jej fungovanie podľa slov Gaëla Varoquauxa, výskumníka umelej inteligencie v ústave Inria:
 
-„Strojové učenie je odvetvie umelej inteligencie (AI). Stručne povedané, pri tejto technike kŕmime softvér tisíckami príkladov, aby sa naučil vykonávať identifikačné úlohy: napríklad odlišovať na obrázkoch psy od mačiek, znamienka od zhubných melanómov. Teoreticky by sa tým mala otvoriť široká škála medicínskych aplikácií. Napríklad sa zhromaždia röntgenové snímky tisícov pacientov trpiacich rovnakým ochorením, čím vznikne tzv. kohorta. Pomocou týchto tréningových dát sa potom počítač naučí rozpoznávať rovnaké vizuálne charakteristiky aj na akýchkoľvek nových snímkach zhotovených počas skríningu iných ľudí. Tie sa stávajú cieľovými údajmi.“*[^4]
+„Strojové učenie je odvetvie umelej inteligencie (AI). Stručne povedané, pri tejto technike kŕmime softvér tisíckami príkladov, aby sa naučil vykonávať identifikačné úlohy: napríklad odlišovať na obrázkoch psy od mačiek či znamienka od zhubných melanómov. Teoreticky by sa tým mala otvoriť široká škála medicínskych aplikácií. Napríklad môžeme zhromaždiť röntgenové snímky tisícov pacientov trpiacich rovnakým ochorením, čím vznikne tzv. kohorta. Pomocou týchto tréningových dát sa potom počítač naučí rozpoznávať rovnaké vizuálne charakteristiky aj na akýchkoľvek nových snímkach zhotovených počas skríningu iných ľudí. Tie sa stávajú cieľovými údajmi.“*[^4]
 
 ## Umelá inteligencia a spravodlivosť
 
 V oblasti spravodlivosti boli identifikované dve hlavné využitia AI systémov.
 
-Prvým sú nástroje na podporu rozhodovania. AI systém môže pomôcť sudcovi pri vyšetrovaní prípadu, napríklad tým, že ho informuje o všetkých rozsudkoch, ktoré príslušné súdy vyniesli v podobných prípadoch. V tomto prípade umelá inteligencia zlepšuje vyhľadávanie informácií, ale rozhodnutie prijíma sudca sám.[^5]
+Prvým sú nástroje na podporu rozhodovania. AI systém môže pomôcť sudcovi pri vyšetrovaní prípadu, napríklad tým, že ho informuje o všetkých rozsudkoch, ktoré príslušné súdy vyniesli v podobných prípadoch. Tu umelá inteligencia zlepšuje vyhľadávanie informácií, ale rozhodnutie prijíma sudca sám.[^5]
 
-Potom sú tu nástroje, ktoré dokážu predpovedať rozhodnutia. V tomto prípade umelá inteligencia navrhuje právne rozhodnutie priamo sudcovi.[^6] Softvér analyzuje veľké množstvo príkladov súdnych rozhodnutí a „automaticky“ z nich odvodzuje pravidlá rozhodovania. Vznik prediktívnej justície vyvoláva mnohé obavy.
+Potom sú tu nástroje, ktoré dokážu predpovedať rozhodnutia.Tu umelá inteligencia navrhuje právne rozhodnutie priamo sudcovi.[^6] Softvér analyzuje veľké množstvo príkladov súdnych rozhodnutí a „automaticky“ z nich odvodzuje pravidlá rozhodovania. Vznik prediktívnej justície však vyvoláva mnohé obavy.
 
-Hoci „využívanie umelej inteligencie v oblasti justície môže prispieť k zvýšeniu jej efektívnosti a kvality“ [musí] „sa zavádzať zodpovedne a v súlade so základnými právami.“[^7] Na európskej úrovni bola v roku 2018 prijatá európska Európska etická charta o používaní umelej inteligencie v súdnych systémoch a ich prostredí.
+Hoci „využívanie umelej inteligencie v oblasti justície môže prispieť k zvýšeniu jej efektívnosti a kvality, musí sa zavádzať zodpovedne a v súlade so základnými právami.“[^7] Na európskej úrovni bola v roku 2018 prijatá Európska etická charta o používaní umelej inteligencie v súdnych systémoch a ich prostredí.
 
-Je postavená na 5 princípoch a uznáva dôležitosť nediskriminácie, rešpektovania základných práv, kvality, bezpečnosti, transparentnosti, nestrannosti a spravodlivosti.
+Je postavená na piatich princípoch a uznáva dôležitosť nediskriminácie, rešpektovania základných práv, kvality, bezpečnosti, transparentnosti, nestrannosti a spravodlivosti.
 
-Napokon sa v nej zdôrazňuje zásada „kontroly používateľa“: „zabránenie preskriptívnemu prístupu a zabezpečenie toho, aby používatelia boli informovanými aktérmi a mali svoje rozhodnutia pod kontrolou.“[^7]
+Napokon sa v nej zdôrazňuje zásada „kontroly používateľa“, ktorá „zabraňuje preskriptívnemu prístupu a zabezpečuje, aby používatelia boli informovanými aktérmi a mali svoje rozhodnutia pod kontrolou.“[^7]
 
 V oblasti práva, rovnako ako vo vzdelávaní či medicíne, môže podpora rozhodovania poskytovaná AI systémom zlepšiť prijaté rozhodnutie. Vzhľadom na potenciálne dôsledky týchto rozhodnutí však zachovanie ľudského dohľadu zostáva kľúčovou otázkou pri vývoji AI systémov v nasledujúcich rokoch.
 
-Všetci používatelia týchto systémov musia byť schopní zachovať si kritický prístup k rozhodnutiam navrhovaným AI systémami. Napríklad pri odhaľovaní určitých druhov rakoviny sú systémy na rozlišovanie určitých vizuálnych charakteristík natrénované tak dobre, že pri týchto prejavoch dokážu stanoviť vynikajúcu diagnózu, no ostatné už nemusia byť schopné rozpoznať. Stále potrebujeme vizuálnu kontrolu lekára, ktorý nájde to, čo dobre vycvičená umelá inteligencia prehliadla.
+Všetci používatelia týchto systémov musia byť schopní zachovať si kritický prístup k rozhodnutiam navrhovaným AI systémami. Napríklad pri odhaľovaní určitých druhov rakoviny sú systémy na rozlišovanie určitých vizuálnych charakteristík natrénované tak dobre, že pri týchto prejavoch dokážu stanoviť vynikajúcu diagnózu, no ostatné prejavy už nemusia byť schopné rozpoznať. Stále potrebujeme vizuálnu kontrolu zo strany lekára, ktorý nájde to, čo dobre vycvičená umelá inteligencia prehliadla.
 
 [^1]: Výňatok z francúzskeho článku [Intelligence artificielle et santé : Des algorithmes au service de la médecine] (https://www.inserm.fr/dossier/intelligence-artificielle-et-sante/) - stránka _Institut national de la santé et de la recherche médicale_ (Národný inštitút pre zdravie a lekársky výskum) (prístup 23. 8. 2022).
 
