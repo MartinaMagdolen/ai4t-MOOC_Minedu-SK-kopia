@@ -15,12 +15,12 @@ typ: aktivita
     - Dátum: 2022-11-15
 
 
-# Aktivita: 7 kľúčových požiadaviek na dôveryhodnú umelú inteligenciu
+# Aktivita: 7 kľúčových požiadaviek dôveryhodnej umelej inteligencie
 
-Existuje 7 požiadaviek, ktoré musí AU systém spĺňať, aby sa dal považovať za dôveryhodný.
+Existuje 7 požiadaviek, ktoré musí AI systém spĺňať, aby sa dal považovať za dôveryhodný.
 Priraďte tieto požiadavky k ich definíciám.
 
-**Spustenie aktivity**
+**Spustenie aktivity**  
 Kliknite na nasledujúci obrázok
 
 <figure><img src="Images/VisuelQUIZThe7keyrequirementsfortrustworthyAI-FR.jpg" alt="Ilustrácia k aktivite zameranú na rozhodovanie s pomocou AI"/>  
