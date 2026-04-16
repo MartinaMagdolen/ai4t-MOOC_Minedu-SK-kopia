@@ -3,10 +3,10 @@ názov: Prezentácia zdrojov AI4T
 popis: Dokumenty, zdroje a nástroje, ktoré prispeli k projektu
 ---
 # Prezentácia zdrojov AI4T
-Tu nájdete dokumenty, zdroje a nástroje, ktoré prispeli k projektu od jeho koncepcie až po realizáciu v rámci experimentu AI4T.
+Na tomto mieste nájdete dokumenty, zdroje a nástroje, ktoré prispeli k realizácii projektu od jeho koncepcie až po implementáciu v rámci experimentálnej fázy AI4T.
 
-**Väčšina týchto zdrojov je v angličtine**. Sú usporiadané do troch častí:
+**Väčšina týchto zdrojov je v angličtine**. Sú rozdelené do troch častí:
 
-- Sekcia 1 - (vzdelávacie) nástroje AI používané počas experimentálnej fázy v 5 krajinách  
-- Oddiel 2 - Zoznam moocs a online zdrojov týkajúcich sa AI alebo AI a vzdelávania  
-- Oddiel 3 - Správy a usmernenia týkajúce sa UI a vzdelávania
+- 1. sekcia - (vzdelávacie) AI nástroje použité počas experimentálnej fázy v 5 zúčastnených krajinách  
+- 2. sekcia - Zoznam MOOC kurzov a online zdrojov súvisiacich s AI alebo prepojením AI a vzdelávania  
+- 3. sekcia - Správy a usmernenia týkajúce sa umelej inteligencie a vzdelávania
