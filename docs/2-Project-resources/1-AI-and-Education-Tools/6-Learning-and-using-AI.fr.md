@@ -1,42 +1,42 @@
 ---
 názov: Učenie a používanie umelej inteligencie
-popis: Niektoré zdroje použité v experimentálnej fáze (Luxembursko)
+popis: Výber zdrojov použitých v experimentálnej fáze v Luxembursku
 ---
 
 # Učenie a používanie umelej inteligencie
 
-V tejto kapitole sú uvedené niektoré z najpokročilejších nástrojov, ktoré partneri AI4T použili počas experimentálnej fázy.
+V tejto kapitole sú uvedené niektoré z pokročilejších nástrojov, ktoré partneri AI4T použili počas experimentálnej fázy projektu.
 
 ## Scratch
 
-- Scratch Čo: *Platforma na učenie sa kódovania s jednoduchým vizuálnym rozhraním, ktoré umožňuje mladým ľuďom vytvárať digitálne príbehy, hry a animácie. Možnosť vytvárať simulačné programy s umelou inteligenciou pomocou Scratchu.
-- Autor: Nadácia Scratch
-- Prístup k zdroju: [https://scratch.mit.edu/search/projects?q=IA](https://scratch.mit.edu/search/projects?q=IA){:target="_blank"}
-- Jazyk : SK
+- Čo to je: *Platforma na učenie sa programovania s jednoduchým vizuálnym rozhraním, ktoré mladým ľuďom umožňuje vytvárať digitálne príbehy, hry a animácie. V Scratchi je možné vytvárať aj programy na AI simulácie.“
+- Autor: Scratch Foundation
+- Prístup: scratch.mit.edu/search/projects?q=AI](https://scratch.mit.edu/search/projects?q=AI)
+- Jazyk: EN
 
-## Strojové učenie pre deti
+## Machine Learning for Kids (Strojové učenie pre deti)
 
-- Čo to je? *Poskytuje riadené, ľahko použiteľné prostredie na trénovanie modelov strojového učenia na klasifikáciu textu, čísel alebo rozpoznávanie obrázkov či zvukov. Tento projekt nadväzuje na existujúce snahy o predstavenie a výučbu kódovania a umelej inteligencie pre deti pridaním týchto modelov do programu Scratch (široko používanej vzdelávacej kódovacej platformy), čo deťom umožňuje vytvárať projekty a stavať hry s vyškolenými modelmi strojového učenia. "*.
+- Čo to je: *Jednoduchý nástroj na trénovanie rôznych modelov strojového učenia, ako aj prostredie na vytváranie hier a iných interaktívnych projektov, ktoré ich využívajú. Funguje ako rozšírenie Scratchu – vizuálneho programovacieho prostredia vytvoreného na výučbu programovania pre deti, ktoré sa hromadne využíva v školách. Žiakom poskytuje čisté plátno na prácu bez toho, aby im diktovalo, čo majú vytvoriť. Môžu slobodne zapojiť svoju predstavivosť a kreativitu a nájsť zábavné využitie pre modely strojového učenia, ktoré si sami natrénujú.*
 - Autor: Dale Lane, tvorca projektu Machine Learning for Kids
-- Prístup k zdroju: [https://machinelearningforkids.co.uk/?lang=en!/about](https://machinelearningforkids.co.uk/?lang=en#!/about){:target="_blank"}
-- Jazyk: EN, FR, IT, DE
+- Prístup: [machinelearningforkids.co.uk/?lang=en!/about](https://machinelearningforkids.co.uk/?lang=en#!/about)
+- Jazyky: EN, FR, IT, DE
 
-## Poznávacie znaky
+## Cognimates
 
-- Čo to je: *"Vzdelávacia platforma AI na vytváranie hier, programovanie robotov a trénovanie modelov AI "*.
-- Autor: Stefania Druga, tvorkyňa Cognimates
-- Prístup k zdroju: [http://cognimates.me/home/](http://cognimates.me/home/){:target="_blank"}
-- Jazyk: SK
+- Čo to je: *AI vzdelávacia platforma na vytváranie hier, programovanie robotov a trénovanie AI modelov.*
+- Autor: Stefania Druga, autorka Cognimates
+- Prístup: [cognimates.me](http://cognimates.me/home/)
+- Jazyk: EN
 
-## Vyskúšajte AI
+## Try AI
 
-- Čo je to? *Strojové učenie pre stredoškolákov.
-- Prístup k zdroju: [https://www.tryaiclassroom.com/](https://www.tryaiclassroom.com/){:target="_blank"}
-- Jazyk : SK
+- Čo to je: *Strojové učenie pre stredoškolákov.*
+- Prístup: [www.tryaiclassroom.com](https://www.tryaiclassroom.com/)
+- Jazyk: EN
 
 ## Tensorflow
 
-- Čo: "*TensorFlow je komplexná open source platforma pre strojové učenie. TensorFlow uľahčuje začiatočníkom aj expertom vytváranie modelov strojového učenia. Pozrite si nasledujúce časti, aby ste mohli začať. "*
+- Čo to je: *TensorFlow je komplexná open-source platforma pre strojové učenie. Uľahčuje začiatočníkom aj expertom vytváranie modelov strojového učenia.*
 - Autor: Google
-- Prístup k zdroju: [https://www.tensorflow.org/overview/](https://www.tensorflow.org/overview/){:target="_blank"}
-- Jazyk: EN, FR, IT
+- Prístup: [www.tensorflow.org/overview/](https://www.tensorflow.org/overview/)
+- Jazyky: EN, FR, IT
