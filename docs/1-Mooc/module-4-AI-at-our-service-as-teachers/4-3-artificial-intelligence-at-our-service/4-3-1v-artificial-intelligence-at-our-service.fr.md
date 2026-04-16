@@ -29,9 +29,9 @@ Vďaka humornému tónu je video vhodné aj na použitie priamo v triede.
 #### Zhrnutie
 
 Hlavná postava, _Guillaume_, nám pripomína výzvy spojené s umelou inteligenciou v najrôznejších oblastiach. Poukazuje na to, že úvahy o umelej inteligencii nás zároveň vedú k úvahám o ľudskej inteligencii. Táto reflexia následne vedie k zamysleniu nad ľudskosťou a tým, akú úlohu zohrávame my občania v spoločnosti.  
-Diskusia s _linkou podpory_ sa následne sústredí na tvorivosť a jej jedinečné prepojenie s ľudskou inteligenciou. Tak ako umelá inteligencia nedokáže tvoriť, ale len napodobňovať, nedokáže ani cítiť emócie, ale len napodobňovať prejavy našich vlastných emócií.  
+Diskusia s _asistenčnou linkou_ sa následne sústredí na tvorivosť a jej jedinečné prepojenie s ľudskou inteligenciou. Tak ako umelá inteligencia nedokáže tvoriť, ale len napodobňovať, nedokáže ani cítiť emócie, ale len napodobňovať prejavy našich vlastných emócií.  
 V závere sa uvádza, že AI systémy sú cenný nástrojmi na podporu rozhodovania, a to v najrôznejších oblastiach. Tieto systémy však môžu mať nedostatky a je dôležité vedieť, čo obsahujú (t. j. aké algoritmy a aké údaje). To však nie je vždy jednoduché zistiť.  
-Toto zistenie vedie _Guillauma_ a _linku podpory_ k ukončeniu diskusie debaty o podmienkach dôveryhodnej umelej inteligencie a o tom, čo to znamená pre náš život ako ľudí a občanov.
+Toto zistenie vedie _Guillauma_ a _asistenčnú linku_ k ukončeniu diskusie debaty o podmienkach dôveryhodnej umelej inteligencie a o tom, čo to znamená pre náš život ako ľudí a občanov.
 
 ## Umelá inteligencia v našich službách?  
 Pozrite si nasledujúce video _(4 min 36 s)_
