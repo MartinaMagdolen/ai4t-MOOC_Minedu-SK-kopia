@@ -1,7 +1,7 @@
 ---
 názov: Kwyk
-popis: Nástroj používaný počas experimentu (Francúzsko)
+popis: Nástroj používaný počas experimentu vo Francúzsku
 ---
-Prezentácia [Kwyk a ako funguje](./Documents/AI4T-LSEP-Fiche-Kwyk-in-Mooc.fr.pdf){:target="_blank"}
+Prezentácia nástroja [Kwyk a jeho fungovania](./Documents/AI4T-LSEP-Fiche-Kwyk-in-Mooc.fr.pdf)
 
-Táto prezentácia bola zdieľaná vo francúzskom Moocu počas fázy rozsiahleho experimentovania v spojení s animáciou venovanou nástrojom umelej inteligencie.
+Táto prezentácia bola použitá vo francúzskom MOOC kurze počas fázy rozsiahleho experimentovania spolu s animáciou venovanou AI nástrojom.
