@@ -14,8 +14,8 @@ popis: "Prezentácia etických usmernení Európskej komisie."
     - Dátum: 2022-11-15
 
 
-# Etické usmernenia pre používanie umelej inteligencie a dát pri vyučovaní a učení.
-V októbri 2022 Európska komisia v rámci Akčného plánu digitálneho vzdelávania (opatrenie č. 6)[^1] zverejnila *Etické usmernenia pre pedagógov týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní*, ktoré majú pedagógom pomôcť pochopiť potenciál AI aplikácií a využívania údajov vo vzdelávaní a zároveň zvýšiť povedomie o možných rizikách.
+# Etické usmernenia týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní
+V októbri 2022 Európska komisia v rámci akčného plánu digitálneho vzdelávania (opatrenie č. 6)[^1] zverejnila *Etické usmernenia pre pedagógov týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní*, ktoré majú pedagógom pomôcť pochopiť potenciál AI aplikácií a využívania údajov vo vzdelávaní a zároveň zvýšiť povedomie o možných rizikách.
 
 *Etické usmernenia pre pedagógov týkajúce sa používania umelej inteligencie a údajov pri výučbe a vzdelávaní* si môžete stiahnuť kliknutím na nasledujúci obrázok.
 
@@ -26,4 +26,4 @@ V októbri 2022 Európska komisia v rámci Akčného plánu digitálneho vzdelá
 </figure></a>
 
 
-[^1]: [Európska komisia v rámci Akčného plánu digitálneho vzdelávania (opatrenie č. 6)](https://education.ec.europa.eu/sk/focus-topics/digital-education/actions/plan/ethical-guidelines-for-educators-on-using-artificial-intelligence)
+[^1]: [Európska komisia v rámci akčného plánu digitálneho vzdelávania (opatrenie č. 6)](https://education.ec.europa.eu/sk/focus-topics/digital-education/actions/plan/ethical-guidelines-for-educators-on-using-artificial-intelligence)
