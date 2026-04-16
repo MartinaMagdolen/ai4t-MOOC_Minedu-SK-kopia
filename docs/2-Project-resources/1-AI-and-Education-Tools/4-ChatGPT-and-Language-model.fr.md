@@ -1,15 +1,15 @@
 ---
 názov: ChatGPT a jazykové modely
-popis: ChatGPT videá a zdroje (francúzština + angličtina)
+popis: Videá a zdroje o ChatGPT
 ---
 
 ??? info "Metadáta
 - Id: EU.AI4T.O1.M3.3.2t
-- Názov: ChatGPT a jazykový model
+- Názov: ChatGPT a jazykové modely
 - Typ: video
-- Popis: Zistite viac o GAN
-- Vec: Umelá inteligencia pre učiteľov a pre učiteľov
-- Autori: Mgr:
+- Popis: Zistite viac o generatívnych adversariálnych sieťach
+- Vec: Umelá inteligencia pre učiteľov a od učiteľov
+- Autori:
 - Alexandre, Torres-Leguet - Flowers - Inria
 - Clément, Romac - Flowers - Inria
 - Thomas, Carta - Flowers - Inria
@@ -18,7 +18,7 @@ popis: ChatGPT videá a zdroje (francúzština + angličtina)
 - Dátum: 2024-05-21
 
 
-Za ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, sa skrýva základná otázka, o čo ide v generatívnej umelej inteligencii. V neposlednom rade kvôli ich mnohým dôsledkom pre vzdelávanie.
+Za nástrojom ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, sa skrýva základná otázka, o čo ide v generatívnej umelej inteligencii. V neposlednom rade kvôli ich mnohým dôsledkom pre vzdelávanie.
 
 ## 1 - Pochopenie toho, čo je ChatGPT
 
