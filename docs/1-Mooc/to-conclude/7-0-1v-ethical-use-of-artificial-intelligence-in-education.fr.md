@@ -28,7 +28,7 @@ V nasledujúcom videu Alain Thillay, francúzsky národný expert na digitálne 
 
 *Alain Thillay od októbra 2021 pôsobí ako vyslaný národný expert (SNE) francúzskeho ministerstva školstva pri Európskej komisii v oddelení pre digitálne vzdelávanie na Generálnom riaditeľstve pre vzdelávanie, mládež, šport a kultúru (DG EAC).*
 
-*Od roku 1987 pôsobil ako učiteľ dejepisu a geografie, pred 10 rokmi nastúpil na riaditeľstvo pre digitálne vzdelávanie v Paríži.*
+*Od roku 1987 pôsobil ako učiteľ dejepisu a geografie a pred 10 rokmi nastúpil na riaditeľstvo pre digitálne vzdelávanie v Paríži.*
 *V súčasnosti pracuje na implementácii Akčného plánu digitálneho vzdelávania na roky 2021 – 2027 (DEAP) s cieľom podporiť digitálnu transformáciu a inovácie vo vzdelávaní.*
 
 ## Etické využívanie umelej inteligencie vo vzdelávaní: európske výzvy  
