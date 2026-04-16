@@ -18,13 +18,13 @@ popis: Videá a zdroje o ChatGPT
 - Dátum: 2024-05-21
 
 
-Za nástrojom ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, sa skrýva základná otázka, o čo ide v generatívnej umelej inteligencii. V neposlednom rade kvôli ich mnohým dôsledkom pre vzdelávanie.
+Za nástrojom ChatGPT a mnohými diskusiami, ktoré ho sprevádzajú, sa skrýva základná otázka, o čo ide v generatívnej umelej inteligencii. V neposlednom rade je toto zamyslenie podmienené aj tým, ako veľa rôznych dôsledkov môže mať tento nástroj pre vzdelávanie.
 
 ## 1 - Čo je to ChatGPT
 
 Pre lepšie pochopenie jazykových modelov pripravil pedagogický tím AI4T sériu videí, ktoré vytvoril tím Flowers z francúzskeho výskumného ústavu Inria na univerzite v Bordeaux. Tento tím realizuje vedecký výskum v oblasti vývojovej umelej inteligencie. Zaujíma sa najmä o počítačové modelovanie mechanizmov ľudského učenia a o úlohu zvedavosti a jazyka v kognitívnom vývoji. Skúma tiež vlastnosti veľkých jazykových modelov (ChatGPT, Mistral atď.) a vyvíja metódy, ktoré umožnia ich lepšie ukotvenie v reálnom svete.
 
-Tím sa tiež zameriava na aplikáciu tejto práce v oblasti vzdelávacích technológií, ako aj na pomoc vedcom (fyzikom, biológom atď.) skúmať a lepšie chápať nové systémy (materiály, samoorganizujúce sa chemické reakcie atď.).
+Tím sa tiež zameriava na aplikáciu tejto práce v oblasti vzdelávacích technológií a zároveň pomáha vedcom (fyzikom, biológom atď.) skúmať a lepšie chápať nové systémy (materiály, samoorganizujúce sa chemické reakcie atď.).
 
 ### 1. diel: Ako fungujú jazykové modely?
 
@@ -72,7 +72,7 @@ Video predstavuje niektoré z týchto techník (napr. myšlienkové reťazce), p
 ### 6. diel: Aplikácie jazykových modelov
 
 **Aplikácie jazykových modelov**
-Zhrnutie: Jazykové modely ako napríklad ChatGPT či Bard sú čoraz výkonnejšie a využívajú sa v čoraz väčšom počte oblastí. V tomto videu sa pozrieme na možné aplikácie týchto nástrojov v oblastiach, ako je práca, zdravotníctvo, **vzdelávanie** či ochrana jazykov.
+Zhrnutie: Jazykové modely ako ChatGPT či Bard sú čoraz výkonnejšie a využívajú sa v čoraz väčšom počte oblastí. V tomto videu sa pozrieme na možné aplikácie týchto nástrojov v oblastiach, ako je práca, zdravotníctvo, **vzdelávanie** či ochrana jazykov.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/E2hPk3adUlI?si=Jv6WjNgi99a9eIA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
@@ -85,7 +85,7 @@ Zhrnutie: Jazykové modely ako ChatGPT či Gemini sú schopné vykonávať širo
 
 
 Táto séria videí je zverejnená pod licenciou Creative Commons CC-BY. Videá môže ktokoľvek ďalej voľne používať na akýkoľvek účel: v takom prípade uveďte nasledujúcu citáciu a odkaz:
-Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT in 5mn: an educational series for the general public, CC-BY, [https://developmentalsystems.org/chatgpt_5_minutes/fr/](https://developmentalsystems.org/chatgpt_5_minutes/fr/) 
+**Torres-Leguet, A., Romac, C., Carta, T., Oudeyer, P-Y. (2023) ChatGPT in 5 minutes: an educational series for the general public, CC-B,** [https://developmentalsystems.org/chatgpt_5_minutes/fr/](https://developmentalsystems.org/chatgpt_5_minutes/fr/) 
 
 
 
