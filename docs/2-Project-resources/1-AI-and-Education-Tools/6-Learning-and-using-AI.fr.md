@@ -9,9 +9,9 @@ V tejto kapitole sú uvedené niektoré z pokročilejších nástrojov, ktoré p
 
 ## Scratch
 
-- Čo to je: *Platforma na učenie sa programovania s jednoduchým vizuálnym rozhraním, ktoré mladým ľuďom umožňuje vytvárať digitálne príbehy, hry a animácie. V Scratchi je možné vytvárať aj programy na AI simulácie.“
+- Čo to je: *Platforma na učenie sa programovania s jednoduchým vizuálnym rozhraním, ktoré mladým ľuďom umožňuje vytvárať digitálne príbehy, hry a animácie. V Scratchi je možné vytvárať aj programy na AI simulácie.*
 - Autor: Scratch Foundation
-- Prístup: scratch.mit.edu/search/projects?q=AI](https://scratch.mit.edu/search/projects?q=AI)
+- Prístup: [mscratch.mit.edu/search/projects?q=AI](https://scratch.mit.edu/search/projects?q=AI)
 - Jazyk: EN
 
 ## Machine Learning for Kids (Strojové učenie pre deti)
@@ -31,12 +31,12 @@ V tejto kapitole sú uvedené niektoré z pokročilejších nástrojov, ktoré p
 ## Try AI
 
 - Čo to je: *Strojové učenie pre stredoškolákov.*
-- Prístup: [www.tryaiclassroom.com](https://www.tryaiclassroom.com/)
+- Prístup: [tryaiclassroom.com](https://www.tryaiclassroom.com/)
 - Jazyk: EN
 
 ## Tensorflow
 
 - Čo to je: *TensorFlow je komplexná open-source platforma pre strojové učenie. Uľahčuje začiatočníkom aj expertom vytváranie modelov strojového učenia.*
 - Autor: Google
-- Prístup: [www.tensorflow.org/overview/](https://www.tensorflow.org/overview/)
+- Prístup: [tensorflow.org/overview/](https://www.tensorflow.org/overview/)
 - Jazyky: EN, FR, IT
