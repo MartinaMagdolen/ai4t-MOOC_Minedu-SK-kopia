@@ -36,7 +36,7 @@ V tejto kapitole sú uvedené niektoré z pokročilejších nástrojov, ktoré p
 
 ## Tensorflow
 
-- Čo to je: *TensorFlow je komplexná open-source platforma pre strojové učenie. Uľahčuje začiatočníkom aj expertom vytváranie modelov strojového učenia.*
+- Čo to je: *TensorFlow je komplexná open-source platforma pre strojové učenie. Začiatočníkom aj expertom uľahčuje vytváranie modelov strojového učenia.*
 - Autor: Google
 - Prístup: [tensorflow.org/overview/](https://www.tensorflow.org/overview/)
 - Jazyky: EN, FR, IT
