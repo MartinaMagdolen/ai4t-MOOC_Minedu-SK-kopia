@@ -26,4 +26,4 @@ V októbri 2022 Európska komisia v rámci Akčného plánu digitálneho vzdelá
 </figure></a>
 
 
-[^1]: [Európska komisia v rámci Akčného plánu digitálneho vzdelávania (opatrenie č. 6)] (https://education.ec.europa.eu/sk/focus-topics/digital-education/actions/plan/ethical-guidelines-for-educators-on-using-artificial-intelligence)
+[^1]: [Európska komisia v rámci Akčného plánu digitálneho vzdelávania (opatrenie č. 6)](https://education.ec.europa.eu/sk/focus-topics/digital-education/actions/plan/ethical-guidelines-for-educators-on-using-artificial-intelligence)
