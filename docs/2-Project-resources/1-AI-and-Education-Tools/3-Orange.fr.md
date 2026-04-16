@@ -1,22 +1,22 @@
 ---
 názov: Orange
-popis: Nástroj použitý počas experimentu (Slovinsko)
+popis: Nástroj použitý počas experimentu v Slovinsku
 ---
 
-[Orange](https://orangedatamining.com/) je všestranný softvér na strojové učenie a dolovanie údajov, ktorý bol predstavený v slovinskom Mooc.
+[Orange](https://orangedatamining.com/) je všestranný softvér na strojové učenie a dolovanie dát, ktorý bol predstavený v rámci slovinského MOOC kurzu.
 
-## Niektoré prezentačné videá Orange (v slovinčine alebo angličtine)
+## Niektoré videá prezentujúce nástroj Orange
 
 - Slovinská prezentácia pre žiakov základných škôl:   
-[J. Demšar - video.arnes.si - október 2022](https://video.arnes.si/watch/q0dny4lyr5h0){:target="_blank"}
+[Výučba so štipkou umelej inteligencie, J. Demšar – video.arnes.si – október 2022](https://video.arnes.si/watch/q0dny4lyr5h0)
 
-- [Etika v akcii, B. Zupan - videolectures.net - mar. 2021](http://videolectures.net/IRCAILaunch2021_zupan_ethics_action/){:target="_blank"}
+- [Etika v praxi, B. Zupan – videolectures.net – marec 2021](http://videolectures.net/IRCAILaunch2021_zupan_ethics_action/)
 
-- [Data Science with the Orange Toolbox, B. Zupan - videolectures.net - február 2020](http://videolectures.net/AIindustrySeminar2019_zupan_data_science/){:target="_blank"}
+- [Dátová veda s nástrojom Orange, B. Zupan – videolectures.net – február 2020](http://videolectures.net/AIindustrySeminar2019_zupan_data_science/)
 
-- [ORANGE: Data Mining plodne a zábavne, J. Demšar - videolectures.net - október 2012](http://videolectures.net/is2012_demsar_orange/){:target="_blank"}
+- [ORANGE: Dolovanie dát produktívne a zábavne, J. Demšar – videolectures.net – október 2012](http://videolectures.net/is2012_demsar_orange/)
+  
+## Dokument a podcast o nástroji Orange
+- [Orange: Nástroj na vizuálne dolovanie dát s Janezom Demšarom a Blažom Zupanom, pythonpodcast.com – december 2017](https://www.pythonpodcast.com/orange-with-janez-demsar-and-blaz-zupan-episode-142/)
 
-## Dokument a podcast o softvéri Orange
-- Orange: Visual Data Mining Toolkit with Janez Demšar and Blaž Zupan, pythonpodcast.com - dec. 2017](https://www.pythonpodcast.com/orange-with-janez-demsar-and-blaz-zupan-episode-142/){:target="_blank"}
-
-- Orange: Data Mining Fruitful and Fun - A Historical Perspective, Informatica - november 2012](https://www.informatica.si/index.php/informatica/article/view/434/438){:target="_blank"}
+- [Orange: Dolovanie dát produktívne a zábavne - historická perspektíva, Informatica – november 2012](https://www.informatica.si/index.php/informatica/article/view/434/438)
