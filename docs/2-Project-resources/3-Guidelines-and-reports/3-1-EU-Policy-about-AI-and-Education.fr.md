@@ -4,7 +4,7 @@ popis: Právny rámec pre umelú inteligenciu a akčný plán digitálneho vzdel
 ---
 ??? info " Informácie o zdrojoch "  
     - Pridané : 16. decembra 2022  
-    - Zdroje sú roztriedené podľa povahy a potom zoradené podľa dátumu zostupne  
+    - Zdroje sú zoradené podľa témy a potom zostupne podľa dátumu.
     
 ## Právne publikácie Európskej únie
 
