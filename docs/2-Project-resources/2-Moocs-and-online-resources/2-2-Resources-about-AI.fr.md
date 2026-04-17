@@ -25,14 +25,14 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
 - **Certifikácia**: áno
 - **Dostupnosť**: neobmedzená
 - **Prístup**:
-	- Časť 1 – Úvod do umelej inteligencie ([course.elementsofai.com](http://course.elementsofai.com))
-	- Časť 2 – Budovanie umelej inteligencie ([buildingai.elementsofai.com/](https://buildingai.elementsofai.com/))
+	- 1. časť – Úvod do umelej inteligencie ([course.elementsofai.com](http://course.elementsofai.com))
+	- 2. časť – Budovanie umelej inteligencie ([buildingai.elementsofai.com/](https://buildingai.elementsofai.com/))
   
 ### 2. Umelá inteligencia… s inteligenciou!
 **Pôvodný názov:** *L'Intelligence Artificielle… avec intelligence!*
 
 - **Autori** : Inria a Class'Code
-- **O kurze**: Class'Code IAI je občiansky MOOC kurz prístupný pre každého od 7 do 107 rokov. Jeho cieľom je skúmať, experimentovať a pochopiť, čo je to umelá inteligencia… s inteligenciou!
+- **O kurze**: Tento občiansky MOOC kurz prístupný pre každého od 7 do 107 rokov. Jeho cieľom je skúmať, experimentovať a pochopiť, čo je to umelá inteligencia… s inteligenciou!
 - **Jazyk**: FR
 - **Registrácia**: zadarmo
 - **Certifikácia**: áno
@@ -48,7 +48,7 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
 - **Jazyk**: EN
 - **Registrácia**: bezplatná
 - **Certifikácia**: áno
-- **Dostupnosť**: Tretí štvrťrok 2022
+- **Dostupnosť**: tretí štvrťrok 2022
 - **Prístup**: [coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
 
 ### 4. Umelá inteligencia
@@ -66,7 +66,7 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
 ### 5. Cieľ AI: Zoznámte sa s umelou inteligenciou
 **Pôvodný názov:** *Objectif IA: Initiez-vous à l'intelligence artificielle*
 
-- **Autor**: Institut Montaigne (francúzsky think tank) a Nadácia Abenoa.
+- **Autor**: francúzsky think-tank Institut Montaigne a nadácia Abenoa.
 - **O kurze**: *Predstavujeme umelú inteligenciu od A po Z, aby sme vám poskytli kľúč k jej pochopeniu a podnety na premýšľanie.*
 - **Jazyky**: EN, FR
 - **Registrácia**: bezplatná
@@ -76,8 +76,8 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
 	- EN: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
  	- FR: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle).
 
-### 6. My Mooc
-- **Čo to je:** *Web s prehľadom všetkých dostupných MOOC kurzov. Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC kurzami, ktoré poskytuje tie najlepšie bezplatné školenia dostupné na internete. Naším poslaním je sprístupniť školenia čo najväčšiemu počtu ľudí! S účtom na portáli My Mooc budete mať prehľad o všetkých najnovších MOOC kurzoch, vďaka čomu vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta.*
-- A napríklad všetky MOOC o umelej inteligencii môžete sledovať na tejto adrese: [my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
+### 6. My MOOC
+- **Čo to je:** *Web s prehľadom všetkých dostupných MOOC kurzov. Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC kurzami, ktoré poskytuje tie najlepšie bezplatné školenia na internete. Naším poslaním je sprístupniť školenia čo najväčšiemu počtu ľudí. S účtom na portáli My Mooc budete mať prehľad o všetkých najnovších MOOC kurzoch, vďaka čomu vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta.*
+- Napríklad všetky MOOC o umelej inteligencii môžete sledovať na tejto adrese: [my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
 - **Jazyky**: EN, FR  
-	- **Prístup k My-Mooc**: [my-mooc.com/](https://www.my-mooc.com/)
+	- **Prístup k My MOOC**: [my-mooc.com/](https://www.my-mooc.com/)
