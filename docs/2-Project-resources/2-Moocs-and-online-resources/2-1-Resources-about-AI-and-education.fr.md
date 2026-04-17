@@ -44,21 +44,21 @@ Téma umelej inteligencie je natoľko fascinujúca, že sa jej venuje množstvo 
 
 ### 1. To je AI
 **Pôvodný názov:** *That's AI*    <br><br>
-    - **Autori**: EPFL (Ecole Polytechnique de Lausanne) Rozširujúca škola. Rozširujúca škola EPFL vyučuje aplikované digitálne zručnosti, online. Sme presvedčení, že každý by mal získať digitálne vedomosti a zručnosti, aby čo najlepšie využil možnosti dnešného sveta.
-    - **Informácie o zdroji**: " *"That's AI" je váš úvod do najdôležitejšieho technologického vývoja na svete. Zistite, ako AI mení všetko okolo nás, a naučte sa, ako sa stať aktívnym účastníkom tohto vzrušujúceho nového sveta.*"
-    - **Jazyk**: DE, EN, FR (niektoré články sú len v angličtine).
+    - **Autori**: Ecole Polytechnique de Lausanne. EPFL poskytuje online výučbu aplikovaných digitálnych zručností. Sme presvedčení, že každý by mal získať digitálne vedomosti a zručnosti, aby mohol naplno využívať možnosti dnešného sveta.
+    - **Informácie o zdroji**: *Tento kurz je vaším úvodom do najvýznamnejšieho technologického vývoja na svete. Zistite, ako AI mení všetko okolo nás, a naučte sa, ako sa stať aktívnym účastníkom tohto vzrušujúceho nového sveta.*
+    - **Jazyky**: DE, EN, FR
     - **Registrácia**: bezplatná
     - **Certifikácia**: nie
     - **Dostupnosť**: neobmedzená
-    - **Prístup k zdroju** : [https://www.thats-ai.org/en-GB](https://www.thats-ai.org/en-GB)
+    - **Prístup k zdroju** : [thats-ai.org](https://www.thats-ai.org/en-GB)
 
 
 ### 2. AI vo vzdelávaní
 **Pôvodný názov:** *AI in Education*    <br><br>
-    - **Autori**: University of Oxford - [IT Learning Centre](https://skills.it.ox.ac.uk/)
-    - **Informácie o zdroji**: "*Séria prednášok v čase obeda o umelej inteligencii (AI) vo vzdelávaní, ktoré boli organizované spoločne s Centrom pre vyučovanie a učenie v roku 2019*."
-    - **Jazyk**: SK
+    - **Autori**: University of Oxford – [IT Learning Centre](https://skills.it.ox.ac.uk/)
+    - **Informácie o zdroji**: *Séria obedňajších prednášok o umelej inteligencii (AI) vo vzdelávaní, ktoré boli organizované spoločne s Centrom pre výučbu a učenie (Centre for Teahing and Learning) v roku 2019*.
+    - **Jazyk**: EN
     - Registrácia** : bezplatná
     - Certifikácia**: Nie
     - Prístupnosť** : neobmedzená
-    - Prístup k zdroju** : [https://skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
+    - Prístup k zdroju** : [skills.it.ox.ac.uk/ai-in-education-course-pack](https://skills.it.ox.ac.uk/ai-in-education-course-pack)
