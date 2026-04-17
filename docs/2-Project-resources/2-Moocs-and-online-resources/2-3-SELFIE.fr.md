@@ -1,35 +1,33 @@
 ---
-názov: SELFIE, vaše umiestnenie v digitálnej technológii
-popis: Prezentácia SELFIE a jeho prostredia
+názov: SELFIE – kde sa nachádzate v digitálnom vzdelávaní
+popis: Prezentácia nástroja SELFIE a jeho prostredia
 ---
 
-#SEFLIE (zdroj v angličtine)
-!!! Prezentácia
-      Chceli by ste vedieť, ako si stojíte, pokiaľ ide o používanie digitálnych technológií vo vyučovaní?
+# SEFLIE
+Zistite, ako ste na tom s používaním digitálnych technológií vo vyučovaní!
 
-## Na čo slúži Selfie?
+## Na čo nástroj SELFIE slúži?
 
-S cieľom pomôcť školám "posúdiť, ako sú na tom s vyučovaním v digitálnom veku", bola vyvinutá aplikácia Selfie ako bezplatný, prispôsobiteľný nástroj na sebahodnotenie.
-Od svojho uvedenia na trh bol tento nástroj doplnený o rad nových nástrojov, zdrojov a služieb, ktoré robia zo SELFIE užitočnú štafetu digitálnej transformácie.
+Cieľom tohto prispôsobiteľného bezplatného nástroja na sebahodnotenie je pomôcť školám zistiť, ako sú na tom z hľadiska vzdelávania v digitálnej ére. Od svojho uvedenia na trh do tohto nástroja pribudol celý rad nových funkcií, zdrojov a služieb, vďaka ktorému je SELFIE užitočným pilierom digitálnej transformácie.
 
-### SELFIE pre školy[^Selfie1]
+### SELFIE pre školy[^1]
 
-_SELFIE pre školy je bezplatný, ľahko použiteľný a prispôsobiteľný nástroj, ktorý školám pomáha posúdiť, kde sa nachádzajú z hľadiska vzdelávania v digitálnom veku. Registrácia musí byť vykonaná pre jednu školu, ale môže ju vykonať ktorýkoľvek zamestnanec školy._
+_SELFIE pre školy je jednoduchý a prispôsobiteľný bezplatný nástroj, ktorý školám pomáha zistiť, ako sú na tom z hľadiska vzdelávania v digitálnej ére. Registráciu je potrebné vykonať za školu, ale môže ju urobiť ktorýkoľvek jej zamestnanec._
 
-### SELFIE pre učiteľov[^Selfie2]:
+### SELFIE pre učiteľov[^2]:
 
-_SELFIE pre učiteľov je online nástroj, ktorý pomáha učiteľom základných a stredných škôl zamyslieť sa nad tým, ako využívajú digitálne technológie vo svojej profesionálnej praxi. Učitelia môžu pomocou tohto nástroja zistiť viac o digitálnych zručnostiach, ktoré majú, a identifikovať oblasti, v ktorých sa môžu rozvíjať._
+_SELFIE pre učiteľov je online nástroj, ktorý pomáha učiteľom základných a stredných škôl zamyslieť sa nad tým, ako vo svojej praxi využívajú digitálne technológie. Učitelia môžu pomocou tohto nástroja zistiť viac o svojich digitálnych zručnostiach a identifikovať oblasti, v ktorých sa môžu ďalej rozvíjať._
 
-Na prístup k nástroju je potrebné [EU Login](https://webgate.ec.europa.eu/cas/login)._
+Na prístup k nástroju je potrebná registrácia v službe [EU Login](https://webgate.ec.europa.eu/cas/login)._
 
-Registrácia je jednoduchá a nástroj môže bezplatne používať každý učiteľ v Európe alebo kdekoľvek inde na svete.
+Registrácia je jednoduchá a nástroj môže bezplatne používať ktorýkoľvek učiteľ v Európe alebo kdekoľvek inde na svete.
 
-### SELFIE PKT - Súbor nástrojov asistenta pedagogickej inovácie[^Selfie3] :
+### SELFIE PKT - Súbor nástrojov na pomoc s pedagogickými inováciami[^3] :
 
-_SELFIE PTK je komplexný softvérový balík, ktorý pomáha školám vypracovať akčný plán založený na SELFIE pre efektívne učenie v digitálnom veku. SELFIE PTK poskytuje návod krok za krokom na preskúmanie výsledkov SELFIE a stanovenie priorít a cieľov, vypracovanie akčného plánu založeného na SELFIE a realizáciu a hodnotenie tohto plánu._
+_SELFIE PTK je komplexný softvérový balík, ktorý pomáha školám vypracovať akčný plán založený na výsledkoch SELFIE pre efektívne vzdelávanie v digitálnej ére. Balík SELFIE PTK poskytuje podrobný návod na preskúmanie výsledkov SELFIE, ako aj stanovenie priorít a cieľov, vypracovanie akčného plánu, jeho realizáciu a následné hodnotenie._
 
-SELFIE a všetky jeho súvisiace služby a nástroje sú spolufinancované z programu Európskej únie Erasmus+.
+Nástroj SELFIE a všetky s ním súvisiace služby a nástroje sú spolufinancované z programu Európskej únie Erasmus+.
 
-[^Selfie1]: [webová stránka SELFIE, https://education.ec.europa.eu/selfie/registration-procedure](https://education.ec.europa.eu/selfie/registration-procedure)
-[^Selfie2]: [SELFIE pre učiteľov, https://education.ec.europa.eu/selfie-for-teachers](https://education.ec.europa.eu/selfie-for-teachers)
-[^Selfie3]: [Súbor pedagogických nástrojov SELFIE, https://selfieptk.eu/](https://selfieptk.eu/)
+[^1]: [Webová stránka SELFIE, education.ec.europa.eu/selfie/registration-procedure](https://education.ec.europa.eu/selfie/registration-procedure)
+[^2]: [SELFIE pre učiteľov, education.ec.europa.eu/selfie-for-teachers](https://education.ec.europa.eu/selfie-for-teachers)
+[^3]: [Súbor pedagogických nástrojov SELFIE, selfieptk.eu/](https://selfieptk.eu/)
