@@ -1,5 +1,5 @@
 ---
-názov: SELFIE – kde sa nachádzate v digitálnom vzdelávaní
+názov: SELFIE – ako ste na tom v digitálnom vzdelávaní
 popis: Prezentácia nástroja SELFIE a jeho prostredia
 ---
 
