@@ -44,7 +44,7 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
 **Pôvodný názov:** *AI for Everyone*
 
 - **Autor**: Andrew Ng (DeepLearning AI – Stanford University)
-- **O kurze**: *AI nie je len pre inžinierov. Ak chcete, aby sa vaša organizácia zlepšila vo využívaní AI, tento kurz by ste mali odporučiť všetkým – najmä svojim kolegom, ktorí nemajú technickéh zameranie. (DeepLearning.AI ponúka na platforme Coursera množstvo MOOC kurzov súvisiacich s umelou inteligenciou, od všeobecných až po vysoko technické. Dostupnosť, ako aj možnosť registrácie a certifikácie si treba overiť na platforme Coursera.)*
+- **O kurze**: *AI nie je len pre inžinierov. Ak chcete, aby sa vaša organizácia zlepšila vo využívaní AI, tento kurz by ste mali odporučiť všetkým – najmä svojim kolegom, ktorí nemajú technické zameranie. (DeepLearning.AI ponúka na platforme Coursera množstvo MOOC kurzov súvisiacich s umelou inteligenciou, od všeobecných až po vysoko technické. Dostupnosť, ako aj možnosť registrácie a certifikácie si treba overiť na platforme Coursera.)*
 - **Jazyk**: EN
 - **Registrácia**: bezplatná
 - **Certifikácia**: áno
@@ -77,7 +77,7 @@ MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umel
  	- FR: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle).
 
 ### 6. My Mooc
-- **Čo to je:** *Web s prehľadom všetkých dostupných MOOC kurzov. Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC kurzami, ktoré poskytuje tie najlepšie bezplatné školenia dostupné na internete. Naím poslaním je sprístupniť školenia čo najväčšiemu počtu ľudí! S účtom na portáli My Mooc budete mať prehľad o všetkých najnovších MOOC kurzoch, vďaka čomu vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta.*
+- **Čo to je:** *Web s prehľadom všetkých dostupných MOOC kurzov. Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC kurzami, ktoré poskytuje tie najlepšie bezplatné školenia dostupné na internete. Naším poslaním je sprístupniť školenia čo najväčšiemu počtu ľudí! S účtom na portáli My Mooc budete mať prehľad o všetkých najnovších MOOC kurzoch, vďaka čomu vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta.*
 - A napríklad všetky MOOC o umelej inteligencii môžete sledovať na tejto adrese: [my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
 - **Jazyky**: EN, FR  
 	- **Prístup k My-Mooc**: [my-mooc.com/](https://www.my-mooc.com/)
