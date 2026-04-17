@@ -18,13 +18,13 @@ _SELFIE pre školy je jednoduchý a prispôsobiteľný bezplatný nástroj, ktor
 
 _SELFIE pre učiteľov je online nástroj, ktorý pomáha učiteľom základných a stredných škôl zamyslieť sa nad tým, ako vo svojej praxi využívajú digitálne technológie. Učitelia môžu pomocou tohto nástroja zistiť viac o svojich digitálnych zručnostiach a identifikovať oblasti, v ktorých sa môžu ďalej rozvíjať._
 
-Na prístup k nástroju je potrebná registrácia v službe [EU Login](https://webgate.ec.europa.eu/cas/login)._
+*Na prístup k nástroju je potrebná registrácia v službe [EU Login](https://webgate.ec.europa.eu/cas/login)*
 
 Registrácia je jednoduchá a nástroj môže bezplatne používať ktorýkoľvek učiteľ v Európe alebo kdekoľvek inde na svete.
 
-### SELFIE PKT - Súbor nástrojov na pomoc s pedagogickými inováciami[^3] :
+### SELFIE PKT - súbor nástrojov na pomoc s pedagogickými inováciami[^3] :
 
-_SELFIE PTK je komplexný softvérový balík, ktorý pomáha školám vypracovať akčný plán založený na výsledkoch SELFIE pre efektívne vzdelávanie v digitálnej ére. Balík SELFIE PTK poskytuje podrobný návod na preskúmanie výsledkov SELFIE, ako aj stanovenie priorít a cieľov, vypracovanie akčného plánu, jeho realizáciu a následné hodnotenie._
+_SELFIE PTK je komplexný softvérový balík, ktorý pomáha školám vypracovať pomocou SELFIE akčný plán pre efektívne vzdelávanie v digitálnej ére. Balík SELFIE PTK poskytuje podrobný návod na preskúmanie výsledkov SELFIE, ako aj stanovenie priorít a cieľov, vypracovanie akčného plánu, jeho realizáciu a následné hodnotenie._
 
 Nástroj SELFIE a všetky s ním súvisiace služby a nástroje sú spolufinancované z programu Európskej únie Erasmus+.
 
