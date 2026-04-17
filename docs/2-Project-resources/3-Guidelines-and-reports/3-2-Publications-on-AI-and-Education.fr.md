@@ -1,35 +1,35 @@
 ---
-názov: Publikácie o umelej inteligencii a vzdelávaní (EÚ-UNESCO-OECD-CoE)
-popis: Bibliografia európskych/medzinárodných inštitúcií o umelej inteligencii / umelých inteligenciách vo vzdelávaní.
+názov: Publikácie o AI a vzdelávaní (EÚ-UNESCO-OECD-CoE)
+popis: Bibliografia európskych/medzinárodných inštitúcií o AI a AI vo vzdelávaní.
 ---
 ??? info " Informácie o bibliografii"
-    - Odoslané: 15. novembra 2023
-    - Zdroje sú zoradené podľa predmetu a potom podľa dátumu zostupne.
+    - Pridané: 15. novembra 2023
+    - Zdroje sú zoradené podľa témy a potom zostupne podľa dátumu.
 
-##*Predaj*
-Pri definovaní cieľov projektu AI4T vychádzali realizátori projektu zo série správ a príspevkov od rôznych inštitúcií. Tieto odkazy boli aktualizované o nový vývoj/správy a odporúčania uverejnené od roku 2020, keď bol projekt napísaný.
+## Predslov
+Pri definovaní cieľov projektu AI4T vychádzal jeho realizačný tím zo série správ a príspevkov od rôznych inštitúcií. K týmto zdrojom bol následne doplnený aj nový vývoj, správy a odporúčania uverejnené po roku 2020, keď bol projekt napísaný.
 
 
 ## Publikácie o umelej inteligencii
 
-2023: Sprievodca generatívnou AI vo vzdelávaní a výskume[^Unesco6].
+2023: Príručka ku generatívnej umelej inteligencii vo vzdelávaní a výskume[^Unesco6]
 
-2022: Umelá inteligencia a vzdelávanie - kritický pohľad cez prizmu ľudských práv, demokracie a právneho štátu - Rada Európy [^CoE1]
+2022: AI a vzdelávanie – kritický pohľad optikou ľudských práv, demokracie a právneho štátu – Rada Európy [^CoE1]
 
-2021 : Etika umelej inteligencie - odporúčanie UNESCO [^Unesco5].
+2021: Etika umelej inteligencie – odporúčanie UNESCO [^Unesco5]
 
-2021 : (nová verzia) AI Watch - Definovanie umelej inteligencie 2.0 - Technická správa Spoločného výskumného centra [^Jrc4].
+2021: (Nové vydanie) AI Watch – Definícia umelej inteligencie 2.0 - Technická správa Spoločného výskumného centra (JRC) [^Jrc4]
 
-!!! Pozn.
-    "*Druhé vydanie (s cieľom) stanoviť operačnú definíciu umelej inteligencie (UI).*"
+!!! note
+    *Druhé vydanie s cieľom stanoviť operačnú definíciu umelej inteligencie.*
 
-Pozoruhodný obsah: "*To zahŕňa klasifikáciu umelej inteligencie podľa: rodín algoritmov a teoretických modelov, ktoré sú ich základom; kognitívnych schopností reprodukovaných umelou inteligenciou; funkcií vykonávaných umelou inteligenciou. Aplikácie UI sa môžu zoskupovať aj podľa iných hľadísk, ako je hospodársky sektor, v ktorom sa tieto aplikácie nachádzajú, alebo ich komerčné funkcie.*" (pozri ďalej)
+Dôležitý obsah: *Zahŕňa klasifikáciu umelej inteligencie podľa: rodín algoritmov a teoretických modelov, na základe ktorých sú vytvorené; kognitívnych schopností reprodukovaných umelou inteligenciou; a funkcií vykonávaných umelou inteligenciou. AI aplikácie sa dajú zoskupovať aj podľa iných hľadísk, ako je hospodársky sektor, v ktorom sa dané aplikácie využívajú, alebo ich obchodné funkcie.*(pozri ďalej)
 
-2021 : AI and Education: Guidance for Policy-Makers- Správa UNESCO [^Unesco4] (v angličtine)
+2021: AI a vzdelávanie: Príručka pre tvorcov politík – Správa UNESCO [^Unesco4]
 
-2020 : AI Watch - Definovanie umelej inteligencie - technická správa Spoločného výskumného centra [^Jrc3
+2020: AI Watch – Definícia umelej inteligencie – Technická správa Spoločného výskumného centra [^Jrc3]
 
-!!! Poznámka
+!!! note
     Návrh "*operačnej definície umelej inteligencie, ktorá sa má prijať v rámci AI Watch*".  
 Pozoruhodný obsah: "*Cenným prínosom tejto práce je zhromaždenie definícií vypracovaných v rokoch 1955 až 2019 a syntéza hlavných charakteristík pojmu umelá inteligencia, ako sa odrážajú v príslušnej literatúre.*"
 
@@ -39,12 +39,12 @@ Pozoruhodný obsah: "*Cenným prínosom tejto práce je zhromaždenie definíci�
 
 2020 : Nové technológie a učiteľská profesia - Etické a pedagogické úvahy na základe scenárov blízkej budúcnosti - Správa Spoločného výskumného centra [^Jrc2].
 
-!!! abstrakt "Abstract"
+!!! abstract "Abstrakt"
     "*Úlohou scenárov je vnímať budúcnosť ako niečo, čo sa má formovať. Cieľom týchto scenárov blízkej budúcnosti je vyriešiť množstvo problémov, ktoré podľa dnešných pedagógov bránia poskytovaniu kvalitného vzdelávania a odbornej prípravy. Odohrávajú sa v učebniach, prednáškových sálach, školiacich strediskách a digitálnych vzdelávacích prostrediach, kde by sa mohli využívať nové technológie na podporu pedagógov v ich profesii. Hlavné výzvy, ktoré zo scenárov vyplývajú, sa týkajú etických aspektov (napr. rovnováha medzi autonómiou človeka a strojov, dataprojekcia vzdelávania, pedagogické modely) a meniacich sa požiadaviek na zručnosti pedagogických pracovníkov.*"
 
 2019 : Vplyv umelej inteligencie na učenie, vyučovanie a vzdelávanie - správa Spoločného výskumného centra [^Jrc1].
 
-!!! abstrakt "Abstract"
+!!! abstract "Abstrakt"
     "Správa, ktorá *opisuje súčasný stav umelej inteligencie (UI) a jej potenciálny vplyv na učenie, vyučovanie a vzdelávanie. Poskytuje koncepčný základ pre dobre informovanú, na politiku zameranú prácu, výskum a činnosti zamerané na budúcnosť, ktoré sa zaoberajú príležitosťami a výzvami vytvorenými nedávnym vývojom v oblasti umelej inteligencie. Správa je určená tvorcom politík, ale poskytuje aj príspevky zaujímavé pre vývojárov technológií AI a výskumníkov, ktorí skúmajú vplyv AI na hospodárstvo, spoločnosť a budúcnosť vzdelávania a učenia.*"
 
 2019: Pekinský konsenzus o umelej inteligencii a vzdelávaní - UNESCO [^Unesco2]
@@ -65,20 +65,20 @@ Pozoruhodný obsah: "*Cenným prínosom tejto práce je zhromaždenie definíci�
     "*Skupina odborníkov vymenovaná Európskou komisiou, aby poskytovala poradenstvo v súvislosti s jej stratégiou v oblasti umelej inteligencie.*"
 
 
-??? "UNESCO - Organizácia Spojených národov pre vzdelávanie, vedu a kultúru" ?
+??? "UNESCO - Organizácia Spojených národov pre vzdelávanie, vedu a kultúru"
     - *UNESCO sa zaviazalo využiť potenciál technológií umelej inteligencie na dosiahnutie cieľov Agendy 2030 pre vzdelávanie a zároveň zabezpečiť, aby sa jej uplatňovanie vo vzdelávacom kontexte riadilo základnými zásadami inklúzie a spravodlivosti*."
     - UNESCO IITE** [^Unesco1] - Inštitút pre informačné technológie vo vzdelávaní
     "Poslaním IITE je podporovať inovatívne využívanie informačných a komunikačných technológií a slúžiť ako sprostredkovateľ a katalyzátor na dosiahnutie cieľa 4 trvalo udržateľného rozvoja (SDG 4) prostredníctvom riešení a osvedčených postupov založených na IKT.
 
 
-??? "OECD - Organizácia pre hospodársku spoluprácu a rozvoj
+??? "OECD - Organizácia pre hospodársku spoluprácu a rozvoj"
     - OECD je "medzinárodná organizácia, ktorá pracuje na lepších politikách pre [lepší život](http://www.oecdbetterlifeindex.org/)*". Jej "*cieľom je formovať politiky, ktoré podporujú prosperitu, rovnosť, príležitosti a blahobyt pre všetkých*".
     - OECD Artificial Intelligence [^Oecd1]: "*poskytuje multidisciplinárne údaje a analýzy o umelej inteligencii. "* Jej "*rozmanitá globálna komunita partnerov robí z tejto platformy jedinečný zdroj informácií a dialógu o umelej inteligencii.*"
     - OECD vykonáva širokú škálu činností súvisiacich s umelou inteligenciou. Tieto aktivity siahajú od perspektívnej analýzy účinkov umelej inteligencie na trh práce[^Oecd2] až po odporúčania pre rozvoj dôveryhodnej umelej inteligencie[^Oecd3]. Stránka ponúka aj širokú škálu nadväzujúcich činností týkajúcich sa UI a všetkých oblastí verejnej politiky na celom svete[^Oecd4].
     - Vzdelávanie**: OECD zostavuje množstvo správ a súborov údajov týkajúcich sa vzdelávania. Ponúka tiež možnosť prezrieť si "*trendy v reálnom čase o tom, kde, ako a ako rýchlo sa vyvíja a používa UI*" vo vzdelávaní[^Oecd5].
 
 
-??? "Rada Európy
+??? "Rada Európy"
       Rada Európy a umelá inteligencia** [^CoE2] vedie mnohé činnosti Výboru pre umelú inteligenciu (CAI) [^CoE3] v oblasti umelej inteligencie pod názvom "Smerom k uplatňovaniu umelej inteligencie na základe ľudských práv, právneho štátu a demokracie "* [^CoE1].
 
 [^Unesco6]: [Usmernenia pre generatívnu UI vo vzdelávaní a výskume](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
