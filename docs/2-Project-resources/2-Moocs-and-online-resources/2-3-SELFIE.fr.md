@@ -28,6 +28,6 @@ _SELFIE PTK je komplexný softvérový balík, ktorý pomáha školám vypracova
 
 Nástroj SELFIE a všetky s ním súvisiace služby a nástroje sú spolufinancované z programu Európskej únie Erasmus+.
 
-[^1]: [Webová stránka SELFIE, education.ec.europa.eu/selfie/registration-procedure](https://education.ec.europa.eu/selfie/registration-procedure)
-[^2]: [SELFIE pre učiteľov, education.ec.europa.eu/selfie-for-teachers](https://education.ec.europa.eu/selfie-for-teachers)
-[^3]: [Súbor pedagogických nástrojov SELFIE, selfieptk.eu/](https://selfieptk.eu/)
+[^1]: [Webová stránka SELFIE – education.ec.europa.eu/selfie/registration-procedure](https://education.ec.europa.eu/selfie/registration-procedure)
+[^2]: [SELFIE pre učiteľov – education.ec.europa.eu/selfie-for-teachers](https://education.ec.europa.eu/selfie-for-teachers)
+[^3]: [Súbor pedagogických nástrojov SELFIE – selfieptk.eu/](https://selfieptk.eu/)
