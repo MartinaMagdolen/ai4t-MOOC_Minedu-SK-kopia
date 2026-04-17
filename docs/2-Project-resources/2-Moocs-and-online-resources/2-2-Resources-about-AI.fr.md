@@ -1,78 +1,83 @@
 ---
-názov: Zdroje o umelej inteligencii všeobecne
-popis: Moocs and resources on AI
+názov: Zdroje o umelej inteligencii vo všeobecnosti
+popis: MOOC kurzy and zdroje o AI
 ---
 
-# zdroje o umelej inteligencii vo všeobecnosti
+# Zdroje o umelej inteligencii vo všeobecnosti
 
-## 1 - Moocs on AI in general
+## 1 – MOOC kurzy o umelej inteligencii vo všeobecnosti
 
-### Prvky umelej inteligencie
-Mooc, ktorý bol spustený v roku 2018 "*s cieľom pomôcť ľuďom, aby ich umelá inteligencia posilňovala, a nie ohrozovala*", zaznamenal obrovský úspech a v súčasnosti je etablovaným meradlom pre školenia o AI so 750 000 registrovanými študentmi zo 170 krajín.
+### 1. Prvky umelej inteligencie
+
+**Pôvodný názov:** *Elements of AI*
+
+MOOC kurz bol spustený v roku 2018 *„s cieľom pomôcť ľuďom, aby ich umelá inteligencia neohrozovala, ale posilňovala“*. So 750 000 registrovanými študentmi zo 170 krajín zaznamenal obrovský úspech a v súčasnosti je etablovaným vzorom pre kurzy v oblasti AI.
+
 <figure>
-	 <img src="Images/Elements-of-AI-visual-2.png" />
-	 <figcaption> </figcaption>
+  <img src="Images/Elements-of-AI-visual-2.png" />
+  <figcaption> </figcaption>
 </figure>
 
-!!! info
-    - Od** : MinnaLearn a Helsinská univerzita
-    - Mooc info**: "*Elements of AI je séria bezplatných online kurzov vytvorených spoločnosťou MinnaLearn a Helsinskou univerzitou. Chceme povzbudiť čo najširšiu skupinu ľudí, aby sa naučili, čo je to umelá inteligencia, čo sa dá (a nedá) robiť s umelou inteligenciou a ako začať vytvárať metódy umelej inteligencie. Kurzy kombinujú teóriu a praktické cvičenia* "
-    - Jazyk**: DE, FR, IT, IE, SI, GB (a mnoho ďalších európskych jazykov)
-    - Registrácia**: bezplatná
-    - Certifikácia**: Áno
-    - Dostupnosť** : neobmedzená
-    - Prístup k Mooc** :
-        - Časť 1 - Úvod do umelej inteligencie ([http://course.elementsofai.com](http://course.elementsofai.com))
-        - Časť 2 - Budovanie umelej inteligencie ([https://buildingai.elementsofai.com/](https://buildingai.elementsofai.com/))
+- **Autori**: MinnaLearn a Helsinská univerzita
+- **O kurze**: *Séria bezplatných online kurzov vytvorených spoločnosťou MinnaLearn v spolupráci s Helsinskou univerzitou. Chceme čo najširšej skupine ľudí ukázať, čo je to umelá inteligencia, čo sa s ňou dá (a nedá) robiť a ako začať vytvárať metódy umelej inteligencie. Kurzy spájajú teóriu s praktickými cvičeniami.*
+- **Jazyky**: DE, FR, IT, IE, SI, GB (a mnoho ďalších európskych jazykov)
+- **Registrácia**: bezplatná
+- **Certifikácia**: áno
+- **Dostupnosť**: neobmedzená
+- **Prístup**:
+	- Časť 1 – Úvod do umelej inteligencie ([course.elementsofai.com](http://course.elementsofai.com))
+	- Časť 2 – Budovanie umelej inteligencie ([buildingai.elementsofai.com/](https://buildingai.elementsofai.com/))
+  
+### 2. Umelá inteligencia… s inteligenciou!
+**Pôvodný názov:** *L'Intelligence Artificielle… avec intelligence!*
 
-### Umelá inteligencia... s inteligenciou!
-!!! info
-    - By** : Inria a Class'Code
-    - Info o MOOC**: Class'Code IAI je občiansky MOOC prístupný všetkým od 7 do 107 rokov, ktorý umožňuje klásť otázky, experimentovať a pochopiť, čo je to umelá inteligencia... s inteligenciou!
-    - Jazyk**: FR
-    - Registrácia** : zadarmo
-    - Certifikácia**: Áno
-    - Prístupnosť** : neobmedzená
-    - Prístup k Mooc** : [https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/)
-
-
-### AI pre každého
-*AI pre každého
-!!! info
-    - Autor**: Andrew Ng (DeepLearning AI - Stanford University)
-    - info o Mooc** : "AI nie je len pre inžinierov. Ak chcete, aby sa vaša organizácia stala lepšou vo využívaní AI, toto je kurz, ktorý by ste mali povedať všetkým - najmä svojim kolegom, ktorí nie sú technického zamerania - aby absolvovali*."
-    - **DeepLearning.AI** ponúka na platforme Coursera mnoho Moocov súvisiacich s AI, od všeobecných až po vysoko technické - registráciu, certifikáty a dostupnosť si treba overiť na platforme Coursera.
-    - Jazyk**: SK
-    - Registrácia**: bezplatná
-    - Certifikácia**: Áno
-    - Dostupnosť** : Tretí štvrťrok 2022
-    - Prístup k Mooc** : [https://www.coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
-
-### Umelá inteligencia
-* Umelá inteligencia
-!!! info
-    - Od : Accenture
-    - Informácie o Mooc** : " *Zoznámte sa s minulosťou, súčasnosťou a budúcnosťou umelej inteligencie a preskúmajte jej potenciál na pracovisku*. "
-    - Jazyk**: SK
-    - Registrácia**: bezplatná
-    - Certifikácia**: Áno
-    - Prístupnosť** : neobmedzená
-    - Prístup k Mooc** : [https://www.futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
+- **Autori** : Inria a Class'Code
+- **O kurze**: Class'Code IAI je občiansky MOOC kurz prístupný pre každého od 7 do 107 rokov. Jeho cieľom je skúmať, experimentovať a pochopiť, čo je to umelá inteligencia… s inteligenciou!
+- **Jazyk**: FR
+- **Registrácia**: zadarmo
+- **Certifikácia**: áno
+- **Dostupnosť**: neobmedzená
+- **Prístup**: [fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/](https://www.fun-mooc.fr/fr/cours/lintelligence-artificielle-avec-intelligence/)
 
 
-### Cieľ AI: Naučte sa o umelej inteligencii
-!!! info
-    - Autor** : Institut Montaigne (francúzsky think tank) a Nadácia Abenoa.
-    - Informácie o Mooc** : " * Predstavujeme umelú inteligenciu od A po Z, aby sme vám poskytli kľúč k pochopeniu a podnety na premýšľanie.
-    - Jazyk**: EN, FR
-    - Registrácia**: bezplatná
-    - Certifikácia**: Áno
-    - Prístupnosť** : neobmedzená
-    - Prístup k Mooc** : Angličtina: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence), Francúzština: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle).
+### 3. AI pre každého
+**Pôvodný názov:** *AI for Everyone*
 
-### My Mooc, stránka na udržiavanie kontaktu so všetkými dostupnými Moocmi
-!!! Poradenstvo
-    - Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC, My Mooc poskytuje najlepšie bezplatné školenia dostupné na internete. Naše poslanie? Sprístupniť školenia čo najväčšiemu počtu ľudí! S účtom na My Mooc môžete mať prehľad o všetkých najnovších MOOC a uistiť sa, že vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta*".
-    A napríklad všetky MOOC o umelej inteligencii môžete sledovať na tejto adrese: [https://www.my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
-    - Jazyk**: EN, FR  
-		- Prístup k My-Mooc**: [https://www.my-mooc.com/](https://www.my-mooc.com/)
+- **Autor**: Andrew Ng (DeepLearning AI – Stanford University)
+- **O kurze**: *AI nie je len pre inžinierov. Ak chcete, aby sa vaša organizácia zlepšila vo využívaní AI, tento kurz by ste mali odporučiť všetkým – najmä svojim kolegom, ktorí nemajú technickéh zameranie. (DeepLearning.AI ponúka na platforme Coursera množstvo MOOC kurzov súvisiacich s umelou inteligenciou, od všeobecných až po vysoko technické. Dostupnosť, ako aj možnosť registrácie a certifikácie si treba overiť na platforme Coursera.)*
+- **Jazyk**: EN
+- **Registrácia**: bezplatná
+- **Certifikácia**: áno
+- **Dostupnosť**: Tretí štvrťrok 2022
+- **Prístup**: [coursera.org/learn/ai-for-everyone/home/week/1](https://www.coursera.org/learn/ai-for-everyone/home/week/1)
+
+### 4. Umelá inteligencia
+**Pôvodný názov:** *Artificial Intelligence*
+
+- **Autor**: Accenture
+- **O kurze**: *Zoznámte sa s minulosťou, súčasnosťou a budúcnosťou umelej inteligencie a preskúmajte jej potenciál na pracovisku*.
+- **Jazyk**: EN
+- **Registrácia**: bezplatná
+- **Certifikácia**: áno
+- **Dostupnosť**: neobmedzená
+- **Prístup**: [futurelearn.com/courses/artificial-intelligence](https://www.futurelearn.com/courses/artificial-intelligence)
+
+
+### 5. Cieľ AI: Zoznámte sa s umelou inteligenciou
+**Pôvodný názov:** *Objectif IA: Initiez-vous à l'intelligence artificielle*
+
+- **Autor**: Institut Montaigne (francúzsky think tank) a Nadácia Abenoa.
+- **O kurze**: *Predstavujeme umelú inteligenciu od A po Z, aby sme vám poskytli kľúč k jej pochopeniu a podnety na premýšľanie.*
+- **Jazyky**: EN, FR
+- **Registrácia**: bezplatná
+- **Certifikácia**: áno
+- **Dostupnosť**: neobmedzená
+- **Prístup**:
+	- EN: [https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence](https://openclassrooms.com/en/courses/7078811-destination-ai-introduction-to-artificial-intelligence)
+ 	- FR: [https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle).
+
+### 6. My Mooc
+- **Čo to je:** *Web s prehľadom všetkých dostupných MOOC kurzov. Výkonné a inovatívne riešenie s viac ako 10 000 dostupnými MOOC kurzami, ktoré poskytuje tie najlepšie bezplatné školenia dostupné na internete. Naím poslaním je sprístupniť školenia čo najväčšiemu počtu ľudí! S účtom na portáli My Mooc budete mať prehľad o všetkých najnovších MOOC kurzoch, vďaka čomu vám neunikne žiadna téma ani obsah z vašich obľúbených univerzít z celého sveta.*
+- A napríklad všetky MOOC o umelej inteligencii môžete sledovať na tejto adrese: [my-mooc.com/en/categorie/artificial-intelligence](https://www.my-mooc.com/en/categorie/artificial-intelligence).
+- **Jazyky**: EN, FR  
+	- **Prístup k My-Mooc**: [my-mooc.com/](https://www.my-mooc.com/)
