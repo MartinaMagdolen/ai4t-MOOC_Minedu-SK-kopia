@@ -56,7 +56,7 @@ Téma umelej inteligencie je natoľko fascinujúca, že sa jej venuje množstvo 
 ### 2. AI vo vzdelávaní
 **Pôvodný názov:** *AI in Education*    <br><br>
     - **Autori**: University of Oxford – [IT Learning Centre](https://skills.it.ox.ac.uk/)  
-    - **Informácie o zdroji**: *Séria obedňajších prednášok o umelej inteligencii (AI) vo vzdelávaní, ktoré boli organizované spoločne s Centrom pre výučbu a učenie (Centre for Teahing and Learning) v roku 2019*.  
+    - **Informácie o zdroji**: *Séria obedňajších prednášok o umelej inteligencii (AI) vo vzdelávaní, ktoré boli organizované spoločne s Centrom pre výučbu a učenie (Centre for Teaching and Learning) v roku 2019*.  
     - **Jazyk**: EN  
     - **Registrácia**: bezplatná  
     - **Certifikácia**: nie  
