@@ -1,41 +1,39 @@
 ---
-názov: Politika EÚ v oblasti umelej inteligencie a vzdelávania
-popis: Právny rámec pre umelú inteligenciu a akčný plán pre digitálne vzdelávanie
+názov: Zásady EÚ v oblasti umelej inteligencie a vzdelávania
+popis: Právny rámec pre umelú inteligenciu a akčný plán digitálneho vzdelávania
 ---
-??? info " Informácie o odkazoch "
-    - Predložené: 16. decembra 2022
-    - Referencie sú zoradené podľa typu a potom podľa zostupného dátumu.
-
-
+??? info " Informácie o zdrojoch "
+    - Pridané : 16. decembra 2022
+    - Zdroje sú roztriedené podľa povahy a potom zoradené podľa dátumu zostupne
+    
 ## Právne publikácie Európskej únie
 
-**V procese prípravy**: Návrh regulačného rámca pre umelú inteligenciu [^framai1]
-*"Komisia navrhuje vôbec prvý právny rámec pre umelú inteligenciu, ktorý rieši riziká spojené s umelou inteligenciou a umožňuje Európe zohrávať vedúcu úlohu na celosvetovej úrovni "*.
+**V procese prípravy**: Návrh regulačného rámca pre umelú inteligenciu[^framai1]
+*Komisia navrhuje vôbec prvý právny rámec pre umelú inteligenciu, ktorý rieši riziká spojené s umelou inteligenciou a umožňuje Európe zohrávať vedúcu úlohu na globálnej úrovni.*.
 
-!!! Poznámka "Výňatok"
-      *Navrhované nariadenie o UI zabezpečuje, aby Európania mohli dôverovať tomu, čo im UI ponúka. Hoci väčšina systémov UI predstavuje obmedzené alebo žiadne riziká a môže pomôcť vyriešiť mnohé spoločenské výzvy, niektoré systémy UI vytvárajú riziká, ktoré musíme riešiť, aby sme sa vyhli nežiaducim výsledkom*.
+!!! note "Výňatok"
+      *Navrhovaná regulácia umelej inteligencie zabezpečuje, aby Európania mohli dôverovať tomu, čo umelá inteligencia ponúka. Hoci väčšina AI systémov predstavuje len obmedzené alebo žiadne riziko a môže prispieť k riešeniu mnohých celospoločenských výziev, niektoré AI systémy prinášajú riziká, ktoré musíme riešiť, aby sme sa vyhli nežiaducim dôsledkom.*
 
-!!! Príklad "Významný obsah
-    - Tento regulačný rámec vymedzuje 4 úrovne rizika AI:
+!!! example "Dôležitý obsah"
 
-        1 - Neprípustné riziko  
-        2 - vysoké riziko  
-        3 - obmedzené riziko  
-        4 - minimálne alebo žiadne riziko
-    - Vzdelávanie alebo odborná príprava** sa hodnotí ako **2 - Vysoké riziko** "*pretože môže rozhodnúť o prístupe osoby k vzdelaniu a kariérnej dráhe (napr. známky zo skúšok)*."
+    - Tento regulačný rámec vymedzuje 4 úrovne rizika umelej inteligencie:  
+        1 – Neprijateľné riziko  
+        2 – Vysoké riziko  
+        3 – Obmedzené riziko  
+        4 – Minimálne alebo žiadne riziko
+    - **Vzdelávanie alebo odborná príprava** sa hodnotí ako **2 – Vysoké riziko** „*pretože môže rozhodovať o prístupe osôb k vzdelaniu a kariérym dráham (napr. hodnotenie skúšok).“*
 
+## Politika Európskej únie: Akčný plán digitálneho vzdelávania
 
-## Politika Európskej únie: Akčný plán pre digitálne vzdelávanie
+!!! note
+    *Ide o politickú iniciatívu, ktorá definuje spoločnú víziu kvalitného, inkluzívneho a dostupného digitálneho vzdelávania v Európe a ktorej cieľom je prispieť k tomu, aby sa systémy vzdelávania a odbornej prípravy členských štátov prispôsobili digitálnej ére.*
 
-!!! Poznámka
-    *Politická iniciatíva, ktorá definuje spoločnú víziu vysokokvalitného, inkluzívneho a prístupného digitálneho vzdelávania v Európe a ktorej cieľom je podporiť prispôsobenie systémov vzdelávania a odbornej prípravy členských štátov digitálnemu veku*.
+2021 – 2027: Akčný plán digitálneho vzdelávania.[^DEAP1]
 
-2021 - 2027: Akčný plán digitálneho vzdelávania [^DEAP1].
+2018: Oznámenie Komisie Európskemu parlamentu, Rade, Európskemu hospodárskemu a sociálnemu výboru a Výboru regiónov o akčnom pláne digitálneho vzdelávania.[^DEAP2]
 
-2018: Oznámenie Komisie Európskemu parlamentu, Rade, Európskemu hospodárskemu a sociálnemu výboru a Výboru regiónov o akčnom pláne digitálneho vzdelávania [^DEAP2].
+[^framai1]: [Návrh regulačného rámca pre umelú inteligenciu – digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai).
 
-[^framai1]: [Návrh regulačného rámca pre umelú inteligenciu, https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai](https://digital-strategy.ec.europa.eu/fr/policies/regulatory-framework-ai).
+[^DEAP1]: [Akčný plán digitálneho vzdelávania – education.ec.europa.eu/fr/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/fr/focus-topics/digital-education/action-plan).
 
-[^DEAP1]: [Akčný plán digitálneho vzdelávania, https://education.ec.europa.eu/fr/focus-topics/digital-education/action-plan](https://education.ec.europa.eu/fr/focus-topics/digital-education/action-plan).
-
-[^DEAP2]: [Oznámenie Komisie o akčnom pláne digitálneho vzdelávania, https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:52018DC0022](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:52018DC0022)
+[^DEAP2]: [Oznámenie Komisie o akčnom pláne digitálneho vzdelávania – https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:52018DC0022](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:52018DC0022)
