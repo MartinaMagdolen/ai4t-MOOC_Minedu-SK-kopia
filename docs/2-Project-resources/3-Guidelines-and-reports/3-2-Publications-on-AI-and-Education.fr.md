@@ -14,47 +14,47 @@ Pri definovaní cieľov projektu AI4T vychádzal jeho realizačný tím zo séri
 
 2023: Príručka ku generatívnej umelej inteligencii vo vzdelávaní a výskume[^Unesco6]
 
-2022: AI a vzdelávanie – kritický pohľad optikou ľudských práv, demokracie a právneho štátu – Rada Európy [^CoE1]
+2022: AI a vzdelávanie – kritický pohľad optikou ľudských práv, demokracie a právneho štátu – Rada Európy[^CoE1]
 
-2021: Etika umelej inteligencie – odporúčanie UNESCO [^Unesco5]
+2021: Etika umelej inteligencie – odporúčanie UNESCO[^Unesco5]
 
-2021: (Nové vydanie) AI Watch – Definícia umelej inteligencie 2.0 - Technická správa Spoločného výskumného centra (JRC) [^Jrc4]
+2021: (Nové vydanie) AI Watch – Definícia umelej inteligencie 2.0 - Technická správa Spoločného výskumného centra (JRC)[^Jrc4]
 
 !!! note
     *Druhé vydanie s cieľom stanoviť operačnú definíciu umelej inteligencie.*
 
-Dôležitý obsah: *Zahŕňa klasifikáciu umelej inteligencie podľa: rodín algoritmov a teoretických modelov, na základe ktorých sú vytvorené; kognitívnych schopností reprodukovaných umelou inteligenciou; a funkcií vykonávaných umelou inteligenciou. AI aplikácie sa dajú zoskupovať aj podľa iných hľadísk, ako je hospodársky sektor, v ktorom sa dané aplikácie využívajú, alebo ich obchodné funkcie.*(pozri ďalej)
+Dôležitý obsah: *Zahŕňa klasifikáciu umelej inteligencie podľa: rodín algoritmov a teoretických modelov, na základe ktorých sú vytvorené; kognitívnych schopností reprodukovaných umelou inteligenciou; a funkcií vykonávaných umelou inteligenciou. AI aplikácie sa dajú zoskupovať aj podľa iných hľadísk, ako je hospodársky sektor, v ktorom sa dané aplikácie využívajú, alebo ich obchodné funkcie.* (pozri ďalej)
 
-2021: AI a vzdelávanie: Príručka pre tvorcov politík – Správa UNESCO [^Unesco4]
+2021: AI a vzdelávanie: Príručka pre tvorcov politík – Správa UNESCO[^Unesco4]
 
-2020: AI Watch – Definícia umelej inteligencie – Technická správa Spoločného výskumného centra [^Jrc3]
+2020: AI Watch – Definícia umelej inteligencie – Technická správa Spoločného výskumného centra[^Jrc3]
 
 !!! note
-    Návrh "*operačnej definície umelej inteligencie, ktorá sa má prijať v rámci AI Watch*".  
-Pozoruhodný obsah: "*Cenným prínosom tejto práce je zhromaždenie definícií vypracovaných v rokoch 1955 až 2019 a syntéza hlavných charakteristík pojmu umelá inteligencia, ako sa odrážajú v príslušnej literatúre.*"
+    Návrh *„operačnej definície umelej inteligencie, ktorá sa má prijať v rámci projektu AI Watch.“*  
+Dôležitý obsah: *„Cenným prínosom tejto práce je zbierka definícií vypracovaných v rokoch 1955 až 2019 a syntéza hlavných charakteristík pojmu umelá inteligencia z príslušnej literatúry.“*
 
-2020 : Umelá inteligencia vo vzdelávaní: zmena rýchlosťou učenia - správa Inštitútu UNESCO pre informačné technológie vo vzdelávaní [^Unesco3].
+2020: AI vo vzdelávaní: Zmena rýchlosťou učenia – správa Inštitútu UNESCO pre informačné technológie vo vzdelávaní[^Unesco3]
 
-2020 : Biela kniha o umelej inteligencii - Európsky prístup k dokonalosti a dôvere - Európska komisia [^Ecwp1].
+2020: Biela kniha o umelej inteligencii – Európsky prístup k excelentnosti a dôvere – Európska komisia[^Ecwp1]
 
-2020 : Nové technológie a učiteľská profesia - Etické a pedagogické úvahy na základe scenárov blízkej budúcnosti - Správa Spoločného výskumného centra [^Jrc2].
-
-!!! abstract "Abstrakt"
-    "*Úlohou scenárov je vnímať budúcnosť ako niečo, čo sa má formovať. Cieľom týchto scenárov blízkej budúcnosti je vyriešiť množstvo problémov, ktoré podľa dnešných pedagógov bránia poskytovaniu kvalitného vzdelávania a odbornej prípravy. Odohrávajú sa v učebniach, prednáškových sálach, školiacich strediskách a digitálnych vzdelávacích prostrediach, kde by sa mohli využívať nové technológie na podporu pedagógov v ich profesii. Hlavné výzvy, ktoré zo scenárov vyplývajú, sa týkajú etických aspektov (napr. rovnováha medzi autonómiou človeka a strojov, dataprojekcia vzdelávania, pedagogické modely) a meniacich sa požiadaviek na zručnosti pedagogických pracovníkov.*"
-
-2019 : Vplyv umelej inteligencie na učenie, vyučovanie a vzdelávanie - správa Spoločného výskumného centra [^Jrc1].
+2020: Nové technológie a učiteľská profesia – Etické a pedagogické úvahy na základe scenárov blízkej budúcnosti – Správa Spoločného výskumného centra[^Jrc2]
 
 !!! abstract "Abstrakt"
-    "Správa, ktorá *opisuje súčasný stav umelej inteligencie (UI) a jej potenciálny vplyv na učenie, vyučovanie a vzdelávanie. Poskytuje koncepčný základ pre dobre informovanú, na politiku zameranú prácu, výskum a činnosti zamerané na budúcnosť, ktoré sa zaoberajú príležitosťami a výzvami vytvorenými nedávnym vývojom v oblasti umelej inteligencie. Správa je určená tvorcom politík, ale poskytuje aj príspevky zaujímavé pre vývojárov technológií AI a výskumníkov, ktorí skúmajú vplyv AI na hospodárstvo, spoločnosť a budúcnosť vzdelávania a učenia.*"
+    *Úlohou scenárov je vnímať budúcnosť ako niečo, čo môžeme formovať. Cieľom týchto scenárov blízkej budúcnosti je vyriešiť množstvo problémov, ktoré podľa dnešných pedagógov bránia poskytovaniu kvalitného vzdelávania a odbornej prípravy. Odohrávajú sa v triedach, prednáškových sálach, školiacich strediskách a digitálnych vzdelávacích prostrediach, kde by sa dali pedagógovia podporovať novými technológiami. Hlavné výzvy, ktoré zo scenárov vyplývajú, sa týkajú etických aspektov (napr. rovnováha medzi autonómiou človeka a strojov, datafikácia vzdelávania, pedagogické modely) a meniacich sa požiadaviek na kompetencie pedagogických pracovníkov.*
+
+2019: Vplyv AI na učenie sa, vyučovanie a vzdelávanie – správa Spoločného výskumného centra[^Jrc1]
+
+!!! abstract "Abstrakt"
+    *Správa opisuje súčasný stav umelej inteligencie (AI) a jej potenciálny vplyv na učenie sa, vyučovanie a vzdelávanie. Poskytuje koncepčný základ pre dobre informovanú, na politiku zameranú prácu, výskum a činnosti zamerané na budúcnosť, ktoré sa zaoberajú príležitosťami a výzvami vytvorenými nedávnym vývojom v oblasti umelej inteligencie. Správa je určená tvorcom politík, ale poskytuje aj príspevky zaujímavé pre vývojárov technológií AI a výskumníkov, ktorí skúmajú vplyv AI na hospodárstvo, spoločnosť a budúcnosť vzdelávania a učenia.*
 
 2019: Pekinský konsenzus o umelej inteligencii a vzdelávaní - UNESCO [^Unesco2]
 
-2019 : Etické usmernenia pre dôveryhodnú umelú inteligenciu - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai2].
+2019: Etické usmernenia pre dôveryhodnú umelú inteligenciu - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai2]
 
 !!! info
     Na základe týchto usmernení vznikol ALTAI: The Assessment List for Trustworthy Artificial Intelligence [^Hlegai3], *praktický nástroj, ktorý pomáha spoločnostiam a organizáciám samostatne posúdiť dôveryhodnosť ich vyvíjaných systémov umelej inteligencie*".
 
-2018 : A Definition Of AI: Main Capabilities And Disciplines (Definícia umelej inteligencie: hlavné schopnosti a disciplíny) - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai1].
+2018 : A Definition Of AI: Main Capabilities And Disciplines (Definícia umelej inteligencie: hlavné schopnosti a disciplíny) - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai1]
 
 !!! info
     "*Tento dokument rozširuje definíciu umelej inteligencie (UI) uvedenú v oznámení Komisie o UI. Objasňujú sa v ňom niektoré aspekty umelej inteligencie ako vednej disciplíny a ako technológie s cieľom predísť nedorozumeniam, dosiahnuť spoločné zdieľané poznatky o umelej inteligencii, ktoré môžu plodne využívať aj nadšenci, ktorí nie sú nadšencami umelej inteligencie, a poskytnúť užitočné podrobnosti, ktoré možno využiť v diskusii o etických usmerneniach a politických odporúčaniach v oblasti umelej inteligencie.*"
