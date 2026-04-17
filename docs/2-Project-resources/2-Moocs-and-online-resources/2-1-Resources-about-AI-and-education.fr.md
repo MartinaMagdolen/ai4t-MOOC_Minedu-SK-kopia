@@ -44,7 +44,7 @@ Téma umelej inteligencie je natoľko fascinujúca, že sa jej venuje množstvo 
 
 ### 1. To je AI
 **Pôvodný názov:** *That's AI*    <br><br>
-    - **Autori**: Ecole Polytechnique de Lausanne. EPFL poskytuje online výučbu aplikovaných digitálnych zručností. Sme presvedčení, že každý by mal získať digitálne vedomosti a zručnosti, aby mohol naplno využívať možnosti dnešného sveta.  
+    - **Autori**: Ecole Polytechnique de Lausanne (EPFL). EPFL poskytuje online výučbu aplikovaných digitálnych zručností. Sme presvedčení, že každý by mal získať digitálne vedomosti a zručnosti, aby mohol naplno využívať možnosti dnešného sveta.  
     - **Informácie o zdroji**: *Tento kurz je vaším úvodom do najvýznamnejšieho technologického vývoja na svete. Zistite, ako AI mení všetko okolo nás, a naučte sa, ako sa stať aktívnym účastníkom tohto vzrušujúceho nového sveta.*  
     - **Jazyky**: DE, EN, FR  
     - **Registrácia**: bezplatná  
