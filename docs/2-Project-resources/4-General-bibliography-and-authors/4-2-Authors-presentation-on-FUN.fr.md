@@ -8,7 +8,7 @@ popis: "Slovenská verzia"
 - Prístup: FUN-MOOC
 
 # Kto prispel k tomuto kurzu?
-Ako vidno na zozname prispievateľov uvedenom nižšie, tento MOOC kurz je kolektívnym dielom. Je výsledkom práce urobenej v rámci európskeho projektu AI4T a obsahuje aj zdroje z MOOC kurzu *L'Intelligence Artificielle... avec intelligence!*.
+Ako vidno na zozname prispievateľov uvedenom nižšie, tento MOOC kurz je kolektívnym dielom. Je výsledkom práce vynaloženej v rámci európskeho projektu AI4T a obsahuje aj zdroje z MOOC kurzu *L'Intelligence Artificielle... avec intelligence!*.
 Pri jeho príprave sme využili aj príspevky a odborné znalosti partnerov zapojených do projektu.
 Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du numérique pour l'éducation (MENJ/<a href="https://edunumrech.hypotheses.org/author/dnetn2">DNE-TN2</a>) pri tvorbe tohto kurzu.
 
@@ -63,7 +63,7 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
             <td style="border: none; vertical-align: middle;">
 
                <strong>Jiajun PAN</strong><br/>
-                Jiajun PAN je postdoktorandský výskumný pracovník na Lotrinskej univerzite. Jeho práca v laboratóriu LORIA sa zameriava na strojové učenie a prieskum údajov. Podieľa sa na výskume prepojenia medzi osobnými črtami študentov a ich skúsenosťami s učením.
+                Jiajun PAN je postdoktorandský výskumný pracovník na Lotrinskej univerzite. Jeho práca v laboratóriu LORIA sa zameriava na strojové učenie a prieskum dát. Podieľa sa na výskume prepojenia medzi osobnými črtami študentov a ich skúsenosťami s učením.
             </td>
 
         </tr>
@@ -75,7 +75,7 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
             <td style="border: none; vertical-align: middle;">
 
                <strong>Daniela HAU</strong><br/>
-                Daniela HAU vedie oddelenie inovácií na luxemburskom ministerstve školstva, členka pracovnej skupiny ET2020: Digitálne vzdelávanie, učenie sa, vyučovanie a hodnotenie, ako aj členka európskej expertnej skupiny pre mediálnu výchovu. Podieľa sa na pilotných štúdiách a terénnom výskume digitálnych inovácií aplikovaných v triede (napr. umelá inteligencia, učenie sa založené na digitálnych hrách, VR/AR technológie).
+                Daniela HAU vedie oddelenie inovácií na luxemburskom ministerstve školstva, je členkou pracovnej skupiny ET2020: Digitálne vzdelávanie, učenie sa, vyučovanie a hodnotenie, ako aj členkou európskej expertnej skupiny pre mediálnu výchovu. Podieľa sa na pilotných štúdiách a terénnom výskume digitálnych inovácií aplikovaných v triede (napr. umelá inteligencia, učenie sa založené na digitálnych hrách, VR/AR technológie).
             </td>
 
         </tr>
@@ -87,7 +87,7 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
             <td style="border: none; vertical-align: middle;">
 
                <strong>Claude REUTER</strong><br/>
-                Claude REUTER je vedúci projektový manažér na oddelení inovácií na luxemburskom ministerstve školstva. Realizuje pilotné štúdie a terénny výskum digitálnych inovácií aplikovaných v triedach (napr. počítačové myslenie, programovanie, dátová gramotnosť). Je členom pracovnej skupiny ICWG siete EU SchoolNet.
+                Claude REUTER je vedúci projektový manažér na oddelení inovácií na luxemburskom ministerstve školstva. Realizuje pilotné štúdie a terénny výskum digitálnych inovácií aplikovaných v triedach (napr. počítačové myslenie, programovanie, dátová gramotnosť). Je členom pracovnej skupiny ICWG v rámci siete EU SchoolNet.
             </td>
 
         </tr>
@@ -99,7 +99,7 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
             <td style="border: none; vertical-align: middle;">
 
                <strong>Nicolas ROUGIER</strong><br/>
-                Nicolas ROUGIER je výskumný riaditeľ v organizácii Inria a pôsobí v Inštitúte neurodegeneratívnych ochorení v Bordeaux, kde vedie tím výpočtovej neurovedy.
+                Nicolas ROUGIER je výskumný riaditeľ v organizácii Inria a zároveň pôsobí aj v Inštitúte neurodegeneratívnych ochorení v Bordeaux, kde vedie tím výpočtovej neurovedy.
 
             </td>
 
