@@ -45,27 +45,27 @@ Dôležitý obsah: *„Cenným prínosom tejto práce je zbierka definícií vyp
 2019: Vplyv AI na učenie sa, vyučovanie a vzdelávanie – správa Spoločného výskumného centra[^Jrc1]
 
 !!! abstract "Abstrakt"
-    *Správa opisuje súčasný stav umelej inteligencie (AI) a jej potenciálny vplyv na učenie sa, vyučovanie a vzdelávanie. Poskytuje koncepčný základ pre dobre informovanú, na politiku zameranú prácu, výskum a činnosti zamerané na budúcnosť, ktoré sa zaoberajú príležitosťami a výzvami vytvorenými nedávnym vývojom v oblasti umelej inteligencie. Správa je určená tvorcom politík, ale poskytuje aj príspevky zaujímavé pre vývojárov technológií AI a výskumníkov, ktorí skúmajú vplyv AI na hospodárstvo, spoločnosť a budúcnosť vzdelávania a učenia.*
+    *Správa opisuje súčasný stav umelej inteligencie (AI) a jej potenciálny vplyv na učenie sa, vyučovanie a vzdelávanie. Poskytuje koncepčný základ pre dobre informovanú prácu v oblasti verejných politík, pre výskum a pre činnosti zamerané na budúcnosť, zaoberajúce sapríležitosťami a výzvami, ktoré priniesol najnovší vývoj v oblasti umelej inteligencie. Správa je určená tvorcom politík, no prináša aj poznatky zaujímavé pre vývojárov AI technológií a výskumníkov, ktorí skúmajú vplyv umelej inteligencie na ekonomiku, spoločnosť a budúcnosť vzdelávania a učenia.*
 
-2019: Pekinský konsenzus o umelej inteligencii a vzdelávaní - UNESCO [^Unesco2]
+2019: Pekinský konsenzus o umelej inteligencii a vzdelávaní – UNESCO[^Unesco2]
 
-2019: Etické usmernenia pre dôveryhodnú umelú inteligenciu - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai2]
-
-!!! info
-    Na základe týchto usmernení vznikol ALTAI: The Assessment List for Trustworthy Artificial Intelligence [^Hlegai3], *praktický nástroj, ktorý pomáha spoločnostiam a organizáciám samostatne posúdiť dôveryhodnosť ich vyvíjaných systémov umelej inteligencie*".
-
-2018 : A Definition Of AI: Main Capabilities And Disciplines (Definícia umelej inteligencie: hlavné schopnosti a disciplíny) - správa skupiny expertov na vysokej úrovni pre umelú inteligenciu [^Hlegai1]
+2019: Etické usmernenia pre dôveryhodnú umelú inteligenciu – správa Expertnej skupiny na vysokej úrovni pre umelú inteligenciu[^Hlegai2]
 
 !!! info
-    "*Tento dokument rozširuje definíciu umelej inteligencie (UI) uvedenú v oznámení Komisie o UI. Objasňujú sa v ňom niektoré aspekty umelej inteligencie ako vednej disciplíny a ako technológie s cieľom predísť nedorozumeniam, dosiahnuť spoločné zdieľané poznatky o umelej inteligencii, ktoré môžu plodne využívať aj nadšenci, ktorí nie sú nadšencami umelej inteligencie, a poskytnúť užitočné podrobnosti, ktoré možno využiť v diskusii o etických usmerneniach a politických odporúčaniach v oblasti umelej inteligencie.*"
+    Na základe týchto usmernení vznikol nástroj ALTAI: Hodnotiaci zoznam pre dôveryhodnú umelú inteligenciu.[^Hlegai3] Ide o *praktický nástroj, ktorý pomáha podnikom a organizáciám samostatne posúdiť dôveryhodnosť AI systémov, ktoré vyvíjajú.“*
 
-## Niektoré informácie o zdrojoch
+2018: Definícia umelej inteligencie: hlavné schopnosti a disciplíny – Správa Expertnej skupiny na vysokej úrovni pre umelú inteligenciu[^Hlegai1]
 
-??? "Skupina expertov na vysokej úrovni pre umelú inteligenciu[^Hlegai4]"
-    "*Skupina odborníkov vymenovaná Európskou komisiou, aby poskytovala poradenstvo v súvislosti s jej stratégiou v oblasti umelej inteligencie.*"
+!!! info
+    *„Tento dokument rozširuje definíciu umelej inteligencie (AI) definovanú v oznámení Komisie o umelej inteligencii. Objasňuje určité aspekty umelej inteligencie ako vednej disciplíny a technológie. Jeho cieľom je predísť nedorozumeniam, dosiahnuť spoločné zdieľané poznatky o umelej inteligencii (ktoré budú môcť úspešne využívať aj experti mimo oblasti umelej inteligencie) a poskytnúť užitočné detaily pre diskusiu o etických usmerneniach a politických odporúčaniach v oblasti umelej inteligencie.“*
+
+## Informácie o zdrojoch
+
+??? Expertná skupina na vysokej úrovni pre umelú inteligenciu[^Hlegai4]"
+    *„Skupina odborníkov vymenovaná Európskou komisiou, ktorej cieľom je poskytovať poradenstvo v súvislosti so stratégiou EK oblasti umelej inteligencie.“*
 
 
-??? "UNESCO - Organizácia Spojených národov pre vzdelávanie, vedu a kultúru"
+??? UNESCO – Organizácia Spojených národov pre vzdelávanie, vedu a kultúru
     - *UNESCO sa zaviazalo využiť potenciál technológií umelej inteligencie na dosiahnutie cieľov Agendy 2030 pre vzdelávanie a zároveň zabezpečiť, aby sa jej uplatňovanie vo vzdelávacom kontexte riadilo základnými zásadami inklúzie a spravodlivosti*."
     - UNESCO IITE** [^Unesco1] - Inštitút pre informačné technológie vo vzdelávaní
     "Poslaním IITE je podporovať inovatívne využívanie informačných a komunikačných technológií a slúžiť ako sprostredkovateľ a katalyzátor na dosiahnutie cieľa 4 trvalo udržateľného rozvoja (SDG 4) prostredníctvom riešení a osvedčených postupov založených na IKT.
