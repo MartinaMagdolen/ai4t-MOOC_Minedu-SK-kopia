@@ -3,8 +3,8 @@ názov: Bibliografia k téme umelej inteligencie a vzdelávania – 2023
 popis: Bibliografia k téme umelej inteligencie a vzdelávania od francúzskeho ministerstva školstva
 ---
 ??? info " Informácie o bibliografii "
-    - Pridané: 15. novembra 2023
-    - Zdroj: Éducation, numérique et recherche: Veille et diffusion des travaux de recherche sur le numérique dans l’éducation (DNE/TN2).
+    - Pridané: 15. novembra 2023  
+    - Zdroj: Éducation, numérique et recherche: Veille et diffusion des travaux de recherche sur le numérique dans l’éducation (DNE/TN2).  
     - Prístup: Hypothèses,  Platforma OpenEdition pre výskumné blogy v oblasti humanitných a spoločenských vied
 
 # Bibliografia k téme umelej inteligencie a vzdelávania
