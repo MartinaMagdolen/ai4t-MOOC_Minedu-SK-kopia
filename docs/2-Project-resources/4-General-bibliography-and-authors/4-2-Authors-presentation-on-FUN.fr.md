@@ -1,6 +1,6 @@
 ---
-title: "MOOC – Kto sa podieľal na tvorbe kurzu?"
-description: "Slovenská verzia"
+názov: "MOOC – Kto sa podieľal na tvorbe kurzu?"
+popis: "Slovenská verzia"
 ---
 ??? info "Informácie o prezentácii autorov"
 - Pridané: 14. decembra 2023
@@ -75,7 +75,7 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
             <td style="border: none; vertical-align: middle;">
 
                <strong>Daniela HAU</strong><br/>
-                Daniela HAU vedie oddelenie inovácií na luxembruskom ministerstve školstva, členka pracovnej skupiny ET2020: Digitálne vzdelávanie, učenie sa, vyučovanie a hodnotenie, ako aj členka európskej expertnej skupiny pre mediálnu výchovu. Podieľa sa na pilotných štúdiách a terénnom výskue digitálnych inovácií aplikovaných v triede (napr. umelá inteligencia, učenie sa založené na digitálnych hrách, VR/AR technológie).
+                Daniela HAU vedie oddelenie inovácií na luxemburskom ministerstve školstva, členka pracovnej skupiny ET2020: Digitálne vzdelávanie, učenie sa, vyučovanie a hodnotenie, ako aj členka európskej expertnej skupiny pre mediálnu výchovu. Podieľa sa na pilotných štúdiách a terénnom výskume digitálnych inovácií aplikovaných v triede (napr. umelá inteligencia, učenie sa založené na digitálnych hrách, VR/AR technológie).
             </td>
 
         </tr>
@@ -141,4 +141,4 @@ Na záver by sme chceli vyzdvihnúť podporu a vedenie organizácie Direction du
 ## Technický tím
 
 * Laurence FARHI, inžinier vzdelávania vo vzdelávacom laboratóriu organizácie Inria
-* Benoit ROSPARS, vývojár vo vzdelávacom laboratóriu organizácie Inria, zodpovedajúci za zriadenie portálu zdrojov na Githube a za proces prekladania a revízie obsahu.
+* Benoit ROSPARS, vývojár vo vzdelávacom laboratóriu organizácie Inria, zodpovedajúci za zriadenie portálu zdrojov na GitHube a za proces prekladania a revízie obsahu.
