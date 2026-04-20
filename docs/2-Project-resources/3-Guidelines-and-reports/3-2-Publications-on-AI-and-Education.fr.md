@@ -61,25 +61,25 @@ Dôležitý obsah: *„Cenným prínosom tejto práce je zbierka definícií vyp
 
 ## Informácie o zdrojoch
 
-??? Expertná skupina na vysokej úrovni pre umelú inteligenciu[^Hlegai4]"
+??? "Expertná skupina na vysokej úrovni pre umelú inteligenciu[^Hlegai4]"
     *„Skupina odborníkov vymenovaná Európskou komisiou, ktorej cieľom je poskytovať poradenstvo v súvislosti so stratégiou EK oblasti umelej inteligencie.“*
 
 
-??? UNESCO – Organizácia Spojených národov pre vzdelávanie, vedu a kultúru
-    - *UNESCO sa zaviazalo využiť potenciál technológií umelej inteligencie na dosiahnutie cieľov Agendy 2030 pre vzdelávanie a zároveň zabezpečiť, aby sa jej uplatňovanie vo vzdelávacom kontexte riadilo základnými zásadami inklúzie a spravodlivosti*."
-    - UNESCO IITE** [^Unesco1] - Inštitút pre informačné technológie vo vzdelávaní
-    "Poslaním IITE je podporovať inovatívne využívanie informačných a komunikačných technológií a slúžiť ako sprostredkovateľ a katalyzátor na dosiahnutie cieľa 4 trvalo udržateľného rozvoja (SDG 4) prostredníctvom riešení a osvedčených postupov založených na IKT.
+??? "UNESCO – Organizácia Spojených národov pre vzdelávanie, vedu a kultúru"
+    - *UNESCO sa zaviazalo využiť potenciál AI technológií s cieľom dosiahnuť ciele Agendy 2030 v oblasti vzdelávania a zároveň zabezpečiť, aby sa jej uplatňovanie vo vzdelávacom kontexte riadilo základnými zásadami inklúzie a spravodlivosti.“*
+    - **UNESCO IITE**[^Unesco1] – Inštitút pre informačné technológie vo vzdelávaní
+    *„Poslaním IITE je podporovať inovatívne využívanie IKT a slúžiť ako sprostredkovateľ a katalyzátor pri dosiahovaní cieľa trvalo udržateľného rozvoja č. 4 (SDG 4) prostredníctvom riešení a osvedčených postupov založených na IKT.“*
 
 
 ??? "OECD - Organizácia pre hospodársku spoluprácu a rozvoj"
-    - OECD je "medzinárodná organizácia, ktorá pracuje na lepších politikách pre [lepší život](http://www.oecdbetterlifeindex.org/)*". Jej "*cieľom je formovať politiky, ktoré podporujú prosperitu, rovnosť, príležitosti a blahobyt pre všetkých*".
-    - OECD Artificial Intelligence [^Oecd1]: "*poskytuje multidisciplinárne údaje a analýzy o umelej inteligencii. "* Jej "*rozmanitá globálna komunita partnerov robí z tejto platformy jedinečný zdroj informácií a dialógu o umelej inteligencii.*"
-    - OECD vykonáva širokú škálu činností súvisiacich s umelou inteligenciou. Tieto aktivity siahajú od perspektívnej analýzy účinkov umelej inteligencie na trh práce[^Oecd2] až po odporúčania pre rozvoj dôveryhodnej umelej inteligencie[^Oecd3]. Stránka ponúka aj širokú škálu nadväzujúcich činností týkajúcich sa UI a všetkých oblastí verejnej politiky na celom svete[^Oecd4].
-    - Vzdelávanie**: OECD zostavuje množstvo správ a súborov údajov týkajúcich sa vzdelávania. Ponúka tiež možnosť prezrieť si "*trendy v reálnom čase o tom, kde, ako a ako rýchlo sa vyvíja a používa UI*" vo vzdelávaní[^Oecd5].
+    - *OECD je „medzinárodná organizácia, ktorá pracuje na budovaní lepších politík pre [lepší život](http://www.oecdbetterlifeindex.org/).“* Jej cieľom je *„formovať politiky, ktoré podporujú prosperitu, rovnosť, príležitosti a blahobyt pre všetkých.“*
+    - Observatórium OECD.AI:[^Oecd1] *„poskytuje multidisciplinárne údaje a analýzy o umelej inteligencii.“* Vďaka *„rozmaniteh globálnej komunite partnerov je táto platforma jedinečným zdrojom informácií a dialógu o umelej inteligencii.“*
+    - OECD realizuje širokú škálu aktivít súvisiacich s umelou inteligenciou: od prognostických analýz vplyvu AI na trh práce[^Oecd2] až po odporúčania pre vývoj dôveryhodnej umelej inteligencie.[^Oecd3] Portál ponúka aj výstupy rozsiahlej monitorovaciej činnosti v oblasti umelej inteligencie a všetkých sférach verejnej politiky po celom svete.[^Oecd4]
+    - **Vzdelávanie**: OECD zostavuje množstvo správ a dátových súborov z oblasti vzdelávania. Ponúka tiež možnosť vizualizovať si *„aktuálne trendy týkajúce sa toho, kde, ako a akým tempom sa vyvíja a používa umelá inteligencia“* vo vzdelávaní[^Oecd5].
 
 
 ??? "Rada Európy"
-      Rada Európy a umelá inteligencia** [^CoE2] vedie mnohé činnosti Výboru pre umelú inteligenciu (CAI) [^CoE3] v oblasti umelej inteligencie pod názvom "Smerom k uplatňovaniu umelej inteligencie na základe ľudských práv, právneho štátu a demokracie "* [^CoE1].
+      Iniciatíva **Rada Európy a umelá inteligencia**[^CoE2] zastrešuje množstvo aktivít vedených Výborom pre umelú inteligenciu (CAI)[^CoE3]. Tieto aktivity sú zoskupené pod hlavičkou *„Smerom k uplatňovaniu umelej inteligencie na základe ľudských práv, právneho štátu a demokracie“*.[^CoE1]
 
 [^Unesco6]: [Usmernenia pre generatívnu UI vo vzdelávaní a výskume](https://unesdoc.unesco.org/ark:/48223/pf0000386693.locale=fr)
 [^CoE1]: [Umelá inteligencia a vzdelávanie - kritický pohľad cez prizmu ľudských práv, demokracie a právneho štátu - Rada Európy, https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd](https://rm.coe.int/artificial-intelligence-and-education-a-critical-view-through-the-lens/1680a886bd)
