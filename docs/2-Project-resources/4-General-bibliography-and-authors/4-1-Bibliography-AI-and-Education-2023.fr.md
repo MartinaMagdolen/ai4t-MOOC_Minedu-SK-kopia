@@ -10,7 +10,7 @@ popis: Bibliografia k téme umelej inteligencie a vzdelávania od francúzskeho
 # Bibliografia k téme umelej inteligencie a vzdelávania
 
 Organizácia Direction du numérique pour l'éducation (DNE-TN2) vydala výber bibliografie k téme umelej inteligencie a vzdelávania, ku ktorej doplnila nasledujúci predslov: 
-„Tento výber predstavuje nevyhnutne čiastkovú a veľmi selektívnu reflexiu obnoveného vedecko-pedagogického skúmania, ktorá nasledovalo. Prirodzene, neprezentuje sa ako úplná a bude sa aktualizovať v závislosti od vývoja technológií, postupov a práce tematických digitálnych skupín (GTnum), ktoré koordinuje organizácia Direction du numérique pour l'éducation.“
+*„Tento výber bibliografie predstavuje nevyhnutne čiastkovú a veľmi selektívnu reflexiu obnoveného vedecko-pedagogického skúmania, ktorá nasledovalo. Prirodzene, neprezentuje sa ako úplný a bude sa aktualizovať v závislosti od vývoja technológií, postupov a práce tematických digitálnych skupín (GTnum), ktoré koordinuje organizácia Direction du numérique pour l'éducation.“*
 
 Bibliografia je dostupná na platforme *Hypothèses*: [IA et éducation](https://edunumrech.hypotheses.org/10113)
 
