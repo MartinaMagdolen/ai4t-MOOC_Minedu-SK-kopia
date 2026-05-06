@@ -290,7 +290,7 @@ plugins:
       languages:
         - locale: en
           name: English
-          build: false
+          build: true
         - locale: fr
           name: Français
           site_name: "L'intelligence artificielle pour et par les enseignants"
