@@ -285,24 +285,25 @@ plugins:
       glob: # Cacher des fichiers en mettant le chemin complet depuis "docs/[...]"
         - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-2-changes-introduced-by-expert-the-use-of-digital-technologies.en.md"
         - "1-Mooc/module-1-using-AI-and-Education/1-3-AI-challenges-and-competencies-for-education/1-3-3-some-practices-tools-and-feedbacks.en.md"
-  - i18n:
+    - i18n:
       default_language: en
       languages:
-        en:
+        - locale: en
           name: English
           build: false
-        fr:
+        - locale: fr
           name: Français
           site_name: "L'intelligence artificielle pour et par les enseignants"
-        it:
+        - locale: it
           name: Italiano
           site_name: "Intelligenza artificiale per e dagli insegnanti"
-        de:
+        - locale: de
           name: Deutsch
           site_name: "Künstliche Intelligenz für und durch Lehrer"
-        sl:
+        - locale: sl
           name: Slovenščina
-          site_name: "Umetna inteligenca za učitelje in za učitelje"
+          site_name: "Umetna inteligenca za učitelje in za učitelje"- i18n:
+      default_language: en
       # Traductions manquantes dans la navigation
       nav_translations:
         fr:
