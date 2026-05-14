@@ -1,5 +1,5 @@
 ---
-názov: Replay
+názov: Záznam
 popis: Prístup k záznamu 
 ---
 
