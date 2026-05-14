@@ -8,7 +8,7 @@ popis: Webinár č. 1 – pozadie a ciele
 
 Prvý webinár sa uskutočnil 31. januára 2024.
 
-Bol venovaný téme *AI vo vzdelávaní: spätná väzba a perspektívy*.
+Bol venovaný téme *Využívanie AI vo vzdelávaní: spätná väzba a vyhliadky*.
 
 K dispozícii je online:
 
