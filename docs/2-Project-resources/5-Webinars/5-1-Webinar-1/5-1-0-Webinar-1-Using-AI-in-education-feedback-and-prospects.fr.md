@@ -1,6 +1,6 @@
 ---
-názov: Úvod
-popis: Webinár č. 1: kontext a ciele
+title: "Úvod"
+description: "Webinár č. 1: kontext a ciele"
 ---
 
 
