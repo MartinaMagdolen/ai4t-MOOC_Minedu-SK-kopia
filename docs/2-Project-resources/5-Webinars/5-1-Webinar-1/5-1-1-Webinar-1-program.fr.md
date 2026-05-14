@@ -13,7 +13,7 @@ Dňa 31. januára 2024 zorganizoval pedagogický tím MOOC kurzu svoj prvý webi
 Thierry je výskumný pracovník v oblasti počítačovej neurovedy, ktorý v rámci organizácie Inria pracuje v tíme Mnemosyne. Okrem toho je aj *člen výučbového tímu MOOC kurzu AI4T*.
 
 ### AI, využitie a vzdelávanie: Axel JEAN
-Axel je vedúci kancelárie na podporu digitálnych inovácií a aplikovaného výskumu (TN2 DN a MENJ). Okrem toho je aj *člen výučbového tímu MOOC kurzu AI4T*.
+Axel je vedúci Úradu na podporu digitálnych inovácií a aplikovaného výskumu (DNE-TN2) na francúzskom ministerstve školstva. Okrem toho je aj *člen výučbového tímu MOOC kurzu AI4T*.
 
 ### AI pre personalizované vzdelávanie: Pierre-Yves OUDEYER
 Pierre-Yves pracuje výskumník v oblasti umelej inteligencie, strojového učenia a kognitívnej vedy v organizácii Inria a vedecký poradca v spoločnosti EvidenceB.
