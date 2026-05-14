@@ -8,9 +8,9 @@ popis: Prístup k prezentáciám
 Všetky prezentácie použité počas webinára sú k dispozícii nižšie: 
 
 ### AI, jej využitie a vzdelávanie: Axel JEAN
-Prístup k prezentácii: <a href="Documents/intelligence-artificielle-pour-et-par-les-enseignants_axel-jean-ia_et_education.pdf" target="_blank">AI, jej využitie a vzdelávanie</a>.
+Prístup k prezentácii: <a href="Documents/intelligence-artificielle-pour-et-par-les-enseignants_axel-jean-ia_et_education.pdf" target="_blank">AI, jej využitie a vzdelávanie</a>
 
-### AI pre personalizované vzdelávanie: Pierre-Yves OUDEYER (Umelá inteligencia pre personalizované vzdelávanie).
+### AI pre personalizované vzdelávanie: Pierre-Yves OUDEYER (Umelá inteligencia pre personalizované vzdelávanie)
 Prístup k prezentácii: [AI pre personalizované vzdelávanie](Documents/artificial-intelligence-for-and-by-teachers_pierre-yves-oudeyer-ia_curiosite_and_education.pdf)
 
 ### AI, kreativita a vzdelávanie: Margarida ROMERO
