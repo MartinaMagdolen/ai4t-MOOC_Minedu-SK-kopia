@@ -3,7 +3,7 @@ title: Duolinguo for Schools
 description: Tool used during the experimentation (France)
 ---
 
-The AI4T consortium has identified ["Duolingo for Schools"](https://schools.duolingo.com/){:target="_blank"} as a relevant AI tool to be experimented by teachers during the project.
+The AI4T consortium has identified https://schools.duolingo.com/{:target="_blank"} as a relevant AI tool to be experimented by teachers during the project.
 
 It's a learning language App, for sure. And, as an AI Educational Resource, it raises questions that are relevant across disciplines.
 
